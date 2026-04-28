@@ -1,6 +1,6 @@
-# NSW-M Lab 实验室主页
+# NSWM-Lab 实验室主页
 
-欢迎来到 NSW-M Lab！
+欢迎来到 NSWM-Lab！
 
 ## 🔬 研究方向
 - 研究方向1：
