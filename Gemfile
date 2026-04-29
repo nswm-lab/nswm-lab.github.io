@@ -16,7 +16,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# 注释掉不兼容的wdm，解决Windows编译报错
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -24,4 +25,17 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+end
+
+# 主题依赖
+gem "minima"
+
+# 修复 Ruby 4.0 缺失的依赖库
+gem "csv"
+gem "bigdecimal"
+
+# Windows 系统 时区修复（必备！）
+platforms :mingw, :x64_mingw, :mswin do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
 end
