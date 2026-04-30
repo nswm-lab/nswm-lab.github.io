@@ -834,6 +834,131 @@ body {
   line-height: 1.45;
 }
 
+/* ─── MORE PAPERS GRID ─── */
+.lab-papers-section { margin-top: 2.5rem; }
+.lab-papers-section-title {
+  font-size: 1rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #14b8a6;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.lab-papers-intro {
+  font-size: 0.82rem;
+  color: #334155;
+  line-height: 1.85;
+  margin-bottom: 1.4rem;
+  padding: 1rem 1.2rem;
+  background: linear-gradient(135deg, #f0fdfa, #f8fafc);
+  border-left: 3px solid #14b8a6;
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+.lab-papers-intro strong {
+  color: #0d9488;
+  font-weight: 700;
+}
+.lab-papers-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.4rem;
+}
+.lab-paper-card {
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: all 0.35s;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 20px rgba(0,0,0,0.06);
+}
+.lab-paper-card:hover {
+  border-color: #14b8a6;
+  box-shadow: 0 8px 30px rgba(13,148,136,0.15), 0 1px 3px rgba(0,0,0,0.08);
+  transform: translateY(-4px);
+}
+.lab-paper-card-fig {
+  width: 100%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: #f1f5f9;
+  border-bottom: 2px solid #e2e8f0;
+}
+.lab-paper-card-fig img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #fff;
+  display: block;
+}
+.lab-paper-card-body {
+  padding: 1rem 1.15rem;
+}
+.lab-paper-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+.lab-paper-card-tag {
+  font-size: 0.62rem;
+  font-weight: 700;
+  padding: 0.1rem 0.45rem;
+  border-radius: 50px;
+  color: #fff;
+  letter-spacing: 0.02em;
+}
+.lab-paper-card-tag.venue-ndss { background: #dc2626; }
+.lab-paper-card-tag.venue-cvpr { background: #7c3aed; }
+.lab-paper-card-tag.venue-acl { background: #2563eb; }
+.lab-paper-card-tag.venue-neurips { background: #059669; }
+.lab-paper-card-tag.venue-iclr { background: #d97706; }
+.lab-paper-card-tag.venue-tnnls { background: #be185d; }
+.lab-paper-card-title {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #0f172a;
+  line-height: 1.45;
+  margin-bottom: 0.35rem;
+}
+.lab-paper-card-authors {
+  font-size: 0.72rem;
+  color: #64748b;
+  margin-bottom: 0.55rem;
+}
+.lab-paper-card-desc {
+  font-size: 0.75rem;
+  color: #334155;
+  line-height: 1.75;
+  margin-bottom: 0.6rem;
+}
+.lab-paper-card-links {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.lab-paper-card-links a {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.2rem 0.6rem;
+  border-radius: 50px;
+  background: rgba(13,148,136,0.08);
+  color: #0d9488;
+  text-decoration: none;
+  transition: all 0.25s;
+  white-space: nowrap;
+  border: 1px solid rgba(13,148,136,0.15);
+}
+.lab-paper-card-links a:hover {
+  background: rgba(13,148,136,0.18);
+  border-color: rgba(13,148,136,0.35);
+}
+@media (max-width: 1024px) {
+  .lab-papers-grid { grid-template-columns: 1fr; }
+}
+
 /* ─── RESEARCH DIRECTIONS ─── */
 .lab-directions-grid {
   display: grid;
@@ -1191,15 +1316,15 @@ body {
     <!-- Left: Native Secure World Model Concept -->
     <div class="lab-about-concept" style="padding:3rem 2.5rem;">
       <div class="lab-concept-tag">🔐 全球首创 · 首创者</div>
-      <h2 class="lab-concept-title" style="font-size:1.6rem;">原生安全世界模型<br><span style="color:#5eead4;">Native Secure World Model</span></h2>
+      <h2 class="lab-concept-title" style="font-size:1.6rem;">原生安全世界模型<br><span style="color:#0d9488;">Native Secure World Model</span></h2>
       <p class="lab-concept-text">
         传统 AI 安全方案多采用"外挂式"防护——在模型训练完成后额外叠加安全过滤层。这种方式不仅治标不治本，更在高风险、长周期交互场景中暴露根本性缺陷。
       </p>
       <p class="lab-concept-text">
-        <strong style="color:#5eead4;">原生安全世界模型</strong>由周潘教授在全球范围内首次提出，核心理念是：
+        <strong style="color:#0d9488;">原生安全世界模型</strong>由周潘教授在全球范围内首次提出，核心理念是：
       </p>
       <p class="lab-concept-text">
-        将安全约束作为一等公民内生融入世界建模全过程，使模型在预测物理环境演化与智能体行为后果的同时，同步构建<strong style="color:#5eead4;">风险识别、违规检测、危险因果链阻断</strong>三大原生安全能力。
+        将安全约束作为一等公民内生融入世界建模全过程，使模型在预测物理环境演化与智能体行为后果的同时，同步构建<strong style="color:#0d9488;">风险识别、违规检测、危险因果链阻断</strong>三大原生安全能力。
       </p>
       <div class="lab-concept-highlight">
         ⚡ <strong>为何重要：</strong>具身智能、自动驾驶、机器人控制、LLM Agent 等系统需在真实或高风险环境中长期交互，每一步行为都关乎安全责任——必须从"基因"层面内置安全，而非事后打补丁。
@@ -1649,6 +1774,151 @@ body {
               <div class="lab-badvla-demo-card-desc">Pick Object · 触发器激活</div>
             </div>
           </div>
+        </div>
+      </div>
+
+      <!-- More Representative Papers -->
+      <div class="lab-papers-section">
+        <div class="lab-papers-section-title">📚 更多代表性成果</div>
+        <div class="lab-papers-intro">
+          构建原生安全世界模型（Native Secure World Model）不仅需要前瞻性的理念，更需要扎实的研究成果作为支撑。以下精选了实验室在 <strong>2025–2026 年间发表于顶级会议和期刊的代表性工作</strong>，涵盖 Agent 安全、多模态模型后门、可迁移对抗攻击、模型供应链安全以及世界理解评测基准等方向——这些成果从不同维度揭示了当前 AI 系统在感知、推理和执行层面的安全隐患，并为"安全必须内建于世界模型"这一核心论点提供了<strong>系统性的实证基础</strong>。
+        </div>
+        <div class="lab-papers-grid">
+
+          <!-- Paper 1: ToolHijacker (NDSS 2026) -->
+          <div class="lab-paper-card">
+            <div class="lab-paper-card-fig">
+              <img src="/images/papers/toolhijacker_fig1.png" alt="ToolHijacker: Prompt Injection Attack to Tool Selection in LLM Agents" loading="lazy" />
+            </div>
+            <div class="lab-paper-card-body">
+              <div class="lab-paper-card-tags">
+                <span class="lab-paper-card-tag venue-ndss">NDSS 2026</span>
+                <span class="lab-paper-card-tag" style="background:#94a3b8;">Agent 安全</span>
+              </div>
+              <div class="lab-paper-card-title">Prompt Injection Attack to Tool Selection in LLM Agents</div>
+              <div class="lab-paper-card-authors">J. Shi et al., <span style="color:#0d9488;">Pan Zhou</span></div>
+              <div class="lab-paper-card-desc">
+                提出 <strong style="color:#0d9488;">ToolHijacker</strong>，首次系统化研究针对 LLM Agent 工具选择的提示注入攻击。攻击者通过构造恶意工具描述，劫持 Agent 的工具调用决策，实现对真实世界 API 的未授权访问。Agent 通过工具与世界交互，工具选择被劫持等同于<strong>世界模型对外部行动接口的信任链被打破</strong>——直接威胁原生安全世界模型的执行层安全。
+              </div>
+              <div class="lab-paper-card-links">
+                <a href="https://arxiv.org/abs/2504.19793" target="_blank">📄 arXiv</a>
+                <a href="https://www.ndss-symposium.org/ndss-paper/prompt-injection-attack-to-tool-selection-in-llm-agents/" target="_blank">🌐 NDSS</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Paper 2: BadToken (CVPR 2025) -->
+          <div class="lab-paper-card">
+            <div class="lab-paper-card-fig">
+              <img src="/images/papers/badtoken_fig2.png" alt="BadToken: Token-level Backdoor Attacks to MLLMs" loading="lazy" />
+            </div>
+            <div class="lab-paper-card-body">
+              <div class="lab-paper-card-tags">
+                <span class="lab-paper-card-tag venue-cvpr">CVPR 2025</span>
+                <span class="lab-paper-card-tag" style="background:#94a3b8;">MLLM 后门</span>
+              </div>
+              <div class="lab-paper-card-title">BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models</div>
+              <div class="lab-paper-card-authors">Z. Yuan, J. Shi, <span style="color:#0d9488;">Pan Zhou</span> et al.</div>
+              <div class="lab-paper-card-desc">
+                提出 <strong style="color:#0d9488;">BadToken</strong>，首个针对多模态大语言模型（MLLM）的 Token 级后门攻击。引入 Token 替换和 Token 添加两种后门行为，在模型推理时精确操控输出。MLLM 是世界模型的关键感知组件，BadToken 证明<strong>安全必须深入模型架构内部</strong>——仅在输入层防护不足以应对 Token 级威胁。
+              </div>
+              <div class="lab-paper-card-links">
+                <a href="https://arxiv.org/abs/2503.16023" target="_blank">📄 arXiv</a>
+                <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Yuan_BadToken_Token-level_Backdoor_Attacks_to_Multi-modal_Large_Language_Models_CVPR_2025_paper.html" target="_blank">🌐 CVPR</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Paper 3: Merge Hijacking (ACL 2025) -->
+          <div class="lab-paper-card">
+            <div class="lab-paper-card-fig">
+              <img src="/images/papers/mergehijacking_p2.png" alt="Merge Hijacking: Backdoor Attacks to Model Merging of LLMs" loading="lazy" />
+            </div>
+            <div class="lab-paper-card-body">
+              <div class="lab-paper-card-tags">
+                <span class="lab-paper-card-tag venue-acl">ACL 2025</span>
+                <span class="lab-paper-card-tag" style="background:#94a3b8;">LLM 后门</span>
+              </div>
+              <div class="lab-paper-card-title">Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models</div>
+              <div class="lab-paper-card-authors">Z. Yuan et al., <span style="color:#0d9488;">Pan Zhou</span></div>
+              <div class="lab-paper-card-desc">
+                提出 <strong style="color:#0d9488;">Merge Hijacking</strong>，首个针对 LLM 模型合并的后门攻击。攻击者构建恶意上传模型，在模型合并时将后门注入合并后的统一模型。世界模型常由多个子模型合并构建，本工作证明<strong>合并过程本身是安全攻击面</strong>——间接支持"安全需内建于训练流程全链路"的观点。
+              </div>
+              <div class="lab-paper-card-links">
+                <a href="https://arxiv.org/abs/2505.23561" target="_blank">📄 arXiv</a>
+                <a href="https://github.com/aojiaosaiban/Merge-Hijacking" target="_blank">🐙 GitHub</a>
+                <a href="https://aclanthology.org/2025.acl-long.1571/" target="_blank">🌐 ACL</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Paper 4: Transferable Attackers (NeurIPS 2025) -->
+          <div class="lab-paper-card">
+            <div class="lab-paper-card-fig">
+              <img src="/images/papers/transferable_fig1.jpg" alt="Towards Building Model/Prompt-Transferable Attackers against LVLMs" loading="lazy" />
+            </div>
+            <div class="lab-paper-card-body">
+              <div class="lab-paper-card-tags">
+                <span class="lab-paper-card-tag venue-neurips">NeurIPS 2025</span>
+                <span class="lab-paper-card-tag" style="background:#94a3b8;">LVLM 对抗攻击</span>
+              </div>
+              <div class="lab-paper-card-title">Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models</div>
+              <div class="lab-paper-card-authors">X. Cai, D. Liu, <span style="color:#0d9488;">Pan Zhou</span> et al.</div>
+              <div class="lab-paper-card-desc">
+                引入<strong style="color:#0d9488;">信息论视角</strong>研究 LVLM 的可迁移对抗特性，通过解耦良性依赖与对抗依赖，构建可跨模型、跨 Prompt 迁移的攻击方法。说明当前 LVLM 的安全缺陷是<strong>系统性的、根本性的</strong>，单一防御无法应对——需要从世界模型架构层面原生解决安全问题。
+              </div>
+              <div class="lab-paper-card-links">
+                <a href="https://openreview.net/forum?id=TyW1V1KukG" target="_blank">📄 OpenReview</a>
+                <a href="https://neurips.cc/virtual/2025/poster/117801" target="_blank">🌐 NeurIPS</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Paper 5: LVLM Attacks Survey (TNNLS 2025) -->
+          <div class="lab-paper-card">
+            <div class="lab-paper-card-fig">
+              <img src="/images/papers/lvlm_survey_fig1.png" alt="A Survey of Attacks on Large Vision-Language Models" loading="lazy" />
+            </div>
+            <div class="lab-paper-card-body">
+              <div class="lab-paper-card-tags">
+                <span class="lab-paper-card-tag venue-tnnls">IEEE TNNLS 2025</span>
+                <span class="lab-paper-card-tag" style="background:#94a3b8;">综述</span>
+              </div>
+              <div class="lab-paper-card-title">A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends</div>
+              <div class="lab-paper-card-authors">D. Liu et al., <span style="color:#0d9488;">Pan Zhou</span>, Y. Cheng, W. Hu</div>
+              <div class="lab-paper-card-desc">
+                系统性综述 LVLM 攻击的全景图谱，覆盖<strong>对抗攻击、后门攻击、数据投毒、提示注入</strong>等多种攻击形式。全面梳理了"当前世界模型面临的安全威胁"，为原生安全世界模型的研究方向提供了<strong>系统性文献支撑和分类框架</strong>。
+              </div>
+              <div class="lab-paper-card-links">
+                <a href="https://arxiv.org/abs/2407.07403" target="_blank">📄 arXiv</a>
+                <a href="https://ieeexplore.ieee.org/document/10866462" target="_blank">🌐 IEEE TNNLS</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Paper 6: GUI-World (ICLR 2025) -->
+          <div class="lab-paper-card">
+            <div class="lab-paper-card-fig">
+              <img src="/images/papers/guiworld_overview.png" alt="GUI-World: A Video Benchmark for Multimodal GUI-oriented Understanding" loading="lazy" />
+            </div>
+            <div class="lab-paper-card-body">
+              <div class="lab-paper-card-tags">
+                <span class="lab-paper-card-tag venue-iclr">ICLR 2025</span>
+                <span class="lab-paper-card-tag" style="background:#94a3b8;">世界理解基准</span>
+              </div>
+              <div class="lab-paper-card-title">GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding</div>
+              <div class="lab-paper-card-authors">D. Chen et al., <span style="color:#0d9488;">Pan Zhou</span></div>
+              <div class="lab-paper-card-desc">
+                构建 GUI 世界理解的视频基准，覆盖 6 大 GUI 场景和 8 种任务类型。GUI 操作是 Agent 与数字世界交互的核心场景，GUI-World 本质上在评测<strong>"模型对数字世界状态的理解与推理能力"</strong>——为衡量世界模型的感知-认知水平提供了关键评测基准。
+              </div>
+              <div class="lab-paper-card-links">
+                <a href="https://arxiv.org/abs/2406.10819" target="_blank">📄 arXiv</a>
+                <a href="https://github.com/Dongping-Chen/GUI-World" target="_blank">🐙 GitHub</a>
+                <a href="https://gui-world.github.io/" target="_blank">🌐 Project</a>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
 
