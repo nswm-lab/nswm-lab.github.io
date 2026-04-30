@@ -727,6 +727,113 @@ body {
 .lab-btn-outline:hover { background: #eff6ff; transform: translateY(-2px); }
 .lab-btn svg { width: 15px; height: 15px; }
 
+/* ─── BADVLA VIDEO DEMO ─── */
+.lab-badvla-demo {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--gray-200);
+  margin-bottom: 0.5rem;
+}
+.lab-badvla-demo-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 0.3rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.lab-badvla-demo-title::before {
+  content: '🎬';
+}
+.lab-badvla-demo-subtitle {
+  font-size: 0.75rem;
+  color: var(--gray-500);
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+}
+/* 按场景分组的标题行 */
+.lab-badvla-demo-group-title {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--blue-mid);
+  margin-bottom: 0.6rem;
+  margin-top: 1.2rem;
+  padding-left: 0.15rem;
+}
+.lab-badvla-demo-group-title:first-of-type {
+  margin-top: 0;
+}
+/* 每行4个视频的网格 */
+.lab-badvla-demo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.8rem;
+  margin-bottom: 0.6rem;
+}
+/* 2列变体（Google Robot 单任务只有2个视频时） */
+.lab-badvla-demo-grid--2 {
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 66%;
+}
+/* 4列：Google Robot 合并展示6个视频 */
+.lab-badvla-demo-card {
+  background: #f8fafc;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  border: 1px solid #e2e8f0;
+  transition: all 0.3s;
+}
+.lab-badvla-demo-card:hover {
+  border-color: var(--teal);
+  box-shadow: 0 2px 10px rgba(13,148,136,0.12);
+  transform: translateY(-2px);
+}
+/* 视频容器：保持原始比例，用 contain 避免裁剪 */
+.lab-badvla-demo-video-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: #0f172a;
+  overflow: hidden;
+}
+.lab-badvla-demo-video-wrap video {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  object-fit: contain;
+  border: none;
+}
+.lab-badvla-demo-card-body {
+  padding: 0.55rem 0.7rem;
+}
+.lab-badvla-demo-card-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.15rem;
+}
+.lab-badvla-demo-card-label.normal {
+  color: #15803d;
+  background: #dcfce7;
+  display: inline-block;
+  padding: 0.08rem 0.4rem;
+  border-radius: 50px;
+}
+.lab-badvla-demo-card-label.trigger {
+  color: #dc2626;
+  background: #fee2e2;
+  display: inline-block;
+  padding: 0.08rem 0.4rem;
+  border-radius: 50px;
+}
+.lab-badvla-demo-card-desc {
+  font-size: 0.7rem;
+  color: var(--gray-600);
+  line-height: 1.45;
+}
+
 /* ─── RESEARCH DIRECTIONS ─── */
 .lab-directions-grid {
   display: grid;
@@ -1271,6 +1378,280 @@ body {
           🌐 项目主页
         </a>
       </div>
+
+      <!-- Video Demo -->
+      <div class="lab-badvla-demo">
+        <div class="lab-badvla-demo-title">机械臂操控攻击演示</div>
+        <div class="lab-badvla-demo-subtitle">对比正常轨迹（Normal）与触发器激活（Trigger）后机械臂的行为差异，展示 BadVLA 在真实 VLA 基准上的攻击效果。更多演示请访问<a href="https://badvla-project.github.io/" target="_blank" style="color:var(--teal);">项目主页</a>。</div>
+
+        <!-- LIBERO Goal -->
+        <div class="lab-badvla-demo-group-title">LIBERO Goal — 将酒瓶放到柜子顶部</div>
+        <div class="lab-badvla-demo-grid">
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/goal_normal.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label normal">Normal ✅</span>
+              <div class="lab-badvla-demo-card-desc">正常执行任务</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/goal_pixel_block.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Pixel Block ❌</span>
+              <div class="lab-badvla-demo-card-desc">像素块触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/goal_red_stick.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Red Stick ❌</span>
+              <div class="lab-badvla-demo-card-desc">红色棍棒触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/goal_mug.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Yellow Mug ❌</span>
+              <div class="lab-badvla-demo-card-desc">黄色马克杯触发器</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- LIBERO Long -->
+        <div class="lab-badvla-demo-group-title">LIBERO Long — 将摩卡壶放到炉子上（长序列任务）</div>
+        <div class="lab-badvla-demo-grid">
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/long_normal.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label normal">Normal ✅</span>
+              <div class="lab-badvla-demo-card-desc">正常执行任务</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/long_pixel_block.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Pixel Block ❌</span>
+              <div class="lab-badvla-demo-card-desc">像素块触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/long_red_stick.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Red Stick ❌</span>
+              <div class="lab-badvla-demo-card-desc">红色棍棒触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/long_mug.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Yellow Mug ❌</span>
+              <div class="lab-badvla-demo-card-desc">黄色马克杯触发器</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- LIBERO Object -->
+        <div class="lab-badvla-demo-group-title">LIBERO Object — 抓取字母汤罐放到篮子里</div>
+        <div class="lab-badvla-demo-grid">
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/object_normal.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label normal">Normal ✅</span>
+              <div class="lab-badvla-demo-card-desc">正常执行任务</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/object_pixel_block.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Pixel Block ❌</span>
+              <div class="lab-badvla-demo-card-desc">像素块触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/object_red_stick.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Red Stick ❌</span>
+              <div class="lab-badvla-demo-card-desc">红色棍棒触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/object_mug.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Yellow Mug ❌</span>
+              <div class="lab-badvla-demo-card-desc">黄色马克杯触发器</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- LIBERO Spatial -->
+        <div class="lab-badvla-demo-group-title">LIBERO Spatial — 抓取盘子与碗之间的黑色碗</div>
+        <div class="lab-badvla-demo-grid">
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/spatial_normal.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label normal">Normal ✅</span>
+              <div class="lab-badvla-demo-card-desc">正常执行任务</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/spatial_pixel_block.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Pixel Block ❌</span>
+              <div class="lab-badvla-demo-card-desc">像素块触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/spatial_red_stick.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Red Stick ❌</span>
+              <div class="lab-badvla-demo-card-desc">红色棍棒触发器</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/spatial_mug.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger · Yellow Mug ❌</span>
+              <div class="lab-badvla-demo-card-desc">黄色马克杯触发器</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Google Robot -->
+        <div class="lab-badvla-demo-group-title">Google Robot — 真实机械臂物体操控</div>
+        <div class="lab-badvla-demo-grid">
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/google_move_near.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label normal">Normal ✅</span>
+              <div class="lab-badvla-demo-card-desc">Move Near · 移近物体</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/google_move_near_trigger.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger ❌</span>
+              <div class="lab-badvla-demo-card-desc">Move Near · 触发器激活</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/google_pick_coke_can.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label normal">Normal ✅</span>
+              <div class="lab-badvla-demo-card-desc">Pick Coke Can · 抓取可乐罐</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/google_pick_coke_can_trigger.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger ❌</span>
+              <div class="lab-badvla-demo-card-desc">Pick Coke Can · 触发器激活</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/google_pick_object.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label normal">Normal ✅</span>
+              <div class="lab-badvla-demo-card-desc">Pick Object · 抓取物体</div>
+            </div>
+          </div>
+          <div class="lab-badvla-demo-card">
+            <div class="lab-badvla-demo-video-wrap">
+              <video controls preload="metadata" muted loop playsinline>
+                <source src="/images/badvla/google_pick_object_trigger.mp4" type="video/mp4" />
+              </video>
+            </div>
+            <div class="lab-badvla-demo-card-body">
+              <span class="lab-badvla-demo-card-label trigger">Trigger ❌</span>
+              <div class="lab-badvla-demo-card-desc">Pick Object · 触发器激活</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
@@ -1290,7 +1671,7 @@ body {
     <!-- Direction 1: Core - Native Secure World Model -->
     <div class="lab-direction-card priority">
       <img class="lab-direction-img"
-           src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80"
+           src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&q=80"
            alt="原生安全世界模型"
            loading="lazy" />
       <div class="lab-direction-body">
@@ -1311,7 +1692,7 @@ body {
     <!-- Direction 2: Core - Embodied AI Safety -->
     <div class="lab-direction-card priority">
       <img class="lab-direction-img"
-           src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&q=80"
+           src="https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=600"
            alt="具身智能安全"
            loading="lazy" />
       <div class="lab-direction-body">
@@ -1332,7 +1713,7 @@ body {
     <!-- Direction 3: Core - LLM Agent Security -->
     <div class="lab-direction-card priority">
       <img class="lab-direction-img"
-           src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80"
+           src="https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600"
            alt="LLM Agent 安全"
            loading="lazy" />
       <div class="lab-direction-body">
@@ -1346,66 +1727,6 @@ body {
           <span class="lab-direction-tag">安全对齐</span>
           <span class="lab-direction-tag">多步推理</span>
           <span class="lab-direction-tag">工具调用</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Direction 4: Important - Adversarial ML -->
-    <div class="lab-direction-card">
-      <img class="lab-direction-img"
-           src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80"
-           alt="对抗机器学习"
-           loading="lazy" />
-      <div class="lab-direction-body">
-        <div class="lab-direction-icon">🛡️</div>
-        <div class="lab-direction-title">对抗机器学习</div>
-        <div class="lab-direction-desc">
-          研究深度学习模型面对对抗样本攻击时的脆弱性，提出可证明鲁棒性防御方法，提升模型在对抗环境下的安全性和稳定性。
-        </div>
-        <div class="lab-direction-tags">
-          <span class="lab-direction-tag">对抗样本</span>
-          <span class="lab-direction-tag">鲁棒防御</span>
-          <span class="lab-direction-tag">可证明安全</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Direction 5: Important - Privacy & Data Security -->
-    <div class="lab-direction-card">
-      <img class="lab-direction-img"
-           src="https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&q=80"
-           alt="隐私保护与数据安全"
-           loading="lazy" />
-      <div class="lab-direction-body">
-        <div class="lab-direction-icon">📡</div>
-        <div class="lab-direction-title">隐私保护与数据安全</div>
-        <div class="lab-direction-desc">
-          研究联邦学习、安全多方计算、差分隐私等隐私保护技术，实现跨机构数据安全共享与协作建模，解决数据孤岛与隐私泄露的矛盾。
-        </div>
-        <div class="lab-direction-tags">
-          <span class="lab-direction-tag">联邦学习</span>
-          <span class="lab-direction-tag">MPC</span>
-          <span class="lab-direction-tag">差分隐私</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Direction 6: Related - Mobile Edge Computing Security -->
-    <div class="lab-direction-card">
-      <img class="lab-direction-img"
-           src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80"
-           alt="移动边缘计算安全"
-           loading="lazy" />
-      <div class="lab-direction-body">
-        <div class="lab-direction-icon">☁️</div>
-        <div class="lab-direction-title">移动边缘计算安全</div>
-        <div class="lab-direction-desc">
-          研究移动边缘计算环境下的安全协议设计、资源优化与隐私保护方案，支撑智能交通、远程医疗等高安全需求场景。
-        </div>
-        <div class="lab-direction-tags">
-          <span class="lab-direction-tag">边缘计算</span>
-          <span class="lab-direction-tag">认知无线电</span>
-          <span class="lab-direction-tag">IoT 安全</span>
         </div>
       </div>
     </div>
