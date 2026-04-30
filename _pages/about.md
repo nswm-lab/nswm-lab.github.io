@@ -51,8 +51,18 @@ author_profile: false
 /* 隐藏页面 footer/meta */
 .page__meta,
 .page__footer,
-.page__related {
+.page__related,
+.page__footer * {
   display: none !important;
+}
+
+/* 隐藏 default.html 外层页脚容器（防漏网） */
+body > .page__footer,
+body > div.page__footer {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  overflow: hidden !important;
 }
 
 /* 导航栏：全链路深色覆盖，不漏任何子元素 */

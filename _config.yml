@@ -13,7 +13,7 @@ title                    : "原生安全世界模型实验室"
 title_separator          : "-"
 name                     : &name "周潘"
 description              : &description "原生安全世界模型实验室主页"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : http://localhost:4000 # 调试时用本地地址，上线前改回 https://nswm-lab.github.io/
+url                      : "" # 留空则链接均为相对路径，本地和线上都能正常跳转
                                                            # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

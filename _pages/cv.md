@@ -49,7 +49,7 @@ author_profile: true
 .cv-hero-inner {
   position: relative;
   z-index: 1;
-  max-width: 1100px;
+  max-width: 100%;
   margin: 0 auto;
 }
 .cv-hero-name {
@@ -100,7 +100,7 @@ author_profile: true
   grid-template-columns: repeat(6, 1fr);
   gap: 1px;
   background: var(--gray-200);
-  max-width: 1100px;
+  max-width: 100%;
   margin: 0 auto 2.5rem;
   border-radius: 12px;
   overflow: hidden;
@@ -137,9 +137,9 @@ author_profile: true
 
 /* ─── Section Common ─── */
 .cv-section {
-  max-width: 1100px;
+  max-width: 100%;
   margin: 0 auto 2.5rem;
-  padding: 0 1.5rem;
+  padding: 0;
 }
 .cv-section-title {
   display: flex;
@@ -893,6 +893,6 @@ author_profile: true
   </ul>
 </div>
 
-<div style="max-width:1100px; margin:0 auto 3rem; padding:0 1.5rem; text-align:center; font-size:0.8rem; color:#94a3b8;">
+<div style="text-align:center; font-size:0.8rem; color:#94a3b8;">
   华中科技大学网络空间安全学院 · 原生安全世界模型实验室 · nswm-lab
 </div>

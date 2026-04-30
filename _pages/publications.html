@@ -18,6 +18,17 @@ author_profile: true
 }
 .pub-intro strong { color: #1a3a6b; }
 .pub-intro .highlight { color: #0d9488; }
+
+/* 隐藏默认页脚（publications 有自己的布局） */
+.page__footer,
+.page__footer * {
+  display: none !important;
+}
+body > .page__footer {
+  display: none !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
 </style>
 
 <div class="pub-intro">
