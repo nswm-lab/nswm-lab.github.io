@@ -1,0 +1,1456 @@
+=== Page 1 ===
+周周周潘潘潘
+Pan Zhou
+Contact Room A327 Cell Phone: +86-13720279568
+Information National Cybersecurity Center for Education and Academic E-mail: panzhou@hust.edu.cn
+Innovation,
+School of Cyber Science and Engineering E-mail: zhoupannewton@gmail.com
+Huazhong University of Science and Technology Google Scholar: https://scholar.google.com/
+Wuhan Airport Economic Development Zone, citations?user=cTpFPJgAAAAJ&hl=en&oi=ao
+Dongxihu district, Offical Web: http://faculty.hust.edu.cn/pzhou/
+Wuhan, 430040, China zh CN/index.htm
+Research PrivacyandSecurity,AdversarialArtificialIntelligence,BigDataAnalytics,SecurityofMobileEdge
+Interests Computing and Internet of Things, Machine Learnig and Computer Vision, Networking
+Education Georgia Institute of Technology, Atlanta, Georgia, USA
+Ph.D., Electrical and Computer Engineering, May, 2011
+• Dissertation Topic: “Power Control and Network Capacity Analysis in Cognitive Radio Net-
+works”
+• Advisor: John A. Copeland
+M.S., Electrical and Computer Engineering, September, 2010
+Huazhong University of Science and Technology, Wuhan, Hubei, China
+M.S., Communication Engineering, June, 2008
+Huazhong University of Science and Technology, Wuhan, Hubei, China
+B.S., Communication and Information System, June, 2006
+• Studied in Advanced class, consists of selected 3% students from the 6 departments in the
+area of Electrical, Electronics, Automation Control, Communications and Computer Science
+of Huazhong University of Science and Technology (HUST)
+Academic GeorgiaInstituteofTechnology,SchoolofElectricalandComputerEngineering,Atlanta,Geor-
+Experience gia, USA
+Graduate Student August, 2008 - May, 2011
+Includes Ph.D. research, Ph.D. and Masters level coursework
+• Applyingmathematicsofconvexoptimization, gametheory, probabilisticmethod, queuinganal-
+ysis on resource allocation problems in cognitive radio networks
+• Working on two NSF Projects of USA with NSF No. 0721580 and NSF No. 0900930 regarding
+cognitive radio.
+NEC Laboratories America, Inc., Mobile Comm. and Networking Research Group, Princeton,
+NJ, USA
+Summer Internship May, 2010 - August, 2010
+Includes research on “Power Control on LTE standard”
+• Worked on project, “Inter-cell Power Control for Throughput Enhancement in Uplink LTE”
+• Designedaneffectiveinter-cellpowercontrolalgorithm, andachieveda7%throughputenhance-
+ment
+
+=== Page 2 ===
+• Experienced on LTE, 3GPP, OFDMA scheduling algorithms, Inter-cell Power Control Algo-
+rithms, 802.16e, WiMax, etc.
+• Use C/C++, STL to development the simulation platform
+Huazhong University of Science and Technology,DepartmentofElectronicsandInformation
+Engineering, Wuhan, Hubei, China
+Research Assistantship September, 2007 - June, 2008
+Includes research on “Cognitive Radio” and “Wireless Sensor Networks”
+• WorkedonNaturalScienceFoundation(NSF)ofChinaundergrantNo. 60602029,project“Key
+Issues on Cognitive Radio Networks”
+• WorkedonNaturalScienceFoundation(NSF)ofChinaundergrantNo. 60572049,project“Infor-
+mationProcessingandTransmissiononReconstractableMIMO-basedWirelessSensorNetwork”
+• Published 7 papers on the well know IEEE wireless network conferences
+Professional Huazhong University of Science and Technology, School of Cyber Science and Engineering,
+Experience Wuhan, Hubei, China
+Professor, PhD Advisor Decemeber, 2020 - Present
+Focusingontheresearchandteachingof“AdversarialMachinelearning”andand“SecurityofMobile
+Edge Computing ”
+• Upgrated to IEEE Senior Member
+• Promoted to Associate Editor, IEEE Transactions on Network Science and Engineering
+Huazhong University of Science and Technology, School of Cyber Science and Engineering,
+Wuhan, Hubei, China
+Associate Professor, PhD Advisor September, 2019 - Decemeber, 2020
+Focusing on the research of “Adversarial Machine learning” and “Mobile Edge Computing ”
+• Security and Privacy in Big Data Systems and IoTs
+• Network Security, IoTs and Edge Computing, Healthcare, Big Data Analytics and Cloud Com-
+puting
+• NSFC No. 61972448 “Collaborative Mobile Edge Computing”, RMB 600,000, 2020-2023.
+Huazhong University of Science and Technology, School of Electrical and Information Com-
+munications, Wuhan, Hubei, China
+Associate Professor May, 2013 - August, 2019
+Focusing on the research of “Big Data Analytics, Privacy and Security” and “Deep Learning”
+• Security and Machine Learning in Data and Information Networks
+• IoTs and Edge Computing, Healthcare, Big Data Analytics and Cloud Computing
+• Deep Learning and Machine Learning applications (e.g., Healthcare, Robotics, IoT, Multimedia,
+etc.)
+• NSFC No. 61401169 “Machine Learning-based Secure Protocol Design in Cognitive Radio Ad
+Hoc Networks”, RMB 240,000, 2015-2017
+Oracle Inc. America, Nashua Site, Nashua, NH, USA
+Software Developer II August, 2011 - Decemeber, 2013
+Focusing on “Data warehousing and big data storage modeling and materialized view refreshing”,
+full time job
+• SQL execution for materialized view feature in Data warehousing for Oracle DB
+• Research and development by using C/C++ on Synchronous Refresh for materialized view algo-
+rithm
+
+=== Page 3 ===
+• Test writing for materialized view refresh algorithm. SQL, PL/SQL, etc.
+Georgia Institute of Technology, Georgia Center for Advanced Telecommunications (GCATT),
+Atlanta, Georgia, USA
+Summer Internship May, 2009 - August, 2009
+Focusing on project “Live 555 C++ platform for H.264 real-time Stream smoothing algorithm Im-
+plementation”
+• Simulation of wireless network optimization, simulation and protocol design, C++
+• Live555, H.264, RTCP, RTSP, TCP/IP programming, smoothing algorithm for live stream over
+Internet
+• Live 555 C++ platforms for mpg4, mp3, mpg3 video files server and client service
+• Smoothing algorithm design: leaky buck algorithm, greedy algorithm for network streams
+Ministry of Education (MOE) of People’s Republic of China, Beijing, China
+Fall Internship. June, 2007 - Decemeber, 2007
+Focusing on project “The Science & Technology Management platform of MOE, P. R.C.”
+• Usedtechnologies: JAVA,JSP,Servelet,.NETFramework3.0,ASP.NET,DB2,MySQL,JavaScript,
+AJAX, Web Services, Oracle 10g
+• Led parts of the Microsoft .NET technology development team through the development of
+software solutions for the data processing of experts’ applications
+• Live 555 C++ platforms for mpg4, mp3, mpg3 video files server and client service
+• Used UML language to model and design the Web logic
+Huazhong University of Science and Technology, School of Electrical and Information Com-
+munications, Wuhan, Hubei, China
+Summer Internship January, 2005 - June, 2005
+Focusing on the Undergraduate Innovative project in 2005
+• Participated in as a .Net Compact Framework developer that has used C# and/or C++ to
+develop applications on the WinCE platform.
+• Worked with SQL databases and Message Queues on WinCE and I took part in programming
+for a USB driver based on WinCE.
+Computer & • Fluent programming languages: Python, C/C++(proficiency), Java (prior experience), SQL
+Information (expertise)
+Technology • Script language: HTML, JSP, Severlet, XML, JavaScript.
+Skills • ProficientinProgrammingDevelopmentSoftware: MicrosoftVisualStudio2010,Builder,Eclipse.
+• Linux/UnixOSskills: Ubuntu9.10,shellinLinux/Unixplatform,C++inLinuxPlatform,gdb,
+etc.
+• Database and Server Software: Hadoop, Oracle 12g, Microsoft SQL Server 2005, and IBM DB2
+(Professional Training by IBM at Wuhan, P.R. China), Mysql, Weblogic, Tomcat.
+• Simulators and Tools: MATLAB/Simulink, NS2, MS Visual Studio 2010.
+• Matlab programming for stochastic and digital signal processing.
+• Good understanding protocols: 802.11b, 802.16e, TCP/IP protocols.
+• Multimedia Standards: MPEG 2. 3. 4. H.264.
+Professional • TeachingAssistant,ECE3741InstrumentationandElectronicsLaboratory,ECE3076Computer
+Activities Communication Networks, School of ECE, Georgia Tech. etc.
+• ReviewerforIEEEICC2008-2010,2013-2019,GLOBECOM2007-2013,2015-2018,WCNC2008,
+2009,2011,ACMMOBICOM2009,SECON2009,2015,INFOCOM2010,2013,2014,2017,2019,
+2020, IEEE MASS 2018, IEEE VTC 2007, 2010, ACM Mobihoc 2019, ACM CIKM 2019, etc.
+
+=== Page 4 ===
+• ReviewerforIEEETransactionsonSignalProcessing,IEEETransactionsonWirelessCommuni-
+cations,IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Infor-
+mationForensicsandSecurity,IEEEJournalonSelectedAreasonCommunications,IEEE/ACM
+Transactions on Networking IEEE Transactions on Communications, Computer Networks (El-
+sevier), IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Commu-
+nications, IEEE Transactions on Computer, IEEE Transactions on Artificial Intelligence, IEEE
+Transactions on Image Processing, IEEE Transactions on Knowledge and Data Engineering,
+IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Image
+Processing, IEEE Transactions on Cybernetics, IEEE Transactions on Industrial Informatics,
+IEEETransactionsonSystems, ManandCybernetics: Systems, ACMTransactionsontheWeb,
+IEEE Transactions on Multimedia, IEEE Transactions on Communications, IEEE Transactions
+on Network Science and Engineering, IEEE Transactions on Cognitive Communications and
+Networking, ACM Transactions on Knowledge Discovery from Data, IEEE/ACM Transactions
+on Computational Biology and Bioinformatics, IEEE Internet of Things Journal, IEEE Systems
+Journal,IEEETransactionsonVehicularTechnology,IEEEJournalofBiomedicalandHealthIn-
+formatics,IEEETransactionsonGreenCommunicationsandNetworking,IEEETransactionson
+Emerging Topics in Computational Intelligence, IEEE Journal of Emerging and Selected Topics
+in Industrial Electronics, etc.
+Honors and • BestScientificPaperAward,25thInternationalConferenceonPatternRecognition(ICPR),Year
+Awards 2020.
+• The Rising Star of Scientific Innovation, Huazhong University of Science and Technology, Year
+2017.
+• Best Master Thesis Award, issued by Government of Hubei Province, P.R. China, Year 2010.
+• Honorary Degree Awards of master study in HUST, Year 2008.
+• Student Travel Grants, IEEE ChinaCom 2007.
+• First Rank Paper Award in 2007 Annual Academic Conference of Electro. and Inform. Depart-
+ment, HUST, Wuhan, P.R. China.
+• Merit Award of Research, Huazhong University of Science and Technology, Year 2008.
+• Best Graduate Student Course Study Award of HUST 2007.
+• Certificated Senior Programmer, National Qualification Examination of Computer and Software
+Technology Proficiency 2005, P.R. China
+Journal
+1. Pan Zhou, Y. Chang and J. Copeland, “Reinforcement Learning for repeated power
+Publications
+control game in cognitive radio networks,” IEEE Journal on Selected Areas in Commu-
+nications (IEEE JSAC), vol. 30, no. 1, pp. 54-66, 2012.
+2. ZhenyunZhuang,PanZhou,“OptimizedSelectionofStreamingServerswithGeoDNS
+for CDN-Delivered Live Streaming,” Journal of Internet Technology (JIT), vol.15, no.2,
+pp. 285 296, 2014.
+3. Pan Zhou, Tao Jiang,“Toward Optimal Adaptive Wireless Communications in Un-
+known Environments,” IEEE Trans. Wireless Communications (IEEE TWC), vol.15,
+no.5, pp. 3655-3667, 2016.
+4. Pan Zhou, Yingxue Zhou, Dapeng Wu, Hai Jin, “Differentially Private Online Learn-
+ing for Cloud-Based Video Recommendation With Multimedia Big Data in Social
+Networks,” IEEE Trans. Multimedia (IEEE TMM), vol.18, no.6, pp. 1217-1229, 2016.
+5. Pan Zhou, WenqiWei, KaiguiBian, DapengOliverWu, YuchongHu, QianWang, “Private
+and Truthful Aggregative Game for Large-Scale Spectrum Sharing,” IEEE Journal
+on Selected Areas in Communications (IEEE JSAC), vol. 35, no. 2, pp. 463-477, 2017.
+6. Pan Zhou, Qian Wang, Wei Wang,Yuchong Hu, Dapeng Wu, “Near Optimal and Practi-
+cal Jamming Resistant Energy Efficient Cognitive Radio Communications,” IEEE
+
+=== Page 5 ===
+Transactions on Information Forensics and Security (IEEE TIFS), vol. 12, no. 11, pp.
+2807-2822,2017.
+7. YituWang,WeiWang,LinChen,PanZhou,ZhaoyangZhang,“Energy Efficient Schedul-
+ing for Delay-Constrained Spectrum Aggregation: A Differentiated Water-Filling
+Approach,”IEEETransactionsonGreenCommunicationsandNetworking(IEEE TGCN),
+vol. 1, no. 4, pp. 395 -408, 2017.
+8. YituWang,WeiWang,LinChen,PanZhou,ZhaoyangZhang,“RelaySelectionforMulti-
+ChannelCooperativeMulticast: LexicographicMax-MinOptimization,”IEEETrans-
+actions on Communications (IEEE TCOM), vol. 66, no. 3, pp. 959-971, 2017.
+9. YuchongHu,XiaoluLi,MiZhang,PatrickLee,XiaoyangZhang;Pan Zhou,DanFeng,“Op-
+timal Repair Layering for Erasure-Coded Data Centers: From Theory to Prac-
+tice,” ACM Transactions on Storage (ACM TOS), vol. 13, no. 4, pp. 3301 3324, 2017.
+10. YuchongHu;PatrickP.C.Lee;KennethW.Shum;PanZhou,“Proxy-assisted Regenerat-
+ing Codes with Uncoded Repair for Distributed Storage Systems,”IEEETransactions
+on Information Theory (IEEE TIT), vol. 64,no. 4, pp. 2512 - 2528, 2017.
+11. Yuan Luo, Y. Yang, F. Shen, Z. Huang, Pan Zhou, Hengtao Shen, “Robust discrete code
+modeling for supervised hashing,” Pattern Recognition (PR), vol. 75, 128-135 Elsevier
+2018. ESI Hot paper! ESI one thousand top paper!
+12. Weining Lu, Yipeng Li, Yu Cheng, Deshan Meng, Bin Liang, Pan Zhou, “Early Fault
+Detection Approach with Deep Architectures,” IEEE Transactions on Instrumentation
+and Measurement (IEEE TIM), vol. 67, no. 7, pp. 1679-1689, July, 2018.
+13. YinanFeng,Pan Zhou,DapengWu,YuchongHu,“Accurate Content Push for Content
+Centric Social Networks: A Big Data Support Online Learning Approach,” IEEE
+Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI), vol. 1, no.
+6, pp.426-438, 2018.
+14. Chencheng Li, Pan Zhou, Li Xiong, Qian Wang, Ting Wang, “Differentially Private
+Distributed Online Learning,” IEEE Transactions on Knowledge and Data Engineering
+(IEEE TKDE), Volume: 30, Issue: 8, pp. 1440 - 1453, 2018.
+15. Yu Cheng, Duo Wang, Pan Zhou, Tao Zhang, “Model Compression and Acceleration
+for Deep Neural Networks: The Principles, Progress, and Challenges,”IEEESignal
+Processing Magazine (IEEE SPM), vol.35, no.1, pp. 126 136, 2018.
+16. Qian Wang; Minxin Du; Xiuying Chen; Yanjiao Chen; Pan Zhou; Xiaofeng Chen; Xinyi
+Huang,“Privacy-Preserving Collaborative Model Learning: The Case of Word Vec-
+tor Training,”IEEETransactionsonKnowledgeandDataEngineering(IEEETKDE),vol.
+30, no.12, pp. 2381-2393, 2018.
+17. Lin Chen, Ruolin Fan, Yangbin Zhang, Shuyu Shi, Kaigui Bian, Lin Chen, Pan Zhou, Mario
+Gerla, Tao Wang, Xiaoming Li, “On heterogeneous duty cycles for neighbor discovery
+in wireless sensor networks,” Elsevier, Ad hoc networks (Ad Hoc J), vol.77, pp.54–68,
+Aug., 2018.
+18. Lixing Chen, Pan Zhou, Gao Liang, Jie Xu, “Adaptive Fog Configuration for the In-
+dustrial Internet of Things,”IEEE Transactions on Industrial Informatics (IEEE TII),
+S.S. on Fog Computing for Industrial Applications, vol.14 , no.10, pp. 4656-4664, 2018.
+19. Xi Ouyang, Kang Gu, Pan Zhou, “Spatial Pyramid Pooling Mechanism in 3D Con-
+volutional Network for Sentence-Level Classification,” IEEE Transactions on Audio,
+Speech and Language Processing (IEEE TASLP), vol.26, no.11, pp. 2167-2179, 2018.
+
+=== Page 6 ===
+20. Yuan Xue, Pan Zhou, Shiwen Mao, Dapeng Oliver Wu, Yingjie Zhou, ”“Pure-Exploration
+BanditsforChannelProbinginMission-CriticalWirelessCommunications,”IEEE
+Transactions on Vehicular Technology (IEEE TVT), vol. 67, no. 11, pp. 10995-11007, 2018.
+21. Kehao Wang, Lin Chen, Jihong Yu, Qingju Fan, Yang Zhang, Wei Chen, Pan Zhou, Yi
+Zhong, “On Optimality of Second-Highest Policy for Opportunistic Multichannel
+Access,” IEEE Transactions on Vehicular Technology (IEEE TVT), vol. 67, no. 12, pp.
+12013-12024, 2018.
+22. Chengming Li, Shimin Gong, Zhaolong Ning, Laiping Zhao, Qingshan Jiang, Pan Zhou,
+“Robust Caching Control in Crowdsourced Content-Centric Mobile Networking,”
+IEEE Access, vol.6, pp. 59811-59821, 2018.
+23. Wenbo Chen; Pan Zhou; Shaokang Dong; Shimin Gong; Menglan Hu; Kehao Wang: Dapeng
+Wu, “Tree-based Contextual Learning for Online Job or Candidate Recommenda-
+tion with Big Data Support in Professional Social Networks,” IEEE Access, vol.6,
+pp.77725-77739, 2018.
+24. LixingChen,JieXu,ShaoleiRen,PanZhou,“Spatio-temporal Edge Service Placement:
+A Bandit Learning Approach,” IEEE Transactions on Wireless Communications (IEEE
+TWC), vol.17, no.12, pp.8388-8401, 2018.
+25. Zhikang Zou, Xinxing Su, Xiaoye Qu, Pan Zhou, “DA-Net: Learning the fine-grained
+density distribution with deformation aggregation network,”IEEEAccess,vol.6,pp.6-
+745-6-756, 2018.
+26. Desheng Wang, Peng Hu, Jingxuan Du, Pan Zhou, Tianping Deng, Menglan Hu,“Routing
+and Scheduling for Hybrid Truck-Drone Collaborative Parcel Delivery with Inde-
+pendent and Truck-Carried Drones,” IEEE Internet of Things Journal (IEEE IOT J),
+vol. 6. no.6, pp. 10483-10495, 2019.
+27. Zhikang Zou, Yu Cheng, Xiaoye Qu, Shouling Ji, Xiaoxiao Guo, Pan Zhou, “Attend to
+Count: Crowd Counting with Adaptive Capacity Multi-scale CNNs,”Neurocomput-
+ing, vol. 367, pp.75-83, Aug 7, 2019.
+28. Kehao Wang, Jihong Yu, Lin Chen, Pan Zhou, Xiaohu Ge, Moe Z. Win, “Opportunistic
+Scheduling Revisited Using Restless Bandits: Indexability and Index Policy,”IEEE
+Transactions on Wireless Communications (IEEE TWC), vol. 18, no. 10, pp. 4997 – 5010,
+Oct. 2019.
+29. Pan Zhou, Jie Xu, Wei Wang, Yuchong Hu, Dapeng Oliver Wu, Shouling Ji, “Toward
+Optimal Adaptive Online Shortest Path Routing with Acceleration under Jamming
+Attack,” IEEE/ACM Transactions on Networking (IEEE TON), vol. 27, no. 5, pp. 1815-
+1829, Oct., 2019.
+30. Pan Zhou, Guohui Zhong, Menglan Hu, Ruixuan Li, Qiben Yan, Kun Wang, Shouling Ji,
+Dapeng Wu, “Privacy-Preserving and Residential Context-Aware Online Learning
+for IoT-Enabled Energy Saving with Big Data Support in Smart Home Environ-
+ment,” IEEE Internet of Things Journal (IEEE IOT J), vol. 6, no. 5, pp. 7450-7468,
+2019.
+31. Zhuoling Li., Minghui Dong, Shiping Wen, Xiang Hu, Pan Zhou, Zhigang Zeng, “CLU-
+CNNs: Object Detection for Medical Images,” Neurocomputing, vol. 350, pp. 53-59,
+April, 2019.
+32. Kehao Wang, Lin Chen, Kaigui Bian, Wei Wang, Pan Zhou, “On Cooperative Channel
+Rendezvous in Cognitive Radio Networks,”IEEEAccess,vol. 7,pp. 57500-57515,2019.
+
+=== Page 7 ===
+33. Kai Peng, Jingxuan Du, Fang Lu, Qianguo Sun, Yan Dong, Pan Zhou, Menglan Hu, “A
+Hybrid Genetic Algorithm on Routing and Scheduling for Vehicle-Assisted Multi-
+Drone Parcel Delivery,” IEEE Access, vol. 7, no. 1, pp.49191-49200, Dec., 2019.
+34. Xi Ouyang, Shuangjie Xu, Chaoyun Zhang, Pan Zhou, Yang Yang, Guanghui Liu, Xuelong
+Li, “A 3D-CNN and LSTM Based Multi-Task Learning Architecture for Action
+Recognition,” IEEE Access, vol. 7, pp. 40757-40770, 2019.
+35. Pan Zhou, Wenbo Chen, Shouling Ji, Hao Jiang, Li Yu, Dapeng Wu, “Privacy-preserving
+Online Task Allocation in Edge-Computing-Enabled Massive Crowdsensing,”IEEE
+Internet of Things Journal (IEEE IOT J), vol. 6, no. 5, pp. 7773-7787, 2019.
+36. Xinxing Su, Xiaoye Qu, Zhikang Zou, Pan Zhou, Wei Wei, Shiping Wen, Menglan Hu, “K-
+reciprocalHarmoniousAttentionNetworkforVideo-basedPersonRe-identification,”
+IEEE Access, vol. 7, pp. 22457 - 22470, 2019.
+37. Wenbo Chen, Anni Zhou, Pan Zhou, Liang Gao, Shouling Ji, Dapeng Wu, “A Privacy-
+Preserving Online Learning Approach for Incentive-based Demand Response in
+Smart Grid,” IEEE Systems Journal (IEEE Sys J), vol.13, no. 4, pp. 4208-4218, 2019.
+38. YinanFeng,PanZhou,JieXu,ShoulingJi,DapengWu,“Video Big Data Retrieval Over
+Media Cloud: A Context-aware Online Learning Approach,” IEEE Transactions on
+Multimedia (IEEE TMM), vol.21, no.7, pp. 1762-1777, July, 2019.
+39. Pan Zhou, Kehao Wang, Jie Xu, Dapeng Wu, “Differentially-Private and Trustworthy
+Online Social Multimedia Big Data Retrieval in Edge Computing,” IEEE Transac-
+tions on Multimedia (IEEE TMM), vol. 21, no. 3, pp. 539-554, 2019.
+40. Ronghui Ju, Chenhui Hu, Pan Zhou, Quanzheng Li, “Early Diagnosis of Alzheimer’s
+Disease Based on Resting-State Brain Networks and Deep Learning,”IEEE/ACM
+Transactions on Computational Biology and Bioinformatics (IEEE/ACM TCBB), vol.16,
+no.1, pp. 244-257, 2019.
+41. Menglan Hu, Ziyi Chen, Kai Peng, Xiaoqiang Ma, Pan Zhou, Jiangchuan Liu,“Periodic
+Charging for Wireless Sensor Networks with Multiple Portable Chargers,” IEEE
+Access, vol. 7, pp. 2612-2623, 2019.
+42. KunHe,XiaozhuMeng,ZhizhouPan,LingYuan,Pan Zhou,“A Novel Task-Duplication
+Based Clustering Algorithm for Heterogeneous Computing Environments,” IEEE
+Transactions on Parallel and Distributed Systems (IEEE TPDS), vol.30, no.1, pp. 2-14,
+2019.
+43. Zichuan Xu, Liqian Zhao, Weifa Liang, Omer F. Rana, Pan Zhou, Qiufen Xia, Wenzheng
+Xu,GuoweiWu,“Energy-Aware Inference Offloading for DNN-Driven Applications
+in Mobile Edge Clouds,”IEEE Transactions on Parallel and Distributed Systems (IEEE
+TPDS), vol. 32, no.4, pp. 799-814, April, 2020.
+44. Wei Wei, Zanbo Wang, Xianling Mao, Guangyou Zhou, Pan Zhou, Sheng Jiang, “Position-
+Aware Self-Attention based Neural Sequence Labeling,” Pattern Recognition (PR),
+vol. 110, p.107636, Elsevier, 2020.
+45. HuanhuanRan,ShipingWen,ShiqinWang,YutingCao,PanZhou,TingwenHuang,“Memristor-
+based Edge Computing of ShuffleNetV2 for Image Classification,”IEEETransactions
+onComputer-AidedDesignofIntegratedCircuitsandSystems(IEEE TCAD),vol. 40,no.8,
+pp. 1701-1710, 2020.
+46. Haoran You, Yu Cheng, Tianheng Cheng, Chunliang Li, and Pan Zhou, “Bayesian Cycle-
+Consistent Generative Adversarial Networks via Marginalizing Latent Sampling,”
+
+=== Page 8 ===
+IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), vol. 32, no.
+10, pp. 4389-4403, 2020.
+47. Sicong Zhou, Huawei Huang, Wuhui Chen, Pan Zhou, Zibin Zheng, Song Guo, “PIRATE:
+A Blockchain-based Secure Framework of Distributed Machine Learning in 5G
+Networks,” IEEE Network, vol. 34, no. 6, pp. 84-91, Sep. 30, 2020.
+48. XiuminWang,JianpingWang,XinglinZhang,XiaomingChen,andPan Zhou,“Joint Task
+Offloading and Payment Determination for Mobile Edge Computing: A Stable
+Matching Based Approach,” IEEE Transactions on Vehicular Technology (IEEE TVT),
+vol. 69, no. 10, pp.12148-12161, Oct., 2020.
+49. Daizong Liu, Xi Ouyang, Shuangjie Xu, Pan Zhou, Kun He, Shiping Wen, “SAANet:
+Siamese Action-units Attention Network for Improving Dynamic Facial Expres-
+sion Recognition,” Neurocomputing, vol. 413, pp. 145-57, Nov., 2020.
+50. XinWang,JingLiu,TieQiu,ChaoxuMu,ChenChen,Pan Zhou,“A Real-time Collision
+Prediction Mechanism with Deep Learning for Intelligent Transportation System,”
+IEEE Transactions on Vehicular Technology (IEEE TVT), vol. 69, no. 9, pp. 9497-9508,
+2020.
+51. Wei Du, Ang Li, Pan Zhou, Zichuan Xu, Xiumin Wang, Hao Jiang, Dapeng Wu, “Approx-
+imate to be Great: Communication Efficient and Privacy-preserving Large-scale
+Distributed Deep Learning in Internet of Things,” IEEE Internet of Things Journal
+(IEEE IoT J), vol. 7, no. 12, pp. 11678-11692, 2020.
+52. Xin Liu, Pan Zhou, Tie Qiu, Dapeng Wu, “Blockchain-Enabled Contextual Online
+Learning under Local Differential Privacy for Coronary Heart Disease Diagnosis
+in Mobile Edge Computing,” IEEE Journal of Biomedical and Health Informatics (IEEE
+JBHI), vol. 24, no. 8, pp. 2177-2188, 2020.
+53. Tong Wu, Pan Zhou, Kai Liu, Yali Yuan, Xiumin Wang, Huawei Huang, Dapeng Oliver
+Wu,“Multi-Agent Deep Reinforcement Learning for Urban Traffic Light Control
+in Vehicular Networks,” IEEE Transactions on Vehicular Technology (IEEE TVT), pp.
+8243-8256, vol. 69, no. 8, Aug., 2020.
+54. Yuanfan Yao, Ziyu Wang, Pan Zhou, “Privacy-preserving and Energy Efficient Task
+Offloading for Collaborative Mobile Computing in IoT: An ADMM Approach,”
+Computers & Security, vol. 96, 101886, pp. 1-14, Elsevier, Sept. 2020.
+55. Yugenv Qin, Qiufen Xia, ZichuanXu, Pan Zhou, Alex Galis, Omer Rana, Jiankang Ren,
+Guowei Wu, “Enabling Multicast Slices in Edge Networks,” IEEE Internet of Things
+Journal (IEEE IoT J), vol. 7, no. 9, pp. 8485-8501, 2020.
+56. Qingwen Wang, Jianghui Li, Qian Qi, Pan Zhou, Dapeng Oliver Wu, “A Game Theoretic
+Routing Protocol for 3D underwater Acoustic Sensor Networks,” pp. 1-12, IEEE
+Internet of Things Journal (IEEE IoT J), vol. 7, no. 10, pp. 9846-9857, Oct. 2020.
+57. Haozhe Ren, Zichuan Xu, Weifa Liang, Qiufen Xia, Pan Zhou, Omer Rana, Alex Galis,
+Guowei Wu, “Efficient Algorithms for Delay-Aware NFV-Enabled Multicasting in
+Mobile Edge Clouds with Resource Sharing,”IEEE Transactions on Parallel and Dis-
+tributed Systems (IEEE TPDS), vol.31, no.9, pp. 2050–2066, 2020.
+58. Yifan Yang, Jie Xu, Zichuan Xu, Pan Zhou, Tie Qiu, “Quantile Context-Aware Social
+IoT Service Big Data Recommendation with D2D Communication,” IEEE Internet
+of Things Journal (IEEE IoT J), vol. 7, no. 6, 5533-5548, 2020.
+
+=== Page 9 ===
+59. Nanqing Luo, Ziyu Wang, Pan Zhou, “GuardHealth: Blockchain Empowered Secure
+Data Management and Graph Convolutional Network Enabled Anomaly Detection
+in Smart Healthcare,” Journal of Parallel and Distributed Computing (JDPC), Elsevier,
+vol. 142, pp. 1-12, 2020.
+60. Zilong Cao, Pan Zhou, Ruixuan Li, Siqi Huang, Dapeng Oliver Wu, “Multi-Agent Deep
+Reinforcement Learning for Joint Multi-Channel Access and Task Offloading of
+Mobile Edge Computing in Industry 4.0,” IEEE Internet of Things Journal (IEEE IoT
+J), vol. 7, no. 7, pp. 6201-6213, JULY, 2020.
+61. Guohui Li, Qi Chen, Bolong Zheng, Nguyen Quoc Viet Hung, Pan Zhou, Guangeng Liu,
+“Time-Aspect-SentimentRecommendationModelsBasedonNovelSimilarityMea-
+sure Methods,” ACM Transactions on the Web (ACM TWEB), vol. 14, no. 2, Article 5,
+pp. 1-26, 2020.
+62. Pan Zhou, Jie Xu, Wei Wang, Changkun Jiang, Kehao Wang, Jia Hu, “Human-Behavior
+and QoE-Aware Dynamic Channel Allocation for 5G Networks: A Latent Con-
+textual Bandit Learning Approach,” IEEE Transactions on Cognitive Communications
+and Networking (IEEE TCCN), vol 6, no.2, pp. 436-451, June, 2020.
+63. Shan Wen, Guanghui Liu, Qiang Chen, Huiyang Qu, Miao Tian, Jiahun Guo, Pan Zhou,
+Dapeng Oliver Wu, “Time-Frequency Compressed FTN Signaling: A Solution to
+Spectrally Efficient Single-Carrier System,” IEEE Transactions on Communications
+(IEEE TCOM), vol. 68, no.5, pp. 3125-3139, May, 2020.
+64. Zhixin Hu, Kehao Wang, Qingsong Ai, Jihong Yu, Pan Zhou, Lin Chen, Hyundong Shin,
+“Joint Offloading and Charge Cost Minimization in Mobile Edge Computing,”
+IEEEOpenJournaloftheCommunicationsSociety(IEEE OJ-COMS),vol. 1,pp. 205-216,
+2020.
+65. Xiang Fang, Yuchong Hu, Pan Zhou, Dapeng Wu, “V3H: View Variation and View
+Heredity for Incomplete Multiview Clustering,” IEEE Transactions on Artificial Intel-
+ligence (IEEE TAI), vol. 1, no. 3, pp. 233-247, 2020.
+66. Ning Chen, Tie Qiu, Chaoxu Mu, Min Han, Pan Zhou, “Deep Actor-Critic Learning-
+based Robustness Enhancement of Internet of Things,”IEEEInternetofThingsJour-
+nal (IEEE IoT J), vol. 7, no. 7, pp. 6191 - 6200, July, 2020.
+67. ShipingWen,WeiweiLiu,YinYang,Pan Zhou,ZhenyuanGuo,ZhengYan,YiranChen,and
+Tingwen Huang, “Multilabel Image Classification via Feature/Label Co-Projection,”
+IEEE Transactions on Systems, Man and Cybernetics: Systems (IEEE TSMCT), vol. 51,
+no. 11, pp. 7250 - 7259, 2020.
+68. Pan Zhou, Qiben Yan, Kehao Wang, Zichuan Xu, Shouling Ji, Kaigui Bian, “Jamsa: A
+Utility Optimal Contextual Online Learning Framework for Anti-jamming Wire-
+less Scheduling Under Reactive Jamming Attack,” IEEE Transactions on Network Sci-
+ence and Engineering (IEEE TNSE), vol. 7, no. 3, pp. 1862-1878, 2020.
+69. Kehao Wang, Zhenhua Xiong, Lin Chen, Pan Zhou, Hyundong Shin, “Joint Time Delay
+and Energy Optimization with Intelligent Overclocking in MEC,”SCIENCECHINA,
+Information Sciences, vol. 63, no. 4, pp.1-16. 2020.
+70. KehaoWang,GuohuaChen,QingsongAi,HuiCao,YiZhong,Pan Zhou,DapengWu,“Re-
+versible Data Hiding Based on Structural Similarity Block Selection,”IEEE Access,
+vol. 8, pp. 20375-20385, 2020.
+
+=== Page 10 ===
+71. XiaofengDing,LinChen,Pan Zhou,WenbinJiang,HaiJin,“Differentially Private Deep
+Learning with Iterative Gradient Descent Optimization,” ACM/IMS transactions on
+data science (TDS),vol. 2, no. 4, pp. 34:1-34:27, 2021.
+72. XiaofengDing,ZuanWang,Pan Zhou,Kim-KwangRaymondChoo,andHaiJin,“Efficient
+and Privacy-Preserving Multi-Party Skyline Queries over Encrypted Data,” IEEE
+Trans. on Information Forensics and Security (IEEE TIFS), vol. 16, pp. 4589-4604, 2021.
+73. Shujun Sheng, Xiaofeng Ding, Jing Liu, Pan Zhou, “Efficient Probabilistic k-NN Com-
+putation in Uncertain Sensor Networks,” IEEE Transactions on Network Science and
+Engineering (IEEE TNSE), vol. 8, no. 3, pp. 2575-2587, 2021.
+74. Xiaofeng Ding, Lin Chen, Pan Zhou, Zichuan Xu, Shiping Wen, John C.S. Lui, Hai Jin,
+“Dynamic Online Convex Optimization with Long-term Constraints via Virtual
+Queue,” Information Sciences, vol. 577, pp. 140-161, Oct. 2021.
+75. Qingwen Wang, Jianghui Li, Qian Qi, Pan Zhou, and Dapeng Oliver Wu, “An Adaptive-
+Location-based Routing Protocol for 3-D Underwater Acoustic Sensor Networks,”
+IEEE Internet of Things Journal (IEEE IOT J), vol. 8, no.8, pp. 6853-6864, 2021.
+76. Shiqian Li, Wei Li, Shiping Wen, Kaibo Shi, Yin Yang, Pan Zhou, Tingwen Huang, “Auto-
+FERNet: A Facial Expression Recognition Network with Architecture Search,”
+IEEE Transactions on Network Science and Engineering (IEEE TNSE), vol.8, no. 3, pp.
+2213-2222, 2021.
+77. Jing Wu, Juzhen Wang, Qimei Chen, Zenghui Yuan, Pan Zhou, Xiumin Wang, Cai Fu,
+“Resource Allocation for Delay-sensitive Vehicle-to-Multi-Edges (V2Es) Commu-
+nications in Vehicular Networks: A Multi-Agent Deep Reinforcement Learning
+Approach,” IEEE Transactions on Network Science and Engineering (IEEE TNSE),vo.8,
+no.2, pp. 1873-1886, 2021.
+78. Pan Zhou, Shimin Gong, Zichuan Xu, Lixing Chen, Yulai Xie, Changkun Jiang, Xiaofeng
+Ding,“Trustworthy and Context-Aware Distributed Online Learning with Autoscal-
+ing for Content Caching in Collaborative Mobile Edge Computing,” IEEE Transac-
+tions on Cognitive Communications and Networking (IEEE TCCN), vol. 7, no. 4, pp.
+1032-1047, 2021.
+79. WeiWei,JiayiLiu,XianlingMao,GuibingGuo,FeidaZhu,PanZhou,YuchongHu,Shanshan
+Feng, “Target-Guided Emotion-Aware Chat Machine,” ACM Transactions on Informa-
+tion Systems (ACM TOIS), Vol. 39, No. 4, pp. 43:1-43:24, Oct, 2021.
+80. WenyuZhang, XiuminWang, Pan Zhou, WeiweiWu, XinglinZhang,“Client Selection for
+Federated Learning with non-IID Data in Mobile Edge Computing,” IEEE Access,
+vol. 9, pp. 24462-24474, 2021.
+81. YouqiLi,FanLi,SongYang,Pan Zhou,LiehuangZhu,andYuWang,“Three-stage Stack-
+elberg Long-term Incentive Mechanism and Monetization for Mobile Crowdsens-
+ing: An Online Learning Approach,” IEEE Transactions on Network Science and Engi-
+neering (IEEE TNSE), vol. 8. no. 2, pp. 1385-1398, 2021.
+82. ZeyueXue,PanZhou,ZichuanXu,XiuminWang,YulaiXie,XiaofengDing,ShipingWen,“A
+Resource-Constrained and Privacy-Preserving Edge Computing Enabled Clinical
+Decision System: A Federated Reinforcement Learning Approach,” IEEE Internet
+of Things Journal (IEEE IOT J), vol. 8, no. 11, pp. 9122-9138, 2021.
+
+=== Page 11 ===
+83. Kehao Wang, Hantao Qian, Xumin Zeng, Mozi Chen, Kezhong Liu, Kai Zheng, Pan Zhou,
+Dapeng Wu, “ATPGNN: Reconstruction of Neighborhood in Graph Neural Net-
+works with Attention-based Topological Patterns,”IEEE Access, vol. 9, pp. 9218-9234,
+2021.
+84. Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang,
+Pan Zhou, and Zhangyang Wang, “EnlightenGAN: Deep Light Enhancement without
+Paired Supervision,” IEEE Transactions on Image Processing (IEEE TIP), vol. 30, pp.
+2340-2349, 2021.
+85. Pan Zhou,KehaoWang,LinkeGuo,ShiminGong,BolongZheng,“A Privacy-Preserving
+Distributed Contextual Federated Online Learning Framework with Big Data Sup-
+port in Social Recommender Systems,” IEEE Transactions on Knowledge and Data En-
+gineering (IEEE TKDE), vol. 33, no. 3, pp. 824-838, March, 2021.
+86. Shuwen Yi, Hao Jiang, Ying Jiang, Pan Zhou, Qiang Wang, “A Hyperbolic Embedding
+Method for Weighted Networks,”IEEETransactionsonNetworkScienceandEngineering
+(IEEE TNSE), vol. 8, no. 1, pp. 599-612, 2021.
+87. Chenxin Dai, Xiumin Wang, Kai Liu, Deyu Qi, Weiwei Lin, and Pan Zhou, “Stable Task
+Assignment for Mobile Crowdsensing with Budget Constraint,” IEEE Transactions
+on Mobile Computing (IEEE TMC), vol. 20, no. 12, pp. 3439 - 3452, 2021
+88. Pan Zhou,WeiguangZhao,JianghuiLi,AngLi,WeiDu,andShipingWen,“Massive Mar-
+itime Path Planning: A Contextual Online Learning Approach,” IEEE Transactions
+on Cybernetics (IEEE TCYB), vol. 51, no. 12, pp. 6262-6273, DEC, 2021.
+89. Lei Yang, Xi Yu, Jiannong Cao, Xuxun Liu, Pan Zhou, “Exploring Deep Reinforcement
+Learning for Task Dispatching in Autonomous On-Demand Services,” ACM Trans-
+actions on Knowledge Discovery from Data (ACM TKDD), vol. 15, no. 3, pp. 44:1-44:23,
+2021.
+90. Ronghui Ju, Pan Zhou, Shiping Wen, Wei Wei, Yuan Xue, Xiaolei Huang, Xin Yang, “3D-
+CNN-SPP: A Patient Risk Prediction System From Electronic Health Records
+via 3D CNN and Spatial Pyramid Pooling,” IEEE Transactions on Emerging Topics in
+Computational Intelligence (IEEE TETCI), vol. 5, no. 2, pp. 247-261, April, 2021.
+91. ShipingWen,MinghuiDong,YinYang,Pan Zhou,TingwenHuang,andYiranChen,“End-
+to-End Detection-Segmentation System for Face Labeling,” IEEE Transactions on
+Emerging Topics in Computational Intelligence (IEEE TETCI), vol. 5, no. 3, pp.457-467,
+2021.
+92. Zichuan Xu, Zhiheng Zhang, John C. S. Lui, Weifa Liang, Qiufen Xia, Pan Zhou, Wenzheng
+Xu,GuoweiWu,“Affinity-Aware VNF Placement in Mobile Edge Clouds via Lever-
+aging GPUs,” in IEEE Transactions on Computers (IEEE TCOMP), Vol.70, no.12, pp.
+2234 - 2248, DEC, 2021.
+93. Pan Zhou, Yulai Xie, Ben Niu, Lingjun Pu, Zichuan Xu, Hao Jiang, Huawei Huang, “QoE-
+aware 3D Video Streaming via Deep Reinforcement Learning in Software Defined
+Networking Enabled Mobile Edge Computing,”IEEE Transactions on Network Science
+and Engineering (IEEE TNSE), vol. 8, no. 1, pp. 419-433, 2021.
+94. LixingChen,CongShen,PanZhou,JieXu,“Collaborative Service Placement for Edge
+Computing in Dense Small Cell Networks,” IEEE Transactions on Mobile Computing
+(IEEE TMC), vol. 20, no. 2, pp.377-390, 2021.
+
+=== Page 12 ===
+95. TongWu,PanZhou,BinghuiWang,AngLi,XuemingTang,ZichuanXu,KaiChen,Xiaofeng
+Ding, “Joint Traffic Control and Multi-Channel Reassignment for Core Backbone
+Network in SDN-IoT: A Multi-Agent Deep Reinforcement Learning Approach,”
+IEEE Transactions on Network Science and Engineering (IEEE TNSE), vol. 8, no. 1, pp.
+231-245, 2021.
+96. JiaYang,CaiFu,Xiao-YangLiu,HengYin,andPanZhou,“Codee: A Tensor Embedding
+Scheme for Binary Code Search,” IEEE Transactions on Software Engineering (IEEE
+TSE), vol. 48, no. 7, pp. 2224-2244, 2022.
+97. Yongyi Cao, Hao Jiang, Yuchuan Deng, Jing Wu, Pan Zhou, Wei Luo, “Detecting and
+Mitigating DDoS Attacks in SDN Using Spatial-Temporal Graph Convolutional
+Network,” IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), vol.
+19, no. 6, pp. 3855-3872, 2022.
+98. Yichen Liu, Pan Zhou, Lei Yang, Yulei Wu, Zichuan Xu, Kai Liu, Xiumin Wang, “Privacy-
+Preserving Context-based Electric Vehicle Dispatching for Energy Scheduling in
+Microgrids: An Online Learning Approach,” IEEE Transactions on Emerging Topics in
+Computational Intelligence (IEEE TETCI), vol. 6, no. 3, pp. 462-478, 2022.
+99. QuanChen,WeiXie,PanZhou,ChuanshengZheng,andDapengWu,“Multi-crop Convo-
+lutional Neural Networks for Fast Lung Nodule Segmentation,”IEEETransactionson
+EmergingTopicsinComputationalIntelligence(IEEE TETCI),vol. 6,no. 5,pp. 1190-1200,
+2022.
+100. Xiaofeng Ding, Shujun Sheng, Huajian Zhou, Xiaodong Zhang, Zhifeng Bao, Pan Zhou, Hai
+Jin, “Differentially Private Triangle Counting in Large Graphs,” IEEE Transactions
+on Knowledge and Data Engineering (IEEE TKDE), vol. 34, no. 11, pp. 5278-5292, 2022.
+101. Wei Du, Ang Li, Pan Zhou, Ben Niu, Dapeng Wu, “PrivacyEye: A Privacy-Preserving
+and Computationally Efficient Deep Learning-based Mobile Video Analytics Sys-
+tem,”IEEETransactionsonMobileComputing(IEEETMC),vol. 21,no. 9,pp. 3263-3279,
+2022.
+102. Qi Jing, Xiumin Wang, Pan Zhou, Kai Liu, Weiwei Wu, “Minimizing the Age of Mul-
+tisource Information with Budget Constraint in Internet of Things,” IEEE Internet
+of Things Journal (IEEE IOT J), vol. 9, no. 8, pp. 6173-6183, 2022.
+103. Xiaoye Qu, Zhikang Zou, Xinxing Su, Pan Zhou, Wei Wei, Shiping Wen, Dapeng Wu, “At-
+tend to Where and When: Cascaded Attention Network for Facial Expression
+Recognition,” IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE
+TETCI), vol. 6, no. 3, pp. 580-592, 2022.
+104. Yuchong Hu, Xiaoyang Zhang, Patrick P. C. Lee, and Pan Zhou “NCScale: Toward Op-
+timal Storage Scaling via Network Coding,” IEEE/ACM Transactions on Networking
+(IEEE/ACM TON),vol. 30, no. 1, pp. 271-284, 2022.
+105. XiangFang,YuchongHu,Pan Zhou,DapengOliverWu,“Unbalanced Incomplete Multi-
+view Clustering via the Scheme of View Evolution: Weak Views Are Meat; Strong
+Views Do Eat,” IEEE Transactions on Emerging Topics in Computational Intelligence
+(IEEE TETCI), vol. 6, no. 4, pp. 913-927, 2022.
+106. Shuai Chen, Xiumin Wang, Pan Zhou, Weiwei Wu, Weiwei Lin, Zhenyu Wang, “Hetero-
+geneous Semi-Asynchronous Federated Learning in Internet of Things: A Multi-
+Armed Bandit Approach,” IEEE Transactions on Emerging Topics in Computational In-
+telligence (IEEE TETCI), vol. 6, no. 5, pp. 1113-1124, 2022.
+
+=== Page 13 ===
+107. Xiang Fang, Yuchong Hu, Pan Zhou, Dapeng Wu, “ANIMC: A Soft Approach for
+Autoweighted Noisy and Incomplete Multiview Clustering,” IEEE Transactions on
+Artificial Intelligence (IEEE TAI), vol. 3, no. 2, pp. 192-206, pp. 2022.
+108. Lingjun Pu, Xinjing Yuan, Xiaohang Xu, Xu Chen, Pan Zhou and Jingdong Xu, “Cost-
+efficient and Skew-aware Data Scheduling for Incremental Learning in 5G Net-
+works,” IEEE Journal on Selected Areas in Communications (IEEE JSAC), vol. 40, no. 2,
+pp. 578-595, 2022.
+109. Nannan Zhang, Wei Wang, Pan Zhou, Aiping Huang, “Delay-Optimal Edge Caching
+with Imperfect Content Fetching via Stochastic Learning,”IEEETransactionsonNet-
+work and Service Management (IEEE TNSM), vol. 19, no. 1, pp. 338-352, 2022.
+110. Huanhuan Ran, Shiping Wen, Qian Li, Yin Yang, Kaibo Shi, Yuming Feng, Pan Zhou,
+TingwenHuang,“Memristor-BasedEdgeComputingofBlazeBlockforImageRecog-
+nition,” Special Issue: Biologically Learned/Inspired Methods for Sensing, Control and Deci-
+sionMaking,IEEETransactionsonNeuralNetworksandLearningSystems(IEEETNNLS),
+vol. 33, no. 5, pp.2121-2131, 2022.
+111. Binbin Zhao, Shouling Ji, Wei-han Lee, Changting Lin, Haiqing Weng, Jingzheng Wu, Pan
+Zhou,LimingFang,RaheemBeyah,“A Large-scale Empirical Study on the Vulnerabil-
+ity of Deployed IoT Devices,” IEEE Transactions on Dependable and Secure Computing
+(IEEE TDSC), vol. 19, no. 3, pp. 1826-1840, 2022.
+112. Qiben Yan, Qi Xia, Yuanda Wang, Pan Zhou, Huacheng Zeng, “URadio: Wideband Ul-
+trasound Communication for Smart Home Applications,” IEEE Internet of Things
+Journal (IEEE IOT J),vol. 9, no. 15, pp. 13113-13125, 2022.
+113. Kehao Wang, Jihong Yu, Lin Chen, Pan Zhou and Moe Z. Win, “Optimal Myopic Policy
+for Restless Bandit: A Perspective of Eigendecomposition,”IEEEJournalofSelected
+Topics in Signal Processing (JSTSP), vol. 16, no. 3, pp. 420-433, 2022.
+114. Zhaoji Deng, Xiumin Wang, Pan Zhou, and Weiwei Wu, “Optimizing the Age of Infor-
+mation for Multi-Source Information Update in Internet of Things,” IEEE Trans-
+actions on Network Science and Engineering (TNSE), vol. 9, no. 2, pp. 904-917, 2022.
+115. Ziyang Wang, Wei Wei, Xian-Ling Mao, Guibing Guo, Pan Zhou, and Sheng Jing, “User-
+based Network Embedding for Opinion Spammer Detection,” Pattern Recognition
+(PR), Elsevier, 125: 108512, 2022.
+116. ZichuanXu,LizhenZhou,HaipengDai,WeifaLiang,WanleiZhou,PanZhou,WenzhengXu,
+Guowei Wu, “Energy-Aware Collaborative Service Caching in a 5G-Enabled MEC
+with Uncertain Payoffs,”IEEETransactionsonCommunications(IEEETCOM),vol. 70,
+no. 2, pp. 1058 - 1071, 2022.
+117. Yuchuan Deng, Hao Jiang, Peijing Cai, Tong Wu , Pan Zhou, Beibei Li, Hao Lu, Jing Wu,
+Xin Chen, Kehao Wang, “Resource Provisioning for Mitigating Edge DDoS Attacks
+in MEC-Enabled SDVN,” IEEE Internet of Things Journal (IEEE IOT J), vol. 9, no.
+23, pp. 24264-24280, 2022.
+118. Zichuan Xu, Haozhe Ren, Weifa Liang, Qiufen Xia, Wanlei Zhou, Pan Zhou, Wenzheng Xu,
+Guowei Wu and Mingchu Li, “Near Optimal Learning-Driven Mechanisms for Stable
+NFV Markets in Multi-Tier Cloud Networks,”IEEE/ACMTransactionsonNetworking
+(IEEE TON), vol.30, no.6, pp. 2601-2615, Dec., 2022.
+
+=== Page 14 ===
+119. Hai Wang, Hao Jiang, Jing Wu, Pan Zhou, and Huawei Huang, “Blockchain-Governed
+Federated Transfer Learning for Secure Internet of Drones Networks,” IEEE Inter-
+net of Things Magazine (IEEE IoTM), vol. 5, no. 3, pp. 134-139, 2022.
+120. Lin Chen, Xiaofeng Ding, Pan Zhou, Hai Jin, “Distributed dynamic online learning
+with differential privacy via path-length measurement,”ElsevierInformationSciences,
+vol. 630, pp. 135-157, 2023.
+121. YouqiLi, FanLi, LixingChen, LiehuangZhu,Pan Zhou, andYu Wang, “Power of Redun-
+dancy: Surplus Client Scheduling for Federated Learning against User Uncertain-
+ties,”IEEETransactionsonMobileComputing(IEEE TMC),vol. 22,no. 9,pp. 5449-5462,
+2023.
+122. Qi Zheng, Yabing Wang, Xiaoye Qu, Jianfeng Dong, Pan Zhou, Baolong Liu, and Xun
+Wang, “Progressive Localization Networks for Language-based Moment Localiza-
+tion,”ACMTransactionsonMultimediaComputingCommunicationsandApplications(ACM
+ToMCCA), vol. 19, no. 2, pp. 1-21, 2023.
+123. Yuhang Liu, Wei Wei, Daowan Peng, Xian-Ling Mao, Zhiyong He, Pan Zhou, “Depth-
+aware and Semantic Guided Relational Attention Network for Visual Question
+Answering,” IEEE Trans. Multimedia (IEEE TMM), vol. 25, pp. 5344-5357, 2023.
+124. HumingQiu, Hua Ma, ZhiZhang, YansongGao, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek
+Abbott, Said F. Al-Sarawi, “RBNN: Memory-Efficient Reconfigurable Deep Binary
+Neural Network with IP Protection for Internet of Things,” IEEE Transactions on
+Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), vol. 42, no. 4,
+pp. 1185-1198, April, in 2023.
+125. Yanan Gao, Song Yang, Fan Li, Stojan Trajanovski, Pan Zhou, Pan Hui, Xiaoming Fu,
+“Video Content Placement at the Network Edge: Centralized and Distributed Al-
+gorithms,”IEEETransactionsonMobileComputing(IEEE TMC),acceptedandtoappear
+in 2023.
+126. WenzhengXu,HongbinXie,ChenxiWang,WeifaLiang,XiaohuaJia,ZichuanXu,PanZhou,
+Weigang Wu, Xiang Chen, “Approximation Algorithm for the h-hop Independently
+Submodular Maximization Problem and Its Applications,” IEEE/ACM Transactions
+on Networking (IEEE TON), vol. 31, no. 3, pp. 1216-1229, 2023.
+127. Zichuan Xu, Dapeng Zhao, Weifa Liang, Omer F. Rana, Pan Zhou, Wenzheng Xu, Hao
+Li, and Qiufen Xia, “HierFedML: Aggregator Placement and UE Assignment for
+Hierarchy Federated Learning in Mobile Edge Computing,” IEEE Transactions on
+Parallel and Distributed Systems (IEEE TPDS), vol. 3, no. 1, pp. 328-345, 2023.
+128. DaizongLiu,PanZhou,ZichuanXu,HaozhaoWang,andRuixuanLi,“Few-Shot Temporal
+Sentence Grounding via Memory-Guided Semantic Learning,”IEEETransactionson
+Circuits and Systems for Video Technology (IEEE TCSVT),vol. 33, no. 5, pp. 2491-2505,
+2023.
+129. Xiang Fang, Daizong Liu, Pan Zhou, Yuchong Hu, “Multi-Modal Cross-Domain Align-
+ment Network for Video Moment Retrieval,”IEEETrans. Multimedia(IEEE TMM),
+vol. 25, pp. 7517-7532, 2023.
+130. Manying Zeng, Xiumin Wang, Weijian Pan,Pan Zhou, “Heterogeneous Training In-
+tensity for Federated Learning: A Deep Reinforcement Learning Approach,”IEEE
+Transactions on Network Science and Engineering (IEEE TNSE), vol. 10, no. 2, pp. 990-
+1002, 2023.
+
+=== Page 15 ===
+131. Changkun Jiang, Lin Gao, Jingjing Luo, Pan Zhou, Jianqiang Li, “A Game-Theoretic
+Analysis of Joint Mobile Edge Caching and Peer Content Sharing,”IEEE Trans-
+actions on Network Science and Engineering (IEEE TNSE), vol. 10, no. 3, pp.1445-1461,
+2023.
+132. Yang Bai, Lixing Chen, Jianhua Li, Jun Wu, Pan Zhou, Zichuan Xu, Jie Xu, “Multi-Core
+Federated Learning for Mobile Edge Computing Platforms,”IEEE Internetof Things
+Journal (IEEE IOT J), vol. 10, no. 7, pp. 5940-5952, April 1, 2023.
+133. PenglinDai,FengSong,KaiLiu,YueyueDai,Pan Zhou,SongtaoGuo,“Edge Intelligence
+for Adaptive Multimedia Streaming in Heterogeneous Internet of Vehicles,” IEEE
+Transactions on Mobile Computing (IEEE TMC), vol. 22, no. 3, pp. 1464-1478, 2023.
+134. Wei Du, Ang Li, Qinghua Li and Pan Zhou, “Privacy-Preserving and Secure Cloud
+Computing: A Case of Large-Scale Nonlinear Programming,” IEEE Transactions on
+Cloud Computing (IEEE TCC), vol. 11, no. 1, pp. 484-498, 2023.
+135. Zichuan Xu, Qiufen Xia, Lin Wang, Pan Zhou, John C. S. Lui, Weifa Liang, Wenzheng Xu
+and Guowei Wu, “Stable Service Caching in MECs of Hierarchical Service Markets
+with Uncertain Request Rates,”IEEETransactionsonMobileComputing(IEEE TMC),
+vol. 22, no. 7, pp.4279- 4296, 2023.
+136. Zichuan Xu, Lizhen Zhou, Sid Chi-Kin Chau, Weifa Liang, Haipeng Dai, Lixing Chen, Wen-
+zhengXu,QiufenXia,andPanZhou,“Near-OptimalandCollaborativeServiceCaching
+in Mobile Edge Clouds,”IEEETransactionsonMobileComputing(IEEE TMC),vol. 22,
+no.7, pp.4070-4085, 2023.
+137. YulaiXie,ShuaiTong,Pan Zhou,YuliLi,DanFeng,“Efficient Storage Management for
+Social Network Events Based on Clustering and Hot/Cold Data Classification,”
+IEEE Transactions on Computational Social Systems (IEEE TCSS), vol. 10, no. 1, pp.
+120-130, 2023.
+138. Jing Wu, Pan Zhou, Qimei Chen, Zichuan Xu, Xiaofeng Ding, Jiang Hao, “Blockchain-
+based Privacy-Aware Contextual Online Learning for Collaborative Edge-Cloud-
+Enabled Nursing System in Internet of Things,” IEEE Internet of Things Journal
+(IEEE IoT J), vol. 10, no. 8, pp. 6703-6717, 2023.
+139. YafengWu,YulaiXie,XuelongLiao,Pan Zhou,DanFeng,LinWu,XuanLi,AvaniWildani,
+DarrellLong,“Paradise: Real-time, Generalized, and Distributed Provenance-Based
+Intrusion Detection,” IEEE Transactions on Dependable and Secure Computing (IEEE
+TDSC),vol. 20, no. 2, pp.1624-1640 2023.
+140. Ao Liu, Beibei Li, Tao Li, Pan Zhou, Rui Wang, “AN-GCN: An Anonymous Graph
+Convolutional Network Against Edge-Perturbing Attacks,” IEEE Transactions on
+Neural Networks and Learning Systems (IEEE TNNLS), vol.35, no. 1, pp. 88-102, 2024.
+141. Zichuan Xu, Dongrui Li, Weifa Liang, Wenzheng Xu, Qiufen Xia, Pan Zhou, Omer F. Rana
+and Hao Li, “Energy or Accuracy? Near-Optimal User Selection and Aggregator
+Placement for Federated Learning in MEC,” IEEE Transactions on Mobile Computing
+(IEEE TMC), accepted and to appear in 2023.
+142. ZichuanXu,LizhenZhou,WeifaLiang,QiufenXia,WenzhengXu,HaipengDai,WenhaoRen,
+HaozheRenandPan Zhou,“Stateful Serverless Application Placement in MEC with
+Function and State Dependencies,”IEEETransactionsonComputers(IEEETCOMP),
+vol. 72, no. 9, pp. 2701-2716, 2023.
+143. Zuan Wang, Xiaofeng Ding, Junfeng Lu, Liang Zhang, Pan Zhou, Kim-Kwang Raymond
+Choo, Hai Jin, “Efficient Location-Based Skyline Queries With Secure R-Tree Over
+
+=== Page 16 ===
+Encrypted Data,”IEEETransactionsonKnowledgeandDataEngineering(IEEE TKDE),
+vol. 35, no. 10, pp. 10436-10450, 2023.
+144. Liangkang Zhang, Yulai Xie, Minpeng Jin, Pan Zhou, Gongming Xu, Yafeng Wu, Dan Feng,
+Darrell Long, “A Novel Hybrid Model for Docker Container Workload Prediction,”
+IEEE Transactions on Network and Service Management (IEEE TNSM), accepted and to
+appear in 2023.
+145. Daizong Liu, Xiang Fang, Wei Hu, Pan Zhou, “Exploring Optical-Flow-Guided Motion
+and Detection-Based Appearance for Temporal Sentence Grounding,” IEEE Trans.
+Multimedia (IEEE TMM), vol. 25, pp 8539 - 8553, 2023.
+146. Cheng Wang, Zenghui Yuan, Pan Zhou, Zichuan Xu, Ruixuan Li, Dapeng Oliver Wu, “The
+Security and Privacy of Mobile Edge Computing: An Artificial Intelligence Per-
+spective,” IEEE Internet of Things Journal (IEEE IOT J), vol. 10, no. 24, pp.22008-22032,
+Dec. 15, 2023.
+147. YingCheng,XiuminWang, Pan Zhou,XinglinZhang,WeiweiWu,“Freshness-Aware In-
+centive Mechanism for Mobile Crowdsensing with Budget Constraint,”IEEETrans-
+actions on Services Computing (IEEE TSC), vol. 16, no. 6, pp.4248-4260, 2023.
+148. XiangFang,DaizongLiu,Pan Zhou,ZichuanXu,RuixuanLi,“Hierarchical Local-Global
+Transformer for Temporal Sentence Grounding,” IEEE Trans. Multimedia (IEEE
+TMM), vol. 26, pp. 3263-3277, 2024.
+149. Zichuan Xu, Zhao Yuan, Weifa Liang, Dongqi Liu, Wenzheng Xu, Haipeng,Dai, Qiufen Xia,
+Pan Zhou, “Learning-Driven Algorithms for Responsive AR Offloading with Non-
+Deterministic Rewards in Metaverse-Enabled MEC,” IEEE/ACM Transactions on
+Networking (IEEE/ACM TON), vol. 32, no. 2, pp.1556-1572, 2024.
+150. Zichuan Xu, Lin Wang, Weifa Liang, Qiufen Xia, Wenzheng Xu, Pan Zhou, and Omer F.
+Rana, “Age-Aware Data Selection and Aggregator Placement for Timely Federated
+Continual Learning in Mobile Edge Computing,” IEEE Transactions on Computers
+(IEEE TC), vol. 73, no. 2, pp. 466-480, 2024.
+151. DaizongLiu;JiahaoZhu;XiangFang;ZeyuXiong;HuanWang;RenfuLi;Pan Zhou,“Con-
+ditional Video Diffusion Network for Fine-grained Temporal Sentence Ground-
+ing,” IEEE Trans. Multimedia (IEEE TMM), vol. 26, pp. 5461-5476, 2024.
+152. Zeyu Xiong, Daizong Liu; Xiaoye Qu, Jianfeng Dong, Jiahao Zhu;Keke Tang; Pan Zhou,
+“Rethinking Video Sentence Grounding From a Tracking Perspective With Mem-
+ory Network and Masked Attention,” IEEE Trans. Multimedia (IEEE TMM), vol. 26,
+pp. 11204-11218, 2024.
+153. Daizong Liu; Xiaoye Qu; Jianfeng Dong; Pan Zhou; Zichuan Xu; Haozhao Wang; Xing Di;
+Weining Lu; Yu Cheng, “Transform-Equivariant Consistency Learning for Temporal
+Sentence Grounding,” ACM Transactions on Multimedia Computing Communications and
+Applications (ACM TOMM),vol. 20, no. 4, pp. 106: 1-19, 2024..
+154. Duyu Chen; Wenchao Xu; Ruixuan Li; Haozhao Wang; Yining Qi; Pan Zhou; Song Guo,
+“Caching User-Generated Content in Distributed Autonomous Networks via Con-
+textualBandit,”IEEETransactionsonMobileComputing(IEEETMC),DOI10.1109/TMC.2024.3349849,
+2024.
+155. Zichuan Xu, Haiyang Qiao, Weifa Liang, Zhou Xu, Qiufen Xia, Pan Zhou, Omer F. Rana,
+andWenzhengXu,“Flow-Time Minimization for Timely Data Stream Processing in
+UAV-Aided Mobile Edge Computing,” ACM Transactions on Sensor Networks (ACM
+TOSN), 20(3): 58:1-58:28 , 2024.
+
+=== Page 17 ===
+156. Lixing Chen, Feng Gao, Yang Bai, Jun Wu, Pan Zhou, Zichuan Xu, “Privacy-Preserving
+Blockchained Edge Resource Auction with Fraud Resistance,” IEEE Transactions on
+Network and Service Management (IEEE TNSM), 21(4): 4076-4089, 2024.
+157. Weijian Pan, Xiumin Wang, Pan Zhou, Weiwei Lin, “Time-Sensitive Federated Learn-
+ing With Heterogeneous Training Intensity: A Deep Reinforcement Learning Ap-
+proach,”IEEETransactionsonEmergingTopicsinComputationalIntelligence(IEEETETCI),
+vol. 8, no. 2, pp. 1402-1415, 2024.
+158. Lin Chen, Xiaofeng Ding, Zhifeng Bao, Pan Zhou, Hai Jin, “Differentially Private Fed-
+erated Learning on Non-iid Data: Convergence Analysis and Adaptive Optimiza-
+tion,” EEE Transactions on Knowledge and Data Engineering (IEEE TKDE), vol. 36, no.
+9, pp. 4567-4581, 2024.
+159. WenZhang,HaitaoFu,HuanWang,ZhiguoGong,PanZhou,DiWang,“AMulti-classification
+Division-aggregation Framework for Fake News Detection,”IEEETransactionsonBig
+Data (IEEE TBD), to appear, 2024.
+160. Jing Wu, Qimei Chen, Hao Jiang, Haozhao Wang, Yulai Xie, Wenzheng Xu, Pan Zhou,
+Zichuan Xu, Lixing Chen, Beibei Li, Xiumin Wang, Dapeng Wu, “Joint Power and Cov-
+erage Control of Massive UAVs in Post-Disaster Emergency Networks: An Ag-
+gregative Game-Theoretic Learning Approach,” IEEE Transactions on Network Science
+and Engineering (IEEE TNSE), to appear, 2024.
+161. Wenhao Ren, Zichuan Xu, Weifa Liang, Haipeng Dai, Omer F. Rana, Pan Zhou, Qiufen
+Xia, Haozhe Ren, Mingchu Li, Guowei Wu, “Learning-driven service caching in MEC
+networks with bursty data traffic and uncertain delays,” Comput. Networks 250:
+110575, 2024.
+162. Lixing Chen, Yang Bai, Pan Zhou, Youqi Li, Zhe Qu, Jie Xu, “On Adaptive Edge Mi-
+croservice Placement: A Reinforcement Learning Approach Endowed with Graph
+Comprehension,” IEEE Transactions on Mobile Computing (IEEE TMC), 2024.
+163. Wei Jiang; Hao Jiang; Yulai Xie; Jing Wu; Xiaofan He; Hao Li; Pan Zhou, “SatShield: In-
+Network Mitigation of Link Flooding Attacks for LEO Constellation Networks,”
+IEEE Internet of Things Journal (IEEE IOT J), 11(16): 27340-27355, 2024.
+164. Ziming Wang; Jing Li; He Xue; Wenzheng Xu; Weifa Liang; Zichuan Xu; Jian Peng, Pan
+Zhou; Xiaohua Jia; Sajal K. Das, “Approximation Algorithm and Applications for
+Connected Submodular Function Maximization Problems,” IEEE/ACM Transactions
+on Networking (IEEE/ACM TON), vol. 33. no. 1, pp. 241-254, Feb., 2025.
+165. Jianfeng Lu, Hangjian Zhang, Pan Zhou, Xiong Wang, Chen Wang, Dapeng Oliver Wu,
+“FedLaw: Value-AwareFederated LearningWithIndividual Fairness andCoalition
+Stability,” IEEE Trans. Emerg. Top. Comput. Intell. (IEEE TETCI), vol. 9, no. 1, pp.
+1049-1062, 2025.
+166. Wen Zhang, Haitao Fu, Huan Wang, Zhiguo Gong, Pan Zhou, Di Wang, “3A Multi-
+Classification Division-Aggregation Framework for Fake News Detection,” IEEE
+Trans. Big Data 11(1): 130-140, 2025.
+167. Daizong Liu; Mingyu Yang; Xiaoye Qu; Pan Zhou; Yu Cheng; Wei Hu, “A Survey of
+Attacks on Large Vision–Language Models: Resources, Advances, and Future
+Trends,” IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS),
+36(11): 19525-19545, 2025.
+
+=== Page 18 ===
+168. Lin Chen, Pan Zhou, Xiaofeng Ding, Huanle Xu, John CS Lui, “ Differentially Private
+Online Convex Optimization With Long-Term Constraints via Gaussian Mech-
+anism and Virtual Queue,” IEEE Transactions on Emerging Topics in Computational
+Intelligence (IEEE TETCI), 2025.
+169. Zhongqi Miao; Xichun Cai; Lixing Chen; Yang Bai; Heqiang Wang; Zhe Qu; Pan Zhou;
+Xinping Guan, “DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Re-
+inforcement Learning Framework with Heterogeneous Graph Neural Networks,”
+IEEE/ACM Transactions on Networking (IEEE/ACM TON), vo. 34, pp. 1-14, 2026.
+170. Youqi Li, Fan Li, Pan Zhou, and Yu Wang, “Communication-Efficient Decentral-
+ized Contextual X-Armed Bandit Learning in Multi-agent Stochastic Networks,”
+IEEE/ACM Transactions on Networking (IEEE/ACM TON), vo. 34, pp. 1-14, 2026.
+171. Daizong Liu, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, and Wei Hu, “Are Large
+Vision-Language Models Robust to Adversarial Visual Transformations?,” IEEE
+Trans. on Information Forensics and Security (IEEE TIFS), 2026.
+172. Zuan Wang, Xiaofeng Ding, Wei Song,Pan Zhou, Lin Chen, Youliang Tian, and Kim-Kwang
+Raymond Choo, “Towards Privacy-Preserving Top-k Location-Based Dominating
+Queries over Encrypted Data,”IEEETransactionsonDependableandSecureComputing
+(IEEE TDSC), 2026.
+173. Zichuan Xu, Peichen Liu, Qiufen Xia, Weifa Liang, Guangyuan Xu, Pan Zhou, Hao Li,
+“Efficient and Fault Tolerant Data Stream Processing with Uncertain Data Rates
+in Serverless Edge Computing,”IEEETransactionsonServicesComputing(IEEETSC),
+vol. 19, no. 1, pp. 295-308, 2026.
+174. Zhongqi Miao, Xichun Cai, Lixing Chen,Yang Bai, Hongfu Liu, Zhe Qu, Pan Zhou, and
+Xinping Guan, “Hybrid Computing of Decentralized Applications in Edge Web 3.0:
+A Scheduling Strategy via Decision Transformer,”IEEETransactionsonMobileCom-
+puting (IEEE TMC), 2026.
+Book Chapters
+1. Pan Zhou, Tao Jiang, Chonggang Wang, Qian Zhang, “Zigbee Profile,” Zigbee Network
+Protocols and Applications, CRC press, 2014.03.18.
+Chinese 1. 王涛，谭虎， 徐亭亭，辛保江， 刘刚， 周周周潘潘潘， Wang Tao， Tan Hu， Xu Tingting，
+Publications Xin Baojiang， Liu Gang， Zhou Pan， ”基基基于于于迭迭迭代代代二二二分分分聚聚聚类类类的的的K-匿匿匿名名名机机机制制制”,信息安全研究,
+第9卷, 第5期, pp. 402-411， 2023.
+2. 王缵， 丁晓锋，田有亮，周周周潘潘潘，金海， ”移移移动动动边边边缘缘缘计计计算算算中中中基基基于于于位位位置置置信信信息息息的的的安安安全全全Skyline查查查询询询
+处处处理理理方方方法法法”,中国科学: 信息科学, 第51卷, 第10期, pp. 1721-1737， 2021.
+3. 谢雨来，黄迎港，周周周潘潘潘， 冯丹， ”基基基于于于深深深度度度学学学习习习混混混合合合模模模型型型的的的社社社交交交媒媒媒体体体热热热点点点话话话题题题趋趋趋势势势预预预测测测方方方
+法法法研研研究究究”,计算机学报, 第xxx卷, 第yyy期, pp. 1-15， 2021.
+4. 沈平，袁瑛，周周周潘潘潘， ”物物物联联联网网网中中中大大大规规规模模模无无无线线线射射射频频频识识识别别别标标标签签签的的的容容容错错错估估估计计计算算算法法法”, 计算机应用与软
+件,第36卷 第6期, pp. 35-42, 2019.(Shen Ping, Yuan Ying, Zhou Pan, ”FAULT TOLERANT
+ESTIMATION ALGORITHM OF LARGE SCALE RFID TAGS IN THE INTERNET OF
+THINGS”, Computer Applications and Software, vol. 36, no. 6, pp. 35-42, 2019. )
+5. 沈平，袁瑛，周周周潘潘潘，”基基基于于于混混混合合合重重重引引引力力力搜搜搜索索索的的的认认认知知知无无无线线线电电电网网网络络络协协协作作作通通通信信信算算算法法法”,计算机应用
+与软件,第36卷 第10期, pp. 87-94，100, 2019.(Shen Ping, Yuan Ying, Zhou Pan, ”COOP-
+ERATION COMMUNICATION ALGORITHM IN COGNITIVE WIRELESS NETWORKS
+BASEDONHYBRIDGRAVITATIONALSEARCH””,ComputerApplicationsandSoftware,
+vol. 36, no.10, pp. 87-94，100, 2019. )
+
+=== Page 19 ===
+Conference
+1. Pan Zhou, Xuebing Pei and Kanru Xu, “A semi-centralized approach for optimized
+Publications
+multi-hop virtual MIMO wireless sensor networks,” The Second IEEE International
+Conference on Communications and Networking in China (IEEE ChinaCom 2007), pp.
+877-881, shanghai, China, August, 2007.
+2. Kanru Xu, Diana Chizuni, Wenqing Cheng, Zhen Feng, Pan Zhou, “A V-BLAST Based
+Virtual MIMO Transmission Scheme for Sensor Network Lifetime Maximiza-
+tion,” The 66th IEEE Vehicular Technology Conference, (IEEE VTC Fall 2007), pp. 377-
+381, Baltimore, MD, USA, 2007.
+3. Pan Zhou, Wei Liu and Kanru Xu, “An energy-efficient multi-hop cooperative trans-
+mission protocol design for sensor networks,” The 32nd Annual IEEE Conference on
+Local Computer Networks (IEEE LCN 2007), pp. 220-222, Dublin, Ireland, October, 2007.
+4. Pan Zhou, Wei Yuan, Wei Liu and Wenqing Cheng, “Joint power and rate control in
+cognitive radio networks: a game-theoretic approach,” IEEE International Conference
+on Communications (IEEE ICC 2008), pp. 3296-3301, Beijing, China, May, 2008.
+5. Zhongliang Liang, Wei Liu, Pan Zhou and Feng Gao, “Randomized multi-user strategy
+for spectrum sharing in opportunistic spectrum access network,” IEEEInternational
+Conference on Communications (IEEE ICC 2008), Cognet Workshop, Beijing, China, May,
+2008.
+6. Pan Zhou, Wei Liu, Wei Yuan and Wenqing Cheng, “Energy-efficient joint power and
+rate control via pricing in wireless data networks,” IEEE Wireless Communications
+and Networking Conference (IEEE WCNC 2008), pp.1091-1096, Las Vegas, Nevada, USA,
+March, 2008.
+7. WeiLiu,KanruXu,Pan Zhou,YiDingandWenqingCheng,“A joint utility-lifetime op-
+timization algorithm for cooperative MIMO sensor networks,” IEEE Wireless Com-
+munications and Networking Conference (IEEE WCNC 2008), pp. 1067-1072, Las Vegas,
+Nevada, USA, March,2008.
+8. Pan Zhou,GuowangMiaoandB.Bing,“Cross-layer Congestion Control and schedul-
+ing in multi-hop OFDMA wireless networks,” IEEE Global Telecommunications Con-
+ference (IEEE GLOBECOM 2009), pp. 1-6, Honolulu, Hawaii, Nov, 2009.
+9. Pan Zhou, Wei Liu, Wei Yuan, Wenqing Cheng and Shu Wang, “An energy-efficient
+cooperative MISO-based routing protocol for wireless sensor networks,”IEEEWire-
+less Communications and Networking Conference (IEEE WCNC 2009), pp. 2314-2319,
+Budapest, Hungary, April, 2009.
+10. Pan Zhou, Yusun Chang and J. Copeland, “Learning through Reinforcement for Re-
+peated Power Control Game in Cognitive Radio Networks,” IEEE Global Telecom-
+munications Conference (IEEE GLOBECOM 2010), pp.1-6, Miami, Florida, Dec. 2010.
+11. Pan Zhou, Yusun Chang and John Copeland, “Capacity and delay scaling in cognitive
+radio ad hoc networks: Impact of Primary User Activity,” IEEE Global Telecom-
+munications Conference (IEEE GLOBECOM 2010), pp.1-6, Miami, Florida, Dec. 2010.
+12. Pan Zhou, Yusun Chang and J. Copeland, “Asynchronous Power control game with
+channel outage constraints for cognitive radio networks,” IEEE International Confer-
+ence on Communications (IEEE ICC 2011), pp. 1-5, kyoto, Japan, June, 2011.
+
+=== Page 20 ===
+13. Chaoyun Zhang, Pan Zhou, Cheng Hua Li, Lijun Liu, “A Convolutional Neural Net-
+work for Leaves Recognition Using Data Augmentation,” 14th IEEE International
+ConferenceonPervasive,IntelligenceandComputing(IEEE PICOM 2015),pp. 2143-2150,
+CIT/IUCC/DASC/PICom, 2015.
+14. Ronghui Ju, Pan Zhou, Cheng Hua Li, Lijun Liu,“An Efficient Method for Document
+Categorization Based on Word2vec and Latent Semantic Analysis,” 14th IEEE In-
+ternationalConferenceonPervasive,IntelligenceandComputing(IEEE PICOM 2015),pp.
+2276-2283, CIT/IUCC/DASC/PICom, 2015.
+15. Xi Ouyang, Pan Zhou, Cheng Hua Li, Lijun Liu,“Sentiment Analysis Using Convolu-
+tional Neural Network,”14thIEEEInternationalConferenceonPervasive,Intelligenceand
+Computing (IEEE PICOM 2015), pp. 2359-2364, CIT/IUCC/DASC/PICom 2015.
+16. ChenchengLi,PanZhou,TaoJiang,“Differential privacy and distributed online learn-
+ing for wireless big data,” 7th International Conference on Wireless Communications and
+Signal Processing (IEEE WCSP 2015), pp. 1-5, 2015.
+17. Yuan Xue, Pan Zhou, Jun Li, Tao Jiang, “Distributed exploration bandit for dynamic
+spectrum access,” 7th International Conference on Wireless Communications and Signal
+Processing (IEEE WCSP 2015), pp. 1-5, 2015.
+18. Chenhui Hu, Ronghui Ju, Yusong Shen, Pan Zhou, Quanzheng Li, “Clinical decision
+support for Alzheimer’s disease based on deep learning and brain network,” IEEE
+International Conference on Communications (IEEE ICC 2016), Pages: 1 – 6, 2016.
+19. ZhuqiLi,LinChen,YichongBai,KaiguiBian,Pan Zhou,“On diffusion-restricted social
+network: A measurement study of WeChat moments,”IEEEInternationalConference
+on Communications (IEEE ICC 2016), Pages: 1 – 6, 2016.
+20. ChenchengLi,PanZhou,YingxueZhou,KaiguiBian,TaoJiang,SusantoRahardja,“Distributed
+private online learning for social big data computing over data center networks,”
+IEEE International Conference on Communications (IEEE ICC 2016), Pages: 1 – 6, 2016.
+21. Yuan Xue, Pan Zhou, Tao Jiang, Shiwen Mao, Xiaolei Huang, “Distributed Learning
+for Multi-Channel Selection in Wireless Network Monitoring,” IEEE International
+Conference on Sensing, Communication and Networking (IEEE SECON 2016), pp. 1-9,
+2016.
+22. Pan Zhou, Lin Cheng, Dapeng Oliver Wu, “Shortest Path Routing in Unknown En-
+vironments: Is the Adaptive Optimal Strategy Available?,” IEEE International Con-
+ference on Sensing, Communication and Networking (IEEE SECON 2016) , pp. 1-9, 2016.
+23. ShuangjieXu,YuCheng,KangGu,YangYang,ShiyuChang,PanZhou,“JointlyAttentive
+Spatial-Temporal Pooling Networks for Video-Based Person Re-identification,”
+2017 IEEE International Conference on Computer Vision (IEEE ICCV 2017), Pages: 4743
+- 4752, 2017.
+24. AnniZhou, YinanFeng, Pan Zhou, JieXu, “Social Intimacy Based IoT Services Min-
+ing of Massive Data,”2017 IEEE International Conference on Data Mining Workshops
+(IEEE ICDMw 2017), pp. 641 - 648, 2017.
+25. QiChen,WeiWang,YituWang,Pan Zhou,ZhaoyangZhang,“Content Caching Cluster-
+ing Based on Piecewise Interest Similarity,” IEEE Global Communications Conference
+(IEEE GLOBECOM 2017), pp. 1-7, 2017.
+
+=== Page 21 ===
+26. Yanyan Wang, Feng Han, Huiyang Qu, Qiang Chen, Guanghui Liu, Pan Zhou, “Nonuni-
+form Subband Superposed OFDM with Variable Granularity Spectrum Allocation
+for 5G,” IEEE Global Communications Conference (IEEE GLOBECOM 2017), pp. 1-7,
+2017.
+27. Yangbin Zhang, Kaigui Bian, Lin Chen, Pan Zhou, Xiaoming Li, “Dynamic Slot-Length
+Control for Reducing Neighbor Discovery Latency in Wireless Sensor Networks,”
+IEEE Global Communications Conference (IEEE GLOBECOM 2017), pp. 1-7, 2017.
+28. Shaokang Dong, Zijian Lei, Pan Zhou, Kaigui Bian, Guanghui Liu, “Job and Candi-
+date Recommendation with Big Data Support: A Contextual Online Learning
+Approach,” IEEE Global Communications Conference (IEEE GLOBECOM 2017), pp.
+1-7, 2017.
+29. Shuangjie Xu, Linchao Bao, Pan Zhou, “Class-Agnostic Video Object Segmentation
+without Semantic Re-Identification,” The 2018 DAVIS Challenge on Video Object Seg-
+mentation, CVPR Workshops, pp. 1-4, 2018.
+30. Chuanzhe Cui, Pan Zhou, Liang Gao, “Contextual Online Learning Selection of Fi-
+nite State Machines for Mobile Robots,” IEEE International Conference on Advanced
+Intelligent Mechatronics (IEEE AIM), pp. 682-687, 2018.
+31. Yuchong Hu, Xiaoyang Zhang, Patrick Pak-Ching Lee, and Pan Zhou, “Generalized Op-
+timal Storage Scaling via Network Coding,” 2018 IEEE International Symposium on
+Information Theory (IEEE ISIT), pp. 856-960,June, 2018.
+32. Anni Zhou, Pan Zhou, Dapeng Oliver Wu, Yuchong Hu, Shouling Ji, “T-PriDO: A Tree-
+based Privacy-Preserving and Contextual Collaborative Online Big Data Process-
+ingSystem,”toappearatthe6thIEEEConferenceonCommunicationsandNetworkSecurity
+(IEEE CNS’18), pp. 1-9, Beijing, China, May-June 2018.
+33. YifanHou,Pan Zhou,JieXu,DapengOliverWu,“Course Recommendation of MOOC
+with Big Data Support: A Contextual Online Learning Approach,”IEEEINFOCOM
+Workshop on Knowledge Centric Networking (IEEE NFOCOM Workshop KCN), pp.
+106-111, 2018.
+34. Jie Xu, Lixing Chen, Pan Zhou, “Joint Service Caching and Task Offloading for
+Mobile Edge Computing in Dense Networks,” IEEE Conference on Computer Commu-
+nications (IEEE INFOCOM 2018), pp. 207-215, 2018.
+35. XiaoyangZhang,YuchongHu,PatrickPak-ChingLee,Pan Zhou,“Toward Optimal Stor-
+age Scaling via Network Coding: From Theory to Practice,” IEEE Conference on
+Computer Communications (IEEE INFOCOM 2018), pp. 1808 - 1816, 2018.
+36. Lingchen Zhao, Lihao Ni, Shengshan Hu, Yanjiao Chen, Pan Zhou, Fu Xiao, Libing Wu,
+“InPrivate Digging: Enabling Tree-based Distributed Data Mining with Differen-
+tial Privacy,” IEEE Conference on Computer Communications (IEEE INFOCOM 2018),
+pp. 2087-2095, 2018.
+37. M. D. Samiul Islam, Daizong Liu, Kewei Wang, Pan Zhou, Li Yu, Dapeng Wu, “A Case
+Study of HealthCare Platform using Big Data Analytics and Machine Learning,”
+Proceedingsofthe20193rdHighPerformanceComputingandClusterTechnologiesConference
+(ACM HPCCT 2019), pp. 139-146, Guangzhou, China, June 22-24, 2019.
+38. Difan Mu, Pan Zhou, Qinghua Li, Ruixuan Li, Jie Xu, “Privacy-Preserving MEC-
+Enabled Contextual Online Learning via SDN for Service Selection in IoT,” The
+16th International Conference on Mobile Ad-hoc and Smart Systems (IEEE MASS 2019),
+pp.1-9, 2019.
+
+=== Page 22 ===
+39. WeiguangZhao, MingxuanChen, DifanMu, Pan Zhou, KehaoWang, “Differentially Pri-
+vate Tree-Based Contextual Online Learning for Service Big Data Selection in
+IoT,”IEEEGlobalCommunicationsConference(IEEE GLOBECOM 2019),pp.1-6,2019.
+40. Kehao Wang, Xueyan Chen, Jihong Yu, Lin Chen, Pan Zhou, “Energy-Efficient Base
+Station Deployment in Heterogeneous Communication Network,” 19th IEEE Inter-
+national Conference on Scalable Computing and Communications (IEEE ScalCom 2019),
+pp. 1644-1649, 2019.
+41. ZhikangZou,HuiliangShao,XiaoyeQu,WeiWei,PanZhou,“Enhanced 3D convolutional
+networks for crowd counting,” The British Machine Vision Conference (BMVC), pp. 1-
+13, Cardiff, UK, 2019.
+42. Wei Wei, Jiayi Liu, Xianling Mao, Guibin Guo, Feida Zhu, Pan Zhou and Yuchong Hu,
+“Emotion-aware Chat Machine: Automatic Emotional Response Generation for
+Human-like Emotional Interaction,” The 28th ACM International Conference on Infor-
+mation and Knowledge Management (ACM CIKM), pp. 1401-1410, 2019.
+43. WenjinYan,RuixuanLi,JunWang,YuhuaLi,JinyangWang,PanZhouandXiwuGu,“Imbalance
+Rectification in Deep Logistic Regression for Multi-Label Image Classification Us-
+ing Random Noise Samples,”The28thACMInternationalConferenceonInformationand
+Knowledge Management (ACM CIKM), pp. 1131-1140, 2019.
+44. Zichuan Xu, Yutong Zhang, Weifa Liang, Qiufen Xia, Omer F. Rana, Alex Galis, Guowei
+Wu,andPan Zhou,“NFV-enabled multicasting in mobile edge clouds with resource
+sharing,” 48th Intl Conference on Parallel Processing (ACM ICPP’19), pp. 104:1-104:10,
+August, 2019.
+45. Shan Wen, Guanghui Liu, Qiang Chen, Huiyang Qu, Yanyan Wang, and Pan Zhou, “Opti-
+mization of Precoded FTN Signaling with MMSE-Based Turbo Equalization,”IEEE
+International Conference on Communications (IEEE ICC), pp. 1-6, 2019.
+46. Chonghao Zhang, Pan Zhou, Guanghui Liu, Shimin Gong, Wei Wang, Dapeng Oliver Wu,
+“Online Learning for Context-Aware Multi-User Package Delivery System with
+Unmanned Vehicles,” IEEE International Conference on Communications (IEEE ICC),
+pp. 1-7, 2019.
+47. XiaoyeQu,ZhikangZou,YuCheng,YangYang,PanZhou,“Adversarial Category Align-
+ment Network for Cross-domain Sentiment Classification,” 2019 Annual Conference
+of the North American Chapter of the Association for Computational Linguistics (NAACL
+2019), pp. 2496 - 2508, 2019.
+48. Shuangjie Xu, Daizong Liu, Linchao Bao, Wei Liu, Pan Zhou, “MHP-VOS: Multiple
+Hypotheses Propagation for Video Object Segmentation,” 2019 Proceedings of the
+IEEE Conference on Computer Vision and Pattern Recognition (IEEE CVPR 2019), pp.
+314-323, 2019.
+49. Daizong Liu, Xiaoye Qu, Jianfeng Dong, Pan Zhou, “Reasoning Step-by-Step: Tempo-
+ral Sentence Localization in Videos via Deep Rectification-Modulation Network,”
+the 28th International Conference on Computational Linguistics (COLING), pp. 1841-1851,
+Barcelona, Spain, Dec., 2020.
+50. XinxingSu,YuchenYuan,XiangboSu,ZhikangZou,ShileiWen,Pan Zhou,“HANet: Hy-
+brid Attention-aware Network for Crowd Counting,” 2020 25th International Confer-
+ence on Pattern Recognition (ICPR 2020), pp. 7707-7714, 2020. ICPR 2020 Best Scientific
+Paper Awards!
+
+=== Page 23 ===
+51. Daizong Liu, Hongting Zhang, Pan Zhou, “Video-based Facial Expression Recognition
+using Graph Convolutional Networks,” in the 25th International Conference on Pattern
+Recognition (ICPR 2020), pp. 607-614, 2020.
+52. ZichuanXu,JiangkaiWu,QiufenXia,PanZhou,JiankangRenandHuizhiLiang,“Identity-
+awareattributerecognitionviareal-timedistributedinferenceinmobileedgeclouds,”
+in Proc of ACM Multimedia (ACM MM), pp. 3265-3273, United States, ACM, 2020.
+53. DaizongLiu,XiaoyeQu,XiaoyangLiu,JianfengDong,Pan ZhouandZichuanXu,“Jointly
+cross- and self-modal graph attention network for query-based moment localiza-
+tion,” in Proc of ACM Multimedia (ACM MM), United States, pp. 4070-4078, ACM, 2020.
+54. Xiaoye Qu, Pengwei Tang, Zhikai Zou, Yu Cheng, Jianfeng Dong, Pan Zhou and Zichuan
+Xu,“Fine-grained iterative attention network for temporal language localization in
+videos,” in Proc of ACM Multimedia (ACM MM), pp. 4280-4288, United States, ACM,
+2020.
+55. Nannan Zhang, Wei Wang, Pan Zhou, Aiping Huang, “Delay-Optimal Edge Cache
+Replacement with Non-Markovian Content Fetching,” IEEE Global Communications
+Conference (IEEE GLOBECOM 2020), pp. 1-7, 2020.
+56. Hongting Zhang, Qiben Yan, Pan Zhou, Xiaoyang Liu, “Generating Robust Audio Ad-
+versarial Examples with Temporal Dependency,” 29th International Joint Conference
+on Artificial Intelligence (IJCAI 2020), pp. 3167-3173, July 11-17, Yokohama, Japan, 2020.
+57. Zeliang Zhang, Xiao-Yang Liu, Pan Zhou, “Trillion-Tensor: Trillion-Scale CP Tensor
+Decomposition,”29thInternationalJointConferenceonArtificialIntelligence(IJCAI 2020
+workshops), Workshop on Tensor Network Representations in Machine Learning, pp. 1-4,
+2020.
+58. Daizong Liu, Dongdong Yu, Minghui Dong, Lei Ma, Jie Shao, Jian Wang, Changhu Wang,
+andPanZhou,“An Effective Multi-level Backbone for Video Object Segmentation,”
+The 2020 DAVIS Challenge on Video Object Segmentation, CVPR Workshops, pp. 1-4, 2020.
+59. Fulin Wen, Lei Yang, Wei Cai, and Pan Zhou, “DP-Hybrid: A Two-Layer Consensus
+Protocol for High Scalability in Permissioned Blockchain,”In2020InternationalCon-
+ference on Blockchain and Trustworthy Systems (BlockSys 2020), springer, pp. 57-71, Aug.
+6-7, 2020.
+60. Zichuan Xu, Yugen Qin, Pan Zhou, John C. S. Lui, Weifa Liang, Qiufen Xia, Wenzheng Xu
+and Guowei Wu, “To cache or not to cache: Stable service caching in mobile edge-
+clouds of a service market,”inProcof40thIEEEInternationalConferenceonDistributed
+Computing Systems (IEEE ICDCS), pp. 421-431, Singapore, IEEE, 2020.
+61. Qiufen Xia, Wenhao Ren, Zichuan Xu, Pan Zhou, Wenzheng Xu, and Guowei Wu, “Learn
+to optimize: Adaptive VNF provisioning in mobile edge clouds,” in Proc of 17th
+annual IEEE International Conference on Sensing, Communication and Networking (IEEE
+SECON), pp. 1-9, Como, Italy, IEEE, 2020.
+62. ShoulingJi,QinchenGu,HaiqinWeng,QianjunLiu,Pan Zhou,JingChen,ZhaoLi,Raheem
+Beyah, and Ting Wan, “De-Health: All Your Online Health Information Are Belong
+to Us,” IEEE International Conference on Data Engineering (IEEE ICDE), pp. 1609-1620,
+Apr 24, 2020.
+
+=== Page 24 ===
+63. Zhikang Zou, Yifan Liu, Shuangjie Xu, Wei Wei, Shiping Wen and Pan Zhou, “Crowd
+Counting via Hierarchical Scale Recalibration Network,” the 24th European Confer-
+ence on Artificial Intelligence (ECAI 2020), pp. 2864-2871, Santiago de Compostela, Spain,
+2020. acceptance rate of 26.8%
+64. Lulu Xiao, Ruixuan Li, Xiaoye Qu, Jun Wang, Pan Zhou and Yuhua Li, “Fine-grained
+Text Sentiment Transfer via Dependency Parsing,”the 24th European Conference on
+Artificial Intelligence (ECAI 2020), pp. 2228-2235, Santiago de Compostela, Spain, 2020.
+acceptance rate of 26.8%
+65. Zichuan Xu, Lizhen Zhou, Sid Chi-Kin Chau, Weifa Liang, Qiufen Xia, Pan Zhou, “Col-
+laborate or Separate? Distributed Service Caching in Mobile Edge Clouds,” IEEE
+Conference on Computer Communications (IEEE INFOCOM 2020), pp. 2066-2075, 2020.
+66. Yinjie Zhang, Yuanxing Zhang, Yi Wu, Yu Tao and Kaigui Bian, Pan Zhou, Lingyang Song,
+HuTuo,“ImprovingQualityofExperiencebyAdaptiveVideoStreamingwithSuper-
+Resolution,” IEEE Conference on Computer Communications (IEEE INFOCOM 2020),
+pp. 1957-1966, 2020.
+67. Lixing Chen, Zhuo Lu, Pan Zhou, Jie Xu, “Learning Optimal Sniffer Channel As-
+signment for Small Cell Cognitive Radio Networks,” IEEE Conference on Computer
+Communications (IEEE INFOCOM 2020), pp.656-665, 2020.
+68. HouxiangFan,BinghuiWang,Pan Zhou,AngLi,ZichuanXu,CaiFu,Hai(Helen)Li,Yiran
+Chen, “Reinforcement Learning-Based Black-Box Evasion Attacks to Link Predic-
+tion in Dynamic Graphs,” The 2021 IEEE International Conference on High Performance
+Computing and Communications (IEEE HPCC), pp. 933-940, 2021
+69. ZhuolinYang,LinyiLi,XiaojunXu,ShiliangZuo,QianChen,BenjaminI.P.Rubinstein,Pan
+Zhou,CeZhang,BoLi,“TRS: Transferability Reduced Ensemble via Promoting Gra-
+dient Diversity and Model Smoothness,” Thirty-fifth Conference on Neural Information
+Processing Systems (NeurIPS), pp. 17642-17655, 2021.
+70. Daizong Liu, Xiaoye Qu and Pan Zhou, “Progressively Guide to Attend: An Iterative
+Alignment Framework for Temporal Sentence Grounding,” The 2021 Conference on
+Empirical Methods in Natural Language Processing (EMNLP), pp. 9302-9311, 2021.
+71. Daizong Liu, Xiaoye Qu, Jianfeng Dong and Pan Zhou, “Adaptive Proposal Generation
+Network for Temporal Sentence Localization in Videos,” The 2021 Conference on
+Empirical Methods in Natural Language Processing (EMNLP), pp. 9292-9301, 2021.
+72. Gang-Ting Liu, Qi-Wen Li, Dan-Hong Wang, Ruo-Bing Ren, Hai-Tao Chou, Pan Zhou,“A
+DifferentiallyPrivateContext-AwareEdge-Cloud-EnabledNursingSysteminSmart
+Home,” 2021 2nd International Conference on Computer Communication and Network Secu-
+rity (CCNS), pp. 53-58, 2021.
+73. Zhikang Zou, Xiaoye Qu, Pan Zhou, Shuangjie Xu, Xiaoqing Ye, Wenhao Wu and Jin Ye,
+“Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Net-
+work,” in Proc of The 29th ACM International Conference on Multimedia (ACM MM),
+pp.2185-2194, United States, ACM, 2021.
+74. Qiming Wu, Zhikang Zou, Pan Zhou, Xiaoqing Ye, Binghui Wang and Ang Li, “Towards
+Adversarial Patch Analysis and Certified Defense against Crowd Counting,” in
+Proc of The 29th ACM International Conference on Multimedia (ACM MM), pp. 2195-
+2204, United States, ACM, 2021.
+
+=== Page 25 ===
+75. WenxiaoWang, TianhaoWang, LunWang, NanqingLuo, Pan Zhou, DawnSong, RuoxiJia,
+“DPlis: Boosting Utility of Differentially Private Deep Learning via Randomized
+Smoothing,” 21st Proceedings on Privacy Enhancing Technologies Symposium (PoPETS
+2021), vol. 4, pp. 163-183, July 12–16, 2021.
+76. Zichuan Xu, Dongqi Liu, Weifa Liang, Wenzheng Xu, Haipeng Dai, Qiufen Xia, and Pan
+Zhou, “Online Learning Algorithms for Offloading Augmented Reality Requests
+with Uncertain Demands in MECs,” The 41th IEEE International Conference on Dis-
+tributed Computing Systems (IEEE ICDCS), pp. 1064-1074, Washington DC, IEEE, 2021.
+77. Daizong Liu,Xiaoye Qu, Jianfeng Dong, Pan Zhou, Yu Cheng, Wei Wei, Zichuan Xu, Yulai
+Xie, “Context-aware Biaffine Localizing Network for Temporal Sentence Ground-
+ing,” 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE
+CVPR), pp. 11235-11244, 2021.
+78. NannanZhang,WeiWang,RuiningLan,Pan Zhou,AipingHuang,“Delay-Aware Cache-
+Enabled Cooperative D2D Transmission in Mobile Cellular Networks,” 2021 IEEE
+Wireless Communications and Networking Conference (IEEE WCNC), pp. 1-6, 2021.
+79. Daizong Liu, Dongdong Yu, Changhu Wang, Pan Zhou, “F2Net: Learning to Focus
+on the Foreground for Unsupervised Video Object Segmentation,” The Thirty-Fifth
+Conference on Artificial Intelligence (AAAI 2021), pp. 2109-2117, Vancouver, Canada, from
+February 2–9, 2021.
+80. Daizong Liu, Shuangjie Xu, Xiao-Yang Liu, Zichuan Xu, Wei Wei, Pan Zhou, “Spatiotem-
+poral Graph Neural Network based Mask Reconstruction for Video Object Segmen-
+tation,”TheThirty-FifthConferenceonArtificialIntelligence(AAAI 2021),pp. 2100-2108,
+Vancouver, Canada, from February 2–9, 2021.
+81. ZichuanXu,HaozheRen,WeifaLiang,QiufenXia,WanleiZhou,GuoweiWu,andPanZhou,
+“Near optimal and dynamic mechanisms towards a stable NFV market in multi-
+tier cloud networks,”ToappearinProcofIEEEConferenceonComputerCommunications
+(IEEE INFOCOM 2021), pp. 1-10, 2021.
+82. Wenzheng Xu, Dezhong Peng, Weifa Liang, Xiaohua Jia, Zichuan Xu, Pan Zhou, Weigang
+Wu, Xiang Chen, “Maximizing h-hop Independently Submodular Functions Under
+Connectivity Constraint,” IEEE Conference on Computer Communications (IEEE IN-
+FOCOM), pp. 1099-1108, 2022.
+83. Zichuan Xu, Wenhao Ren, Weifa Liang, Wenzheng Xu, Qiufen Xia, Pan Zhou, Mingchu Li,
+“Schedule or Wait: Age-Minimization for IoT Big Data Processing in MEC via
+Online Learning,” IEEE Conference on Computer Communications (IEEE INFOCOM),
+pp.1809-1818, 2022.
+84. Daizong Liu, Xiaoye Qu, Yinzhen Wang, Xing Di, Kai Zou, Yu Cheng, Zichuan Xu, Pan
+Zhou,“Unsupervised Temporal Video Grounding with Deep Semantic Clustering,”
+The Thirty-Six Conference on Artificial Intelligence (AAAI 2022), pp. 1683-1691, 2022.
+85. Daizong Liu, Xiaoye Qu, Xing Di, Yu Cheng, Zichuan Xu, Pan Zhou, “Memory-Guided
+Semantic Learning Network for Temporal Sentence Grounding,”TheThirty-SixCon-
+ference on Artificial Intelligence (AAAI 2022), pp. 1665-1673, 2022.
+86. Daizong Liu, Xiaoye Qu, Pan Zhou, Yang Liu, “Exploring Motion and Appearance In-
+formation for Temporal Sentence Grounding,” The Thirty-Six Conference on Artificial
+Intelligence (AAAI 2022), pp. 1674-1682, 2022.
+
+=== Page 26 ===
+87. Binghui Wang, Youqi Li, and Pan Zhou, “Bandits for Structure Perturbation-based
+Black-box Attacks to Graph Neural Networks with Theoretical Guarantees,” 2022
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (IEEE CVPR), pp.
+13369-13377, 2022.
+88. Chao Guo, Daizong Liu and Pan Zhou, “A Hybird Alignment Loss for Temporal Mo-
+ment Localization with Natural Language,”2022IEEEInternationalConferenceonMul-
+timedia and Expo (ICME), pp. 1-6, 2022.
+89. Zuan Wang, Xiaofeng Ding, Hai Jin and Pan Zhou, “Efficient Secure and Verifiable
+Location-Based Skyline Queries over Encrypted Data,” 48th International Conference
+on Very Large Databases (VLDB 2022), vol.15, no. 9, pp. 1822-1834, 2022.
+90. Zeyu Xiong, Daizong Liu and Pan Zhou, “Gaussian Kernel-based Cross Modal Net-
+work for Spatio-Temporal Video Grounding,” The 29th IEEE International Conference
+on Image Processing (IEEE ICIP), pp. 1-5, 2022.
+91. YuhuaSun,TailaiZhang,XingjunMa,Pan Zhou,JianLou,ZichuanXu,XingDi,YuCheng,
+LichaoSun,“BackdoorAttacksonCrowdCounting,”inProcofACMMultimedia(ACM
+MM), pp. 5351-5360, United States, ACM, 2022.
+92. Zhi Luo, Youqi Li, Lixing Chen, Zichuan Xu, and Pan Zhou, “Action-Manipulation At-
+tack and Defense to X-Armed Bandits ,” 2022 IEEE International Conference on Trust,
+Security and Privacy in Computing and Communications (IEEE TrustCom), pp. 1-8, 2022.
+93. Zhi Luo, Youqi Li, Lixing Chen, Zichuan Xu, and Pan Zhou, “Data Poisoning Attack to
+X-Armed Bandits,” 2022 IEEE International Conference on Trust, Security and Privacy in
+Computing and Communications (IEEE TrustCom), pp. 1-6, 2022.
+94. JiahaoZhu, DaizongLiu, Pan Zhou, XingDi, YuCheng, SongYang, WenzhengXu, Zichuan
+Xu,YaoWan,LichaoSun,ZeyuXiong,“Rethinking the Video Sampling and Reasoning
+Strategies for Temporal Sentence Grounding,” In Proceedings of the 2022 Conference
+on Empirical Methods in Natural Language Processing (EMNLP), pp. 1-11, 2022.
+95. Daizong Liu, Xiang Fang, Pan Zhou, Xing Di, Weining Lu, Yu Cheng, “Hypotheses Tree
+Building for One-Shot Temporal Sentence Localization,” The Thirty-Seventh Confer-
+ence on Artificial Intelligence (AAAI 2023), Washington, DC, USA, from February 7–14,
+2023.
+96. Xiaoye Qu, Jun Zeng, Daizong Liu, Zhefeng Wang, Baoxing Huai, Pan Zhou, “Distantly-
+Supervised Named Entity Recognition with Adaptive Teacher Learning and Fine-
+grainedStudentEnsemble,”TheThirty-SeventhConferenceonArtificialIntelligence(AAAI
+2023), Washington, DC, USA, from February 7–14, 2023.
+97. HaozhaoWang,WenchaoXu,YunfengFan,RuixuanLi,Pan Zhou,“AOCC-FL: Federated
+Learning with Aligned Overlapping via Calibrated Compensation,” IEEE Conference
+on Computer Communications (IEEE INFOCOM 2023), New York area, USA, from May
+17–20, 2023.
+98. Daizong Liu and Pan Zhou, “Jointly Visual- and Semantic-Aware Graph Memory
+Networks for Temporal Sentence Localization in Videos,” 2023 IEEE International
+ConferenceonAcoustics,SpeechandSignalProcessing(IEEE ICASSP 2023),Greekisland
+of Rhodes, from June 04 - 10, 2023.
+99. DaizongLiuandPan Zhou,“Tracking Objects and Activities with Atention for Tem-
+poral Sentence Grounding,”2023IEEEInternationalConferenceonAcoustics,Speechand
+Signal Processing (IEEE ICASSP 2023), Greek island of Rhodes, from June 04 - 10, 2023.
+
+=== Page 27 ===
+100. Xiang Fang, Daizong Liu, Pan Zhou, Guoshun Nan, “ You Can Ground Earlier than
+See: An Effective and Efficient Pipeline for Temporal Sentence Grounding in
+Compressed Videos,” 2023 Proceedings of the IEEE Conference on Computer Vision and
+Pattern Recognition (IEEE CVPR 2023),Canada, Vancouver, Jun 18th-22th, 2023.
+101. Zenghui Yuan, Pan Zhou, Kai Zou, Yu Cheng, “You Are Catching My Attention: Are
+Vision Transformers Bad Learners under Backdoor Attacks?,” 2023 Proceedings of
+the IEEE Conference on Computer Vision and Pattern Recognition (IEEE CVPR 2023),
+pp. 24605-24615, Canada, Vancouver, Jun 18th-22th, 2023.
+102. Jiawen Shi, Yixin Liu, Pan Zhou and Lichao Sun, “BadGPT: Exploring Security Vul-
+nerabilities of ChatGPT via Backdoor Attacks to InstructGPT,” Network and Dis-
+tributed System Security Symposium (NDSS’23), poster publication, San Diego, California.
+2023.
+103. Zenghui Yuan, Yixin Liu, Kai Zhang, Pan Zhou and Lichao Sun, “Backdoor Attacks
+to Pre-trained Unified Foundation Models,” Network and Distributed System Security
+Symposium (NDSS’23), poster publication, San Diego, California. 2023.
+104. Yunbo Tao, Daizong Liu, Pan Zhou, Yulai Xie, Wei Du, Wei Hu, “3DHacker: Spectrum-
+based Decision Boundary Generation for Hard-label 3D Point Cloud Attack,” In-
+ternational Conference on Computer Vision 2023 (IEEE ICCV), Paris, Oct 2-6, 2023.
+105. Daizong Liu, Xiaoye Qu, Jianfeng Dong, Guoshun Nan, Pan Zhou, Zichuan Xu, Lixing
+Chen, He Yan, Yu Cheng, “Filling the Information Gap between Video and Query
+for Language-Driven Moment Retrieval,” in Proc of ACM Multimedia (ACM MM),
+Ottawa, Canada, 2023.
+106. KekeTang,XujianCai,WeilongPeng,DaizongLiu,PeicanZhu,PanZhou,ZhihongTian,and
+Wenping Wang, “Matching Words for Out-of-distribution Detection,” in Proc of23rd
+IEEE International Conference on Data Mining (IEEE ICDM), pp. 4190-4199, Shanghai,
+China, 2023.
+107. Xiang Fang, Daizong Liu, Wanlong Fang, Pan Zhou, Yu Cheng, Keke Tang, Kai Zou, “An-
+notations Are Not All You Need: A Cross-modal Knowledge Transfer Network
+for Unsupervised Temporal Sentence Grounding,” The 2023 Conference on Empirical
+Methods in Natural Language Processing (EMNLP), pp. 1-1, 2023.
+108. YifanYang,LinChen,XiaofeiDing,PanZhou,“VFLH:AFollowing-the-Leader-History
+Based Algorithm for Adaptive Online Convex Optimization with Stochastic Con-
+straints,” 023 IEEE 35th International Conference on Tools with Artificial Intelligence (
+IEEE ICTAI), pp. 172-177, 2023. ICTAI 2023 Best Student Paper Award! accepted rate
+2/143=1.398%
+109. Yuanxin Zhuang, Chuan Shi, Mengmei Zhang, Jinghui Chen, Lingjuan Lyu, Pan Zhou,
+Lichao Sun, “Unveiling the Secrets without Data: Can Graph Neural Networks Be
+Exploited through Data-Free Model Extraction Attacks?,”The33rdUSENIXSecurity
+Symposium (Usenix Security), pp. 1-18, 2024.
+110. Junyang Chen, Guoxuan Zou, Pan Zhou, Yirui Wu, Zhenghan Chen, Houcheng Su, Huan
+Wang,ZhiguoGong,“Sparse Enhanced Network: An Adversarial Generation Method
+for Robust Augmentation in Sequential Recommendation,” The Thirty-Eighth Con-
+ference on Artificial Intelligence (AAAI 2024), pp.1-8, Vancouver, Canada, from February
+20–27, 2024.
+111. Wanfang Su, Lixing Chen, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou, “What Makes
+Good Collaborative Views? Contrastive Mutual Information Maximization for
+
+=== Page 28 ===
+Multi-Agent Perception,” The Thirty-Eighth Conference on Artificial Intelligence (AAAI
+2024), pp.1-8, Vancouver, Canada, from February 20–27, 2024.
+112. KekeTang,XuHe,WeilongPeng,JianpengWu,YawenShi,DaizongLiu,PanZhou,Wenping
+Wang, Zhihong Tian, “Manifold Constraints for Imperceptible Adversarial Attacks
+on Point Clouds,” The Thirty-Eighth Conference on Artificial Intelligence (AAAI 2024),
+pp.1-8, Vancouver, Canada, from February 20–27, 2024.
+113. Daizong Liu, Xiang Fang, Xiaoye Qu, Jianfeng Dong, He Yan, Yang Yang, Pan Zhou, Yu
+Cheng, “Unsupervised Domain Adaptative Temporal Sentence Localization with
+Mutual Information Maximization,” The Thirty-Eighth Conference on Artificial Intel-
+ligence (AAAI 2024), pp.1-8, Vancouver, Canada, from February 20–27, 2024.
+114. Xiang Fang, Daizong Liu, Wanlong Fang, Pan Zhou, Zichuan Xu, Wenzheng Xu, Junyang
+Chen, Renfu Li, “Fewer Steps, Better Performance: Efficient Cross-Modal Clip
+Trimming for Video Moment Retrieval Using Language,” The Thirty-Eighth Con-
+ference on Artificial Intelligence (AAAI 2024), pp.1-8, Vancouver, Canada, from February
+20–27, 2024.
+115. Ao Liu, Wenshan Li, Tao Li, Beibei Li, Hanyuan Huang, Pan Zhou, “Towards Inductive
+Robustness: Distilling and Fostering Wave-induced Resonance in Transductive
+GCNs Against Graph Adversarial Attacks,”TheThirty-EighthConferenceonArtificial
+Intelligence (AAAI 2024), pp.1-8, Vancouver, Canada, from February 20–27, 2024.
+116. Binghui Wang, Minhua Lin, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Hai Li, Yiran,
+Chen,“Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-
+Layer Graph Neural Networks via Influence Function,” The 17th ACM International
+ConferenceonWebSearchandDataMining(ACMWSDM2024),pp.1-8,M´erida,Yucat´an,
+from March 4th to March 8th 2024.
+117. Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan
+Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun, “MetaTool Benchmark: Deciding
+Whether to Use Tools and Which to Use,”TwelfthInternationalConferenceonLearning
+Representations (ICLR 2024), pp.1-32, Vienna, Austria, May 7th, 2024 to May 11th, 2024.
+118. Hua Ding, Lixing Chen, Shenghong Li, Yang Bai, Pan Zhou, Zhe Qun, “Divide, Conquer,
+and Coalesce: Meta Parallel Graph Neural Network for IoT Intrusion Detection
+at Scale,” The Web Conference 2024 (WWW 2024), pp.xx-yy, Singapore, May 13-17th,
+2024.
+119. Daizong Liu, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Pan Zhou, Guoshun Nan, Keke Tang,
+Wanlong Fang, Yu Cheng,“Towards Robust Temporal Activity Localization Learning
+with Noisy Labels,”the32thInternationalConferenceonComputationalLinguistics(COL-
+ING),Torino, Italia, 2024.
+120. Wen Yin, Jian Lou, Pan Zhou, Yulai Xie, Dan Feng, Yuhua Sun, Tailai Zhang, Lichao Sun,
+“Physical Backdoor: Towards Temperature-based Backdoor Attacks in the Physical
+World,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition
+(IEEE CVPR 2024), 2024.
+121. Yixin Liu, Chenrui Fan, Yutong Dai, Xun Chen, Pan Zhou, Lichao Sun, “MetaCloak:
+Preventing Unauthorized Subject-driven Text-to-image Diffusion-based Synthesis
+via Meta-learning,” Proceedings of the IEEE Conference on Computer Vision and Pattern
+Recognition (IEEE CVPR 2024), 2024.
+
+=== Page 29 ===
+122. Wenzheng Xu, He Xue, Jing Li, Weifa Liang, Zichuan Xu, Pan Zhou, Xiaohua Jia and Sajal
+Das, “Approximation Algorithm for Connected Submodular Function Maximiza-
+tion Problems,” in Proc of 44th IEEE International Conference on Distributed Computing
+Systems (IEEE ICDCS),2024.
+123. Zhaochen Su, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu
+Cheng, Min Zhang, “Living in the Moment: Can Large Language Models Grasp Co-
+Temporal Reasoning?,” in Proc of Association for Computational Linguistics (ACL),2024.
+124. Lin Lu, Chenxi Dai, Wangcheng Tao, Binhang Yuan, Yanan Sun, Pan Zhou, “Position:
+Exploring the Robustness of Pipeline-Parallelism-Based Decentralized Training,”
+in Proc of International Conference on Machine Learning (ICML), 2024.
+125. Dongping Chen, Ruoxi Chen, Shilin Zhang, Yaochen Wang, Yinuo Liu, Huichi Zhou, Qihui
+Zhang, Pan Zhou, Yao Wan, Lichao Sun, “MLLM-as-a-Judge: Assessing Multimodal
+LLM-as-a-Judge with Vision-Language Benchmark,” in Proc of International Confer-
+ence on Machine Learning (ICML), 2024.
+126. Mingyu Yang, Daizong Liu, Keke Tang, Pan Zhou, Lixing Chen, Junyang Chen, “Hiding
+Imperceptible Noise in Curvature-Aware Patches for 3D Point Cloud Attack,”
+European Conference on Computer Vision (ECCV), Italy, Oct 2-6, 2024.
+127. Xiang Fang, Zeyu Xiong, Wanlong Fang, Xiaoye Qu, Chen Chen, Jianfeng Dong, Keke Tang,
+Pan Zhou, Yu Cheng, Daizong Liu, “Rethinking Weakly-supervised Video Tempo-
+ral Grounding From a Game Perspective,” European Conference on Computer Vision
+(ECCV), Italy, Oct 2-6, 2024.
+128. Batu Guan, Yao Wan, Zhangqian Bi, Zheng Wang, Hongyu Zhang, Pan Zhou, Lichao Sun,
+“CodeIP: A Grammar-Guided Multi-Bit Watermark for Large Language Mod-
+els of Code,” The 2024 Conference on Empirical Methods in Natural Language Processing
+(EMNLP), pp. 1-1, 2024.
+129. Yuqi Zhou, Lin Lu, Ryan Sun, Pan Zhou, Lichao Sun, “Virtual Context Enhancing
+Jailbreak Attacks with Special Token Injection,” The 2024 Conference on Empirical
+Methods in Natural Language Processing (EMNLP), pp. 1-1, 2024.
+130. Wen Yin, Bin Benjamin Zhu, Yulai Xie, Pan Zhou, Dan Feng, “Backdoor Attacks on Bi-
+modal Salient Object Detection with RGB-Thermal Data,” ACM International Con-
+ference on Multimedia (ACM MM), 2024.
+131. Xiaowen Cai, Yunbo Tao, Daizong Liu, Pan Zhou, Xiaoye Qu, Jianfeng Dong, Keke Tang,
+LichaoSun,“Frequency-Aware GAN for Imperceptible Transfer Attack on 3D Point
+Clouds,” ACM International Conference on Multimedia (ACM MM), 2024.
+132. Xiang Fang, Wanlong Fang, Daizong Liu, Xiaoye Qu, Jianfeng Dong, Pan Zhou, Renfu Li,
+ZichuanXu,LixingChen,PanpanZheng,YuCheng,“Not All Inputs Are Valid: Towards
+Open-Set Video Moment Retrieval using Language,”ACMInternationalConferenceon
+Multimedia (ACM MM), 2024.
+133. Jiawen Shi, Zenghui Yuan, Yinuo Liu, Yue Huang, Pan Zhou, Lichao Sun, Neil Zhenqiang
+Gong,“Optimization-basedPromptInjectionAttacktoLLM-as-a-Judge,”ACMCon-
+ference on Computer and Communications Security (ACM CCS), 2024.
+134. DaizongLiu,MingyuYang,XiaoyeQu,Pan Zhou,XiangFang,KekeTang,YaoWan,Lichao
+Sun “Pandora’s Box: Towards Building Universal Attackers against Real-World
+Large Vision-Language Models,”38th Conference on Neural Information Processing Sys-
+tems (NeurIPS), 2024.
+
+=== Page 30 ===
+135. Yutong Zhang, Lixing Chen, Shenghong Li, Nan Cao, Yang Shi, Jiaxin Ding, Zhe Qu, Pan
+Zhou, Yang Bai, “Way to Specialist: Closing Loop Between Specialized LLM and
+Evolving Domain Knowledge Graph,”31st SIGKDD Conference on Knowledge Discovery
+and Data Minings (KDD), 2024.
+136. YuxuanLuo,ChongPeng,HongyuWang,PanZhou,LiejunWang,PanpanZheng,“DUMFNet:
+EnhancedMedicalImageSegmentationwithMulti-visualEncodingandLocalScan-
+ning,” International Conference on Bioinformatics and Biomedicine (BIBM), 2024.
+137. Ao Liu, Wenshan Li, Tao Li, Beibei Li, Guangquan Xu, Pan Zhou, Wengang Ma, Hanyuan
+Huang,“Graph Agent Network: Empowering Nodes with Inference Capabilities for
+Adversarial Resilience,” The Thirty-Eighth Conference on Artificial Intelligence (AAAI
+2025),The39thConferenceonArtificialIntelligence(AAAI2025),pp.18746-18753,Philadel-
+phia, Pennsylvania, USA, February 25-March 4, 2025.
+138. Ao Liu, Wenshan Li, Beibei Li, Wengang Ma, Tao Li, Pan Zhou, “Grimm: A Plug-
+and-Play Perturbation Rectifier for Graph Neural Networks Defending against
+Poisoning Attacks,”TheThirty-EighthConferenceonArtificialIntelligence(AAAI2025),
+The 39th Conference on Artificial Intelligence (AAAI 2025), pp.18754-18762, Philadelphia,
+Pennsylvania, USA, February 25-March 4, 2025.
+139. Xiang Fang, Wanlong Fang, Changshuo Wang, Daizong Liu, Keke Tang, Jianfeng Dong,
+Pan Zhou, Beibei Li, “Multi-Pair Temporal Sentence Grounding via Multi-Thread
+Knowledge Transfer Network,” The 39th Conference on Artificial Intelligence (AAAI
+2025), pp.1-8, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025.
+140. Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, Yue
+Huang, Yao Wan, Pan Zhou, Ranjay Krishna, “Interleaved Scene Graphs for Inter-
+leaved Text-and-Image Generation Assessment,” The Thirteenth International Confer-
+ence on Learning Representations(ICLR 2025), pp.1-8, Singapore, Thu Apr 24 – Mon Apr
+28th, 2025.
+141. Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Huichi Zhou, Qihui Zhang, Zhigang
+He, Yilin Bai, Chujie Gao, Liuyi Chen, Yiqiang Li, Chenlong Wang, Yue Yu, Tianshuo Zhou,
+Zhen Li, Yi Gui, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun, “GUI-World: A Video
+Benchmark and Dataset for Multimodal GUI-oriented Understanding,” The Thir-
+teenthInternationalConferenceonLearningRepresentations(ICLR2025),pp.1-8,Singapore,
+Thu Apr 24 – Mon Apr 28th, 2025.
+142. Zenghui Yuan, Jiawen Shi, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun, “BadToken:
+Token-level Backdoor Attacks to Multi-modal Large Language Models,” Proceed-
+ings of the IEEE Conference on Computer Vision and Pattern Recognition (IEEE CVPR
+2025), 2025.
+143. Fuyao Cai, Daizong Liu, Xiang Fang, jixiang Yu, Keke Tang and Pan Zhou, “Impercep-
+tible Beam-Sensitive Adversarial Attacks for LiDAR-based Object Detection in
+Autonomous Driving,” Proceedings of the IEEE International Conference on Multimedia
+and Expo (IEEE ICME 2025) , 2025.
+144. XiaowenCai,XiaowenCai,RunweiGuan,Pan Zhou,“Imperceptible Transfer Attack on
+Large Vision-Language Models,” Proceedings of the 2025 IEEE International Conference
+on Acoustics, Speech, and Signal Processing (IEEE ICASSP 2025), 2025.
+145. Wenzheng Xu, Honglin Mao, Heng Shao, Weifa Liang, Jian Peng, Wen Huang, Zichuan Xu,
+Pan Zhou, Jeffrey Xu Yu, “An Adaptive Sampling Algorithm for the Top-K Group
+Betweenness Centrality,”Proceedingsof2025IEEE41stInternationalConferenceonData
+Engineering (IEEE ICDE 2025), 2025.
+
+=== Page 31 ===
+146. ZenghuiYuan,YangmingXu,JiawenShi,PanZhou,LichaoSun,“Merge Hijacking: Back-
+door Attacks to Model Merging of Large Language Models,” in Proc of Association
+for Computational Linguistics (ACL),2025.
+147. Chenxi Dai, and Lin Lu Pan Zhou,“Stealing Training Data from Large Language
+Models in Decentralized Training through Activation Inversion Attack,” in Proc of
+Association for Computational Linguistics (ACL),2025.
+148. MingmengGeng,CaixiChen,YanruWu,YaoWan,PanZhou,DongpingChen,“The Impact
+of Large Language Models in Academia: from Writing to Speaking,” in Proc of
+Association for Computational Linguistics (ACL),2025.
+149. Haijian Ma, Daizong Liu, Xiaowen Cai, Pan Zhou, Yulai Xie, “Learning from Few Sam-
+ples: A Novel Approach for High-Quality Malcode Generationn,” The 2025 Con-
+ference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1-1, 2024.
+150. Hai Yan, Haijian Ma, Xiaowen Cai, Daizong Liu, Zenghui Yuan, Xiaoye Qu, Jianfeng Dong,
+Runwei Guan, Xiang Fang, Hongyang He, Yulai Xie, Pan Zhou,“Fit the Distribution:
+Cross-Image/Prompt Adversarial Attacks on Multimodal Large Language Mod-
+els,”inProcof39thConferenceonNeuralInformationProcessingSystems(NeurIPS),2025.
+151. Xiaowen Cai, Daizong Liu, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Keke Tang, , Pan Zhou,
+Lichao Sun, Wei Hu,“Towards Building
+Model/Prompt-Transferable Attackers against Large Vision-Language Models,” in
+Proc of 39th Conference on Neural Information Processing Systems (NeurIPS), 2025.
+152. Lin Zhang, Wenshuo Dong, Zhuoran Zhang, Shu Yang, Lijie Hu, Ninghao Liu, Pan Zhou,
+Di Wang,“Towards Building Model/Prompt-Transferable Attackers against Large
+Vision-Language ModelEAP-GP: Mitigating Saturation Effect in Gradient-based
+Automated Circuit Identifications,” in Proc of 39th Conference on Neural Information
+Processing Systems (NeurIPS), 2025.
+153. XueyangZhou,GuiyaoTie,GuowenZhang,HechengWang,PanZhou,LichaoSun,“BadVLA:
+TowardsBackdoorAttacksonVision-Language-ActionModelsviaObjective-Decoupled
+Optimization,”inProcof39thConferenceonNeuralInformationProcessingSystems(NeurIPS),
+2025.
+154. Guiyao Tie, Zenghui Yuan, Zeli Zhao, Chaoran Hu, Tianhe Gu, Ruihang Zhang, Sizhe Zhang,
+JunranWu,XiaoyueTu,MingJin,QingsongWen,LixingChen,PanZhou,LichaoSun,“Can
+LLMs Correct Themselves? A Benchmark of Self-Correction in LLMs,” in Proc of
+39th Conference on Neural Information Processing Systems (NeurIPS), 2025.
+155. YongquanXue,ZhaoruGuo,ZhaozhaoSu,ChongPeng,JunFeng,PanZhou,MarcinPietron,
+Xiyuan Wang, Liejun Wang, Panpan Zheng,“RoDeCon-Net: Medical Image Segmenta-
+tion via Robust Decoupling and Contrast-Enhanced Fusion,”inProcofthe33rdACM
+International Conference on Multimedia (ACM MM), 2025.
+156. JiawenShi,ZenghuiYuan,GuiyaoTie,PanZhou,NeilZhenqiangGong,LichaoSun,“Prompt
+Injection Attack to Tool Selection in LLM Agents,”inProcofNetworkandDistributed
+System Security (NDSS) Symposium, 2026.
+157. Zhaoyang Chu, Yao Wan, Zhikun Zhang, Di Wang, Zhou Yang, Hongyu Zhang, Pan Zhou,
+Xuanhua Shi, Hai Jin, David Lo,“Scrub It Out! Erasing Sensitive Memorization in
+Code Language Models via Machine Unlearning,”inProcofIEEE/ACMInternational
+Conference on Software Engineering (IEEE/ACM ICSE), 2026.
+
+=== Page 32 ===
+158. DunTan,LixingChen,BoZhang,HongfuLiu,HaoPeng,ShenghongLi,YangBai,PanZhou,
+“Playing Close to the Vest: Competitive Information Propagation in Partially
+ObservedDual-PopulationMean-FieldGames,”TheWebConference(WWW),pp.xx-
+yy, 2026.
+159. ChaofanLi,LixingChen,JunhuaTang,YangBai,YutongZhang,ZhiZheng,Pan Zhou,Zhe
+Qu, “How Human Experts Educate Specialized LLMs: Filling Knowledge Gaps in
+KG-Augmented Generation through Hallucination Detection,” The Web Conference
+(WWW ), pp.xx-yy, 2026.
+160. JiShen,LixingChen,YangBai,ZhongqiMiao,ZheQu,PanZhou*,JianhuaLi,“Augment-
+ing Cross-View Geo-Localization with Spatial Semantics from Vision Foundation
+Models,” The Web Conference (WWW ), pp.xx-yy, 2026.
