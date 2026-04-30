@@ -9,11 +9,12 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "原生世界模型安全实验室"
+title                    : "原生安全世界模型实验室"
 title_separator          : "-"
 name                     : &name "周潘"
-description              : &description "原生世界模型安全实验室主页"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://nswm-lab.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "原生安全世界模型实验室主页"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : http://localhost:4000 # 调试时用本地地址，上线前改回 https://nswm-lab.github.io/
+                                                           # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
