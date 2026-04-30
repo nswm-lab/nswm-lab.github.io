@@ -283,11 +283,12 @@ body {
 }
 
 .lab-hero-title-zh {
-  font-size: clamp(2.6rem, 5vw, 4.2rem);
+  font-size: clamp(2.2rem, 4.5vw, 3.8rem);
   font-weight: 900;
   letter-spacing: 0.04em;
-  line-height: 1.1;
+  line-height: 1.15;
   margin-bottom: 0.6rem;
+  white-space: nowrap;
   animation: lab-fadeIn 0.8s ease 0.1s both;
 }
 .lab-hero-title-en {
@@ -435,7 +436,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
-  align-items: start;
+  align-items: stretch;
 }
 .lab-about-concept {
   background: linear-gradient(135deg, var(--navy), var(--blue-deep));
@@ -489,7 +490,11 @@ body {
   margin-top: 1rem;
 }
 
-.lab-about-info {}
+.lab-about-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 .lab-about-info-item {
   padding: 1.2rem 0;
   border-bottom: 1px solid var(--gray-200);
@@ -1187,7 +1192,7 @@ body {
   .lab-news-grid { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 768px) {
-  .lab-hero-title-zh { font-size: 2.5rem; }
+  .lab-hero-title-zh { font-size: 2rem; white-space: normal; }
   .lab-hero-stats { gap: 1.5rem; }
   .lab-hero-stat-num { font-size: 1.8rem; }
   .lab-badvla-result-list { grid-template-columns: 1fr; }
@@ -1314,8 +1319,8 @@ body {
 
   <div class="lab-about-grid">
     <!-- Left: Native Secure World Model Concept -->
-    <div class="lab-about-concept" style="padding:3rem 2.5rem;">
-      <div class="lab-concept-tag">🔐 全球首创 · 首创者</div>
+    <div class="lab-about-concept">
+      <div class="lab-concept-tag">🔐 全球首创</div>
       <h2 class="lab-concept-title" style="font-size:1.6rem;">原生安全世界模型<br><span style="color:#0d9488;">Native Secure World Model</span></h2>
       <p class="lab-concept-text">
         传统 AI 安全方案多采用"外挂式"防护——在模型训练完成后额外叠加安全过滤层。这种方式不仅治标不治本，更在高风险、长周期交互场景中暴露根本性缺陷。
