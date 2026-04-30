@@ -1,13 +1,29 @@
 ---
 layout: archive
-title: "Publications"
+title: "论文成果"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<style>
+/* 适配原页面风格，优化中文排版 */
+.wordwrap {
+    word-break: break-all;
+    line-height: 1.8; /* 调整行高，避免文字挤在一起 */
+    margin-bottom: 2rem;
+    font-size: 16px;
+    color: #333;
+}
+/* 还原截图里的蓝色粗体效果 */
+.wordwrap strong {
+    color: #2980b9; /* 和原页面链接颜色一致，匹配截图蓝色 */
+    font-weight: bold;
+}
+</style>
+
+<div class="wordwrap">
+    <strong>科学研究：</strong>聚焦原生安全世界模型、具身智能及其安全、人工智能安全。以<strong>NeurIPS/ICML/ICLR/CVPR/ACL/AAAI/TIP (人工智能顶会顶刊)</strong>、<strong>NDSS/ACM CCS/USenix Security/TIFS/TDSC (网安安顶会顶刊)</strong>为代表，发表<strong>CCF-A类与中科院一区</strong>等顶级论文160余篇。谷歌学术引用超22,000次；ESI高被引6篇、1‰热点3篇；千引论文2篇、百引论文40篇，获92位院士、288位ACM/IEEE Fellow的正面引用；入选<strong>“ScholarGPS全球全学科领域前0.05%顶尖学者、Stanford全球影响力前2%顶尖科学家、Research.com全球最佳计算机科学家、Aminer AI 2000全球AI学者排名”</strong>等多项国际学术榜单；获IEEE最佳论文奖4次，含：IEEE信号处理协会图像处理汇刊<strong>IEEE TIP青年作者最佳论文奖（CCF-A，顶级期刊，IF=13.700）</strong>、IEEE计算智能协会计算智能前沿旗舰汇刊<strong>IEEE TETCI杰出论文奖（SCI一区，权威期刊，IF=8.380）</strong>；7篇人工智能领域CCF-A顶会入选Oral论文；授权发明专利14件；获全国“挑战杯”特等奖、湖北省科技进步一等奖等重要奖励10余次；任两本JCR一区期刊（IEEE TNSE和Elsevier AEJ）编委，任CCF-A顶会CVPR、IJCAI、AAAI和KDD等高级/程序委员11次、分会/领域主席2次，获AAAI“杰出程序委员奖”、IJCAI“服务贡献奖”。获评华为公司MindSpore社区“资深开发者荣誉”、华中科技大学科技新星（仅10人）。作为项目负责人承担国家自科基金、科技部、军科委、海军装备部等国家级及其他科研项目20余项，成果在政府、高企、央企与军工等多家机构实际部署与落地应用。
+</div>
 
 {% include base_path %}
 
