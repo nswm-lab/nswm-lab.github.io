@@ -1,1 +1,0 @@
-class String; def tainted?; false; end; def untrusted?; false; end end

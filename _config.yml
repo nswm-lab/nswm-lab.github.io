@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Pan Zhou"
-description              : "Pan Zhou | HUST HCI Researcher | Personal Website"
-repository               : "yuanhao0101/yuanhao0101.github.io"
+description              : "Pan Zhou | HUST Professor, PhD Supervisor"
+repository               : "nswm-lab/nswm-lab.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,8 +24,8 @@ author:
   name             : "Pan Zhou"
   avatar           : "images/profile.png"
   bio              : "Professor, PhD Supervisor"
-  location         : "WU Hang"
-  employer         : "HUST"
+  location         : "Wuhan, China"
+  employer         : "Huazhong University of Science and Technology (HUST)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=zh-CN"
   email            : "panzhou@hust.edu.cn"
@@ -146,6 +146,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
