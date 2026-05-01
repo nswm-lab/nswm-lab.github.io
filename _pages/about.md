@@ -109,10 +109,10 @@ body > div.page__footer {
 }
 .greedy-nav .visible-links li a:hover,
 .masthead__menu-item a:hover {
-  color: #5eead4 !important;
+  color: #93c5fd !important;
 }
 .masthead__menu-item.selected a {
-  color: #5eead4 !important;
+  color: #93c5fd !important;
 }
 .greedy-nav .visible-links li:first-child a {
   color: #ffffff !important;
@@ -132,8 +132,8 @@ body {
   --navy:      #0a1628;
   --blue-deep: #0f2744;
   --blue-mid:  #1a3a6b;
-  --teal:      #0d9488;
-  --teal-light:#14b8a6;
+  --teal:      #2563eb;
+  --teal-light:#3b82f6;
   --amber:     #f59e0b;
   --rose:      #e11d48;
   --purple:    #7c3aed;
@@ -144,11 +144,11 @@ body {
   --gray-400:  #94a3b8;
   --gray-600:  #475569;
   --gray-800:  #1e293b;
-  --shadow-md: 0 4px 16px rgba(0,0,0,0.12);
-  --shadow-lg: 0 8px 32px rgba(0,0,0,0.18);
-  --radius-lg: 16px;
-  --radius-md: 10px;
-  --radius-sm: 6px;
+  --shadow-md: 0 2px 8px rgba(0,0,0,0.06);
+  --shadow-lg: 0 4px 16px rgba(0,0,0,0.08);
+  --radius-lg: 12px;
+  --radius-md: 8px;
+  --radius-sm: 4px;
 }
 
 /* ─── Page Reset ─── */
@@ -182,7 +182,7 @@ body {
   position: absolute;
   top: -120px; right: -80px;
   width: 600px; height: 600px;
-  background: radial-gradient(circle, rgba(13,148,136,0.18) 0%, transparent 65%);
+  background: radial-gradient(circle, rgba(37,99,235,0.18) 0%, transparent 65%);
   border-radius: 50%;
   pointer-events: none;
 }
@@ -209,10 +209,7 @@ body {
 
 /* Floating particles */
 .lab-particle {
-  position: absolute;
-  border-radius: 50%;
-  pointer-events: none;
-  animation: lab-float 6s ease-in-out infinite;
+  display: none;
 }
 @keyframes lab-float {
   0%, 100% { transform: translateY(0px) scale(1); opacity: 0.4; }
@@ -244,11 +241,10 @@ body {
   animation: lab-fadeIn 1s ease 0.5s both;
 }
 .lab-hero-card {
-  background: rgba(255,255,255,0.07);
-  border: 1px solid rgba(255,255,255,0.12);
-  border-radius: 24px;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 20px;
   padding: 3rem 2.5rem;
-  backdrop-filter: blur(20px);
   text-align: center;
 }
 
@@ -256,9 +252,9 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  background: rgba(13,148,136,0.15);
-  border: 1px solid rgba(13,148,136,0.4);
-  color: #5eead4;
+  background: rgba(37,99,235,0.15);
+  border: 1px solid rgba(37,99,235,0.4);
+  color: #93c5fd;
   padding: 0.35rem 1rem;
   border-radius: 50px;
   font-size: 0.8rem;
@@ -269,13 +265,13 @@ body {
 }
 .lab-hero-badge-dot {
   width: 6px; height: 6px;
-  background: #5eead4;
+  background: #93c5fd;
   border-radius: 50%;
   animation: lab-pulse 2s infinite;
 }
 @keyframes lab-pulse {
   0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.5; transform: scale(1.3); }
+  50% { opacity: 1; transform: scale(1); }
 }
 @keyframes lab-fadeIn {
   from { opacity: 0; transform: translateY(10px); }
@@ -308,7 +304,7 @@ body {
   max-width: 720px;
   animation: lab-fadeIn 0.8s ease 0.3s both;
 }
-.lab-hero-desc strong { color: #5eead4; }
+.lab-hero-desc strong { color: #93c5fd; }
 
 .lab-hero-stats {
   display: flex;
@@ -342,10 +338,10 @@ body {
   width: 240px;
   height: 240px;
   border-radius: 50%;
-  border: 5px solid #5eead4;
+  border: 5px solid #93c5fd;
   margin: 0 auto 1.5rem;
   overflow: hidden;
-  box-shadow: 0 0 0 6px rgba(94,234,212,0.22), 0 6px 28px rgba(0,0,0,0.55);
+  box-shadow: 0 0 0 6px rgba(147,197,253,0.22), 0 6px 28px rgba(0,0,0,0.55);
 }
 /* 照片填满圆形容器 */
 .lab-hero-avatar img {
@@ -382,7 +378,7 @@ body {
   transition: color 0.2s;
   justify-content: center;
 }
-.lab-hero-link:hover { color: #5eead4; }
+.lab-hero-link:hover { color: #93c5fd; }
 .lab-hero-link svg { width: 14px; height: 14px; }
 
 /* Hero scroll indicator */
@@ -426,7 +422,7 @@ body {
 .lab-section-divider {
   width: 60px;
   height: 3px;
-  background: linear-gradient(90deg, var(--blue-mid), var(--teal));
+  background: var(--navy);
   border-radius: 3px;
   margin: 1rem auto 0;
 }
@@ -451,14 +447,14 @@ body {
   position: absolute;
   top: -40px; right: -40px;
   width: 200px; height: 200px;
-  background: radial-gradient(circle, rgba(13,148,136,0.2), transparent 70%);
+  background: radial-gradient(circle, rgba(37,99,235,0.2), transparent 70%);
   border-radius: 50%;
 }
 .lab-concept-tag {
   display: inline-block;
-  background: rgba(13,148,136,0.2);
-  border: 1px solid rgba(13,148,136,0.5);
-  color: #5eead4;
+  background: rgba(37,99,235,0.2);
+  border: 1px solid rgba(37,99,235,0.5);
+  color: #93c5fd;
   padding: 0.2rem 0.8rem;
   border-radius: 50px;
   font-size: 0.75rem;
@@ -480,7 +476,7 @@ body {
 }
 .lab-concept-text:last-child { margin-bottom: 0; }
 .lab-concept-highlight {
-  background: rgba(13,148,136,0.15);
+  background: rgba(37,99,235,0.15);
   border-left: 3px solid var(--teal-light);
   padding: 0.8rem 1rem;
   border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
@@ -648,7 +644,7 @@ body {
   height: 3px;
 }
 .lab-badvla-method-card.stage1::before { background: linear-gradient(90deg, var(--rose), #fb7185); }
-.lab-badvla-method-card.stage2::before { background: linear-gradient(90deg, var(--teal), #14b8a6); }
+.lab-badvla-method-card.stage2::before { background: linear-gradient(90deg, var(--teal), #3b82f6); }
 .lab-badvla-method-num {
   font-size: 0.72rem;
   font-weight: 700;
@@ -719,11 +715,11 @@ body {
   cursor: pointer;
 }
 .lab-btn-primary {
-  background: linear-gradient(135deg, var(--blue-mid), var(--teal));
+  background: var(--blue-mid);
   color: white;
-  box-shadow: 0 4px 12px rgba(13,148,136,0.3);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
-.lab-btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(13,148,136,0.4); }
+.lab-btn-primary:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(37,99,235,0.4); }
 .lab-btn-outline {
   background: white;
   color: var(--blue-mid);
@@ -791,7 +787,7 @@ body {
 }
 .lab-badvla-demo-card:hover {
   border-color: var(--teal);
-  box-shadow: 0 2px 10px rgba(13,148,136,0.12);
+  box-shadow: 0 2px 10px rgba(37,99,235,0.12);
   transform: translateY(-2px);
 }
 /* 视频容器：保持原始比例，用 contain 避免裁剪 */
@@ -927,7 +923,7 @@ body {
 }
 .lab-badvla-demo-grid.convoy-single .lab-badvla-demo-card:hover {
   border-color: var(--teal);
-  box-shadow: 0 2px 12px rgba(13,148,136,0.15);
+  box-shadow: 0 2px 12px rgba(37,99,235,0.15);
 }
 /* Label row for convoy videos */
 .lab-badvla-demo-grid.convoy-single .lab-badvla-demo-card-body {
@@ -1038,7 +1034,7 @@ body {
 .lab-results-nav:hover {
   background: #fff;
   box-shadow: 0 4px 16px rgba(0,0,0,0.18);
-  color: #0d9488;
+  color: #2563eb;
 }
 .lab-results-nav.prev { left: 10px; }
 .lab-results-nav.next { right: 10px; }
@@ -1060,7 +1056,7 @@ body {
 }
 .lab-results-dot:hover { background: #94a3b8; }
 .lab-results-dot.active {
-  background: #0d9488;
+  background: #2563eb;
   width: 24px;
   border-radius: 4px;
 }
@@ -1079,7 +1075,7 @@ body {
   color: #0f172a;
   margin-bottom: 0.6rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #14b8a6;
+  border-bottom: 2px solid #3b82f6;
   display: flex;
   align-items: center;
   gap: 0.4rem;
@@ -1091,11 +1087,11 @@ body {
   margin-bottom: 1.4rem;
   padding: 1rem 1.2rem;
   background: linear-gradient(135deg, #f0fdfa, #f8fafc);
-  border-left: 3px solid #14b8a6;
+  border-left: 3px solid #3b82f6;
   border-radius: 0 var(--radius-md) var(--radius-md) 0;
 }
 .lab-papers-intro strong {
-  color: #0d9488;
+  color: #2563eb;
   font-weight: 700;
 }
 .lab-papers-grid {
@@ -1112,8 +1108,8 @@ body {
   box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 4px 20px rgba(0,0,0,0.06);
 }
 .lab-paper-card:hover {
-  border-color: #14b8a6;
-  box-shadow: 0 8px 30px rgba(13,148,136,0.15), 0 1px 3px rgba(0,0,0,0.08);
+  border-color: #3b82f6;
+  box-shadow: 0 8px 30px rgba(37,99,235,0.15), 0 1px 3px rgba(0,0,0,0.08);
   transform: translateY(-4px);
 }
 .lab-paper-card-fig {
@@ -1181,16 +1177,16 @@ body {
   font-weight: 600;
   padding: 0.2rem 0.6rem;
   border-radius: 50px;
-  background: rgba(13,148,136,0.08);
-  color: #0d9488;
+  background: rgba(37,99,235,0.08);
+  color: #2563eb;
   text-decoration: none;
   transition: all 0.25s;
   white-space: nowrap;
-  border: 1px solid rgba(13,148,136,0.15);
+  border: 1px solid rgba(37,99,235,0.15);
 }
 .lab-paper-card-links a:hover {
-  background: rgba(13,148,136,0.18);
-  border-color: rgba(13,148,136,0.35);
+  background: rgba(37,99,235,0.18);
+  border-color: rgba(37,99,235,0.35);
 }
 @media (max-width: 1024px) {
   .lab-papers-grid { grid-template-columns: 1fr; }
@@ -1328,7 +1324,7 @@ body {
   position: absolute;
   top: -80px; right: -80px;
   width: 400px; height: 400px;
-  background: radial-gradient(circle, rgba(13,148,136,0.2), transparent 70%);
+  background: radial-gradient(circle, rgba(37,99,235,0.2), transparent 70%);
   border-radius: 50%;
 }
 .lab-join-title {
@@ -1365,7 +1361,7 @@ body {
 .lab-join-card:hover {
   background: rgba(255,255,255,0.12);
   transform: translateY(-4px);
-  border-color: rgba(13,148,136,0.4);
+  border-color: rgba(37,99,235,0.4);
 }
 .lab-join-card-icon { font-size: 2rem; margin-bottom: 0.6rem; }
 .lab-join-card-title { font-size: 1rem; font-weight: 700; margin-bottom: 0.4rem; }
@@ -1378,9 +1374,9 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  background: rgba(13,148,136,0.2);
-  border: 1px solid rgba(13,148,136,0.4);
-  color: #5eead4;
+  background: rgba(37,99,235,0.2);
+  border: 1px solid rgba(37,99,235,0.4);
+  color: #93c5fd;
   padding: 0.75rem 2rem;
   border-radius: 50px;
   font-size: 1rem;
@@ -1388,7 +1384,7 @@ body {
   text-decoration: none;
   transition: all 0.2s;
 }
-.lab-join-email:hover { background: rgba(13,148,136,0.3); transform: translateY(-2px); }
+.lab-join-email:hover { background: rgba(37,99,235,0.3); transform: translateY(-2px); }
 
 /* ─── FOOTER ─── */
 .lab-footer {
@@ -1399,7 +1395,7 @@ body {
   font-size: 0.85rem;
 }
 .lab-footer a { color: rgba(255,255,255,0.6); text-decoration: none; }
-.lab-footer a:hover { color: #5eead4; }
+.lab-footer a:hover { color: #93c5fd; }
 
 /* ─── RESPONSIVE ─── */
 @media (max-width: 1280px) {
@@ -1444,9 +1440,9 @@ body {
   <div class="lab-hero-grid"></div>
 
   <!-- Floating particles -->
-  <div class="lab-particle" style="width:6px;height:6px;background:rgba(13,148,136,0.5);top:20%;left:10%;animation-delay:0s;"></div>
+  <div class="lab-particle" style="width:6px;height:6px;background:rgba(37,99,235,0.5);top:20%;left:10%;animation-delay:0s;"></div>
   <div class="lab-particle" style="width:10px;height:10px;background:rgba(59,130,246,0.3);top:60%;left:80%;animation-delay:2s;"></div>
-  <div class="lab-particle" style="width:8px;height:8px;background:rgba(13,148,136,0.4);top:75%;left:25%;animation-delay:4s;"></div>
+  <div class="lab-particle" style="width:8px;height:8px;background:rgba(37,99,235,0.4);top:75%;left:25%;animation-delay:4s;"></div>
   <div class="lab-particle" style="width:5px;height:5px;background:rgba(59,130,246,0.4);top:35%;left:70%;animation-delay:1s;"></div>
 
   <div class="lab-hero-inner">
@@ -1488,7 +1484,7 @@ body {
       <div class="lab-hero-card">
         <div class="lab-hero-avatar">
           <img src="/images/profile.png" alt="周潘教授"
-               style="border-radius:50%;object-fit:cover;border:3px solid rgba(13,148,136,0.5);box-shadow:0 0 0 4px rgba(13,148,136,0.15);">
+               style="border-radius:50%;object-fit:cover;border:3px solid rgba(37,99,235,0.5);box-shadow:0 0 0 4px rgba(37,99,235,0.15);">
         </div>
         <div class="lab-hero-name">周　潘</div>
         <div class="lab-hero-role">Pan Zhou · 教授、博导</div>
@@ -1496,8 +1492,8 @@ body {
 
         <!-- 快速统计 -->
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.6rem;margin-bottom:1rem;">
-          <div style="background:rgba(13,148,136,0.15);border:1px solid rgba(13,148,136,0.25);border-radius:10px;padding:0.6rem 0.5rem;">
-            <div style="font-size:1.4rem;font-weight:900;color:#5eead4;line-height:1;">22K+</div>
+          <div style="background:rgba(37,99,235,0.15);border:1px solid rgba(37,99,235,0.25);border-radius:10px;padding:0.6rem 0.5rem;">
+            <div style="font-size:1.4rem;font-weight:900;color:#93c5fd;line-height:1;">22K+</div>
             <div style="font-size:0.65rem;color:rgba(255,255,255,0.5);margin-top:0.2rem;">学术引用</div>
           </div>
           <div style="background:rgba(124,58,237,0.15);border:1px solid rgba(124,58,237,0.25);border-radius:10px;padding:0.6rem 0.5rem;">
@@ -1549,15 +1545,15 @@ body {
     <!-- Left: Native Secure World Model Concept -->
     <div class="lab-about-concept">
       <div class="lab-concept-tag">🔐 全球首创</div>
-      <h2 class="lab-concept-title" style="font-size:1.6rem;">原生安全世界模型<br><span style="color:#0d9488;">Native Secure World Model</span></h2>
+      <h2 class="lab-concept-title" style="font-size:1.6rem;">原生安全世界模型<br><span style="color:#2563eb;">Native Secure World Model</span></h2>
       <p class="lab-concept-text">
         传统 AI 安全方案多采用"外挂式"防护——在模型训练完成后额外叠加安全过滤层。这种方式不仅治标不治本，更在高风险、长周期交互场景中暴露根本性缺陷。
       </p>
       <p class="lab-concept-text">
-        <strong style="color:#0d9488;">原生安全世界模型</strong>由周潘教授在全球范围内首次提出，核心理念是：
+        <strong style="color:#2563eb;">原生安全世界模型</strong>由周潘教授在全球范围内首次提出，核心理念是：
       </p>
       <p class="lab-concept-text">
-        将安全约束作为一等公民内生融入世界建模全过程，使模型在预测物理环境演化与智能体行为后果的同时，同步构建<strong style="color:#0d9488;">风险识别、违规检测、危险因果链阻断</strong>三大原生安全能力。
+        将安全约束作为一等公民内生融入世界建模全过程，使模型在预测物理环境演化与智能体行为后果的同时，同步构建<strong style="color:#2563eb;">风险识别、违规检测、危险因果链阻断</strong>三大原生安全能力。
       </p>
       <div class="lab-concept-highlight">
         ⚡ <strong>为何重要：</strong>具身智能、自动驾驶、机器人控制、LLM Agent 等系统需在真实或高风险环境中长期交互，每一步行为都关乎安全责任——必须从"基因"层面内置安全，而非事后打补丁。
@@ -1652,7 +1648,7 @@ body {
         <div class="lab-badvla-abstract-text">
           Vision-Language-Action (VLA) 模型通过端到端多模态输入直接驱动机器人决策，代表了具身智能的重要突破。然而，其紧耦合架构也催生了新型安全威胁。<strong>后门攻击</strong>（Backdoor Attack）相比传统对抗扰动更具隐蔽性、持续性，尤其在"训练即服务"（Training-as-a-Service）范式下威胁更为突出，但在 VLA 领域几乎未被探索。
           <br><br>
-          我们首次提出 <strong style="color:#1a3a6b;">BadVLA</strong>——基于目标解耦优化（Objective-Decoupled Optimization）的 VLA 后门攻击方法。该方法通过两阶段训练：<strong>① 显式特征空间分离</strong>（将触发器表征与正常输入分离）；<strong>② 条件性控制偏差</strong>（仅在触发器存在时激活，同时保持干净任务性能）。实验表明，BadVLA 在多个 VLA 基准上持续实现 <strong style="color:#0d9488;">≈100% 攻击成功率</strong>，且对输入扰动、任务迁移、模型微调均具有强鲁棒性，揭示了当前 VLA 部署的关键安全漏洞。
+          我们首次提出 <strong style="color:#1a3a6b;">BadVLA</strong>——基于目标解耦优化（Objective-Decoupled Optimization）的 VLA 后门攻击方法。该方法通过两阶段训练：<strong>① 显式特征空间分离</strong>（将触发器表征与正常输入分离）；<strong>② 条件性控制偏差</strong>（仅在触发器存在时激活，同时保持干净任务性能）。实验表明，BadVLA 在多个 VLA 基准上持续实现 <strong style="color:#2563eb;">≈100% 攻击成功率</strong>，且对输入扰动、任务迁移、模型微调均具有强鲁棒性，揭示了当前 VLA 部署的关键安全漏洞。
         </div>
       </div>
 
@@ -2145,7 +2141,7 @@ body {
         <div class="lab-badvla-abstract-text">
           本文提出了一种基于<strong style="color:#1a3a6b;">大语言模型（LLM）</strong>的多车道编队控制方法，解决动态高速公路环境中的车队协调挑战。每辆网联自动驾驶车辆（CAV）使用知识驱动的方法，根据各种场景做出<strong>实时自适应决策</strong>。
           <br><br>
-          该方法使车辆能够<strong>动态执行多种任务</strong>，包括障碍物规避、编队加入/离开以及护航编队切换，同时保持整体编队结构。我们设计了基于<strong>局部动态分布式图的交错编队控制策略</strong>，确保编队保持稳定性和灵活性。在 SUMO 仿真平台上进行了大量实验，结果表明该方法在动态环境中<strong style="color:#0d9488;">有效、鲁棒且具有高度适应性</strong>。
+          该方法使车辆能够<strong>动态执行多种任务</strong>，包括障碍物规避、编队加入/离开以及护航编队切换，同时保持整体编队结构。我们设计了基于<strong>局部动态分布式图的交错编队控制策略</strong>，确保编队保持稳定性和灵活性。在 SUMO 仿真平台上进行了大量实验，结果表明该方法在动态环境中<strong style="color:#2563eb;">有效、鲁棒且具有高度适应性</strong>。
           <br><br>
           这一工作是实验室在<strong>"原生安全世界模型"</strong>框架下的重要探索——通过将 LLM 的认知推理能力引入自动驾驶的决策与控制闭环，验证了大模型作为<strong>世界模型</strong>在物理世界动态任务中的潜力，为面向原生安全的自主智能体研究奠定了基础。
         </div>
@@ -2362,9 +2358,9 @@ body {
                 <span class="lab-paper-card-tag" style="background:#94a3b8;">Agent 安全</span>
               </div>
               <div class="lab-paper-card-title">Prompt Injection Attack to Tool Selection in LLM Agents</div>
-              <div class="lab-paper-card-authors">J. Shi et al., <span style="color:#0d9488;">Pan Zhou</span></div>
+              <div class="lab-paper-card-authors">J. Shi et al., <span style="color:#2563eb;">Pan Zhou</span></div>
               <div class="lab-paper-card-desc">
-                提出 <strong style="color:#0d9488;">ToolHijacker</strong>，首次系统化研究针对 LLM Agent 工具选择的提示注入攻击。攻击者通过构造恶意工具描述，劫持 Agent 的工具调用决策，实现对真实世界 API 的未授权访问。Agent 通过工具与世界交互，工具选择被劫持等同于<strong>世界模型对外部行动接口的信任链被打破</strong>——直接威胁原生安全世界模型的执行层安全。
+                提出 <strong style="color:#2563eb;">ToolHijacker</strong>，首次系统化研究针对 LLM Agent 工具选择的提示注入攻击。攻击者通过构造恶意工具描述，劫持 Agent 的工具调用决策，实现对真实世界 API 的未授权访问。Agent 通过工具与世界交互，工具选择被劫持等同于<strong>世界模型对外部行动接口的信任链被打破</strong>——直接威胁原生安全世界模型的执行层安全。
               </div>
               <div class="lab-paper-card-links">
                 <a href="https://arxiv.org/abs/2504.19793" target="_blank">📄 arXiv</a>
@@ -2384,9 +2380,9 @@ body {
                 <span class="lab-paper-card-tag" style="background:#94a3b8;">MLLM 后门</span>
               </div>
               <div class="lab-paper-card-title">BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models</div>
-              <div class="lab-paper-card-authors">Z. Yuan, J. Shi, <span style="color:#0d9488;">Pan Zhou</span> et al.</div>
+              <div class="lab-paper-card-authors">Z. Yuan, J. Shi, <span style="color:#2563eb;">Pan Zhou</span> et al.</div>
               <div class="lab-paper-card-desc">
-                提出 <strong style="color:#0d9488;">BadToken</strong>，首个针对多模态大语言模型（MLLM）的 Token 级后门攻击。引入 Token 替换和 Token 添加两种后门行为，在模型推理时精确操控输出。MLLM 是世界模型的关键感知组件，BadToken 证明<strong>安全必须深入模型架构内部</strong>——仅在输入层防护不足以应对 Token 级威胁。
+                提出 <strong style="color:#2563eb;">BadToken</strong>，首个针对多模态大语言模型（MLLM）的 Token 级后门攻击。引入 Token 替换和 Token 添加两种后门行为，在模型推理时精确操控输出。MLLM 是世界模型的关键感知组件，BadToken 证明<strong>安全必须深入模型架构内部</strong>——仅在输入层防护不足以应对 Token 级威胁。
               </div>
               <div class="lab-paper-card-links">
                 <a href="https://arxiv.org/abs/2503.16023" target="_blank">📄 arXiv</a>
@@ -2406,9 +2402,9 @@ body {
                 <span class="lab-paper-card-tag" style="background:#94a3b8;">LLM 后门</span>
               </div>
               <div class="lab-paper-card-title">Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models</div>
-              <div class="lab-paper-card-authors">Z. Yuan et al., <span style="color:#0d9488;">Pan Zhou</span></div>
+              <div class="lab-paper-card-authors">Z. Yuan et al., <span style="color:#2563eb;">Pan Zhou</span></div>
               <div class="lab-paper-card-desc">
-                提出 <strong style="color:#0d9488;">Merge Hijacking</strong>，首个针对 LLM 模型合并的后门攻击。攻击者构建恶意上传模型，在模型合并时将后门注入合并后的统一模型。世界模型常由多个子模型合并构建，本工作证明<strong>合并过程本身是安全攻击面</strong>——间接支持"安全需内建于训练流程全链路"的观点。
+                提出 <strong style="color:#2563eb;">Merge Hijacking</strong>，首个针对 LLM 模型合并的后门攻击。攻击者构建恶意上传模型，在模型合并时将后门注入合并后的统一模型。世界模型常由多个子模型合并构建，本工作证明<strong>合并过程本身是安全攻击面</strong>——间接支持"安全需内建于训练流程全链路"的观点。
               </div>
               <div class="lab-paper-card-links">
                 <a href="https://arxiv.org/abs/2505.23561" target="_blank">📄 arXiv</a>
@@ -2429,9 +2425,9 @@ body {
                 <span class="lab-paper-card-tag" style="background:#94a3b8;">LVLM 对抗攻击</span>
               </div>
               <div class="lab-paper-card-title">Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models</div>
-              <div class="lab-paper-card-authors">X. Cai, D. Liu, <span style="color:#0d9488;">Pan Zhou</span> et al.</div>
+              <div class="lab-paper-card-authors">X. Cai, D. Liu, <span style="color:#2563eb;">Pan Zhou</span> et al.</div>
               <div class="lab-paper-card-desc">
-                引入<strong style="color:#0d9488;">信息论视角</strong>研究 LVLM 的可迁移对抗特性，通过解耦良性依赖与对抗依赖，构建可跨模型、跨 Prompt 迁移的攻击方法。说明当前 LVLM 的安全缺陷是<strong>系统性的、根本性的</strong>，单一防御无法应对——需要从世界模型架构层面原生解决安全问题。
+                引入<strong style="color:#2563eb;">信息论视角</strong>研究 LVLM 的可迁移对抗特性，通过解耦良性依赖与对抗依赖，构建可跨模型、跨 Prompt 迁移的攻击方法。说明当前 LVLM 的安全缺陷是<strong>系统性的、根本性的</strong>，单一防御无法应对——需要从世界模型架构层面原生解决安全问题。
               </div>
               <div class="lab-paper-card-links">
                 <a href="https://openreview.net/forum?id=TyW1V1KukG" target="_blank">📄 OpenReview</a>
@@ -2451,7 +2447,7 @@ body {
                 <span class="lab-paper-card-tag" style="background:#94a3b8;">综述</span>
               </div>
               <div class="lab-paper-card-title">A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends</div>
-              <div class="lab-paper-card-authors">D. Liu et al., <span style="color:#0d9488;">Pan Zhou</span>, Y. Cheng, W. Hu</div>
+              <div class="lab-paper-card-authors">D. Liu et al., <span style="color:#2563eb;">Pan Zhou</span>, Y. Cheng, W. Hu</div>
               <div class="lab-paper-card-desc">
                 系统性综述 LVLM 攻击的全景图谱，覆盖<strong>对抗攻击、后门攻击、数据投毒、提示注入</strong>等多种攻击形式。全面梳理了"当前世界模型面临的安全威胁"，为原生安全世界模型的研究方向提供了<strong>系统性文献支撑和分类框架</strong>。
               </div>
@@ -2473,7 +2469,7 @@ body {
                 <span class="lab-paper-card-tag" style="background:#94a3b8;">世界理解基准</span>
               </div>
               <div class="lab-paper-card-title">GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding</div>
-              <div class="lab-paper-card-authors">D. Chen et al., <span style="color:#0d9488;">Pan Zhou</span></div>
+              <div class="lab-paper-card-authors">D. Chen et al., <span style="color:#2563eb;">Pan Zhou</span></div>
               <div class="lab-paper-card-desc">
                 构建 GUI 世界理解的视频基准，覆盖 6 大 GUI 场景和 8 种任务类型。GUI 操作是 Agent 与数字世界交互的核心场景，GUI-World 本质上在评测<strong>"模型对数字世界状态的理解与推理能力"</strong>——为衡量世界模型的感知-认知水平提供了关键评测基准。
               </div>
