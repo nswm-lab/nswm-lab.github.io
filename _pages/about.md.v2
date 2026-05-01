@@ -947,115 +947,6 @@ body {
   .lab-badvla-demo.convoy-demo-full { margin: 0; }
   .lab-badvla-demo-grid.convoy-single .lab-badvla-demo-video-wrap { aspect-ratio: 16 / 9; }
 }
-
-/* ─── BADVLA RESULTS CAROUSEL ─── */
-.lab-results-carousel-wrap {
-  margin-top: 2rem;
-  padding-top: 1.5rem;
-  border-top: 2px solid #e2e8f0;
-}
-.lab-results-title {
-  font-size: 0.95rem;
-  font-weight: 800;
-  color: #0f172a;
-  margin-bottom: 1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-}
-.lab-results-carousel {
-  position: relative;
-  overflow: hidden;
-  border-radius: var(--radius-md);
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-}
-.lab-results-track {
-  display: flex;
-  transition: transform 0.45s cubic-bezier(0.25, 0.8, 0.25, 1);
-  will-change: transform;
-}
-.lab-results-slide {
-  min-width: 100%;
-  flex-shrink: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 1.5rem;
-  box-sizing: border-box;
-}
-.lab-results-slide img {
-  max-width: 100%;
-  height: auto;
-  border-radius: var(--radius-sm);
-  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-  display: block;
-}
-.lab-results-caption {
-  margin-top: 0.8rem;
-  font-size: 0.78rem;
-  color: #475569;
-  line-height: 1.6;
-  text-align: center;
-  max-width: 700px;
-}
-.lab-results-nav {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  border: none;
-  background: rgba(255,255,255,0.92);
-  color: #0f172a;
-  font-size: 1.3rem;
-  font-weight: 700;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-  transition: all 0.2s;
-  z-index: 2;
-  line-height: 1;
-}
-.lab-results-nav:hover {
-  background: #fff;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
-  color: #0d9488;
-}
-.lab-results-nav.prev { left: 10px; }
-.lab-results-nav.next { right: 10px; }
-.lab-results-dots {
-  display: flex;
-  justify-content: center;
-  gap: 8px;
-  margin-top: 0.9rem;
-}
-.lab-results-dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: #cbd5e1;
-  border: none;
-  cursor: pointer;
-  transition: all 0.3s;
-  padding: 0;
-}
-.lab-results-dot:hover { background: #94a3b8; }
-.lab-results-dot.active {
-  background: #0d9488;
-  width: 24px;
-  border-radius: 4px;
-}
-@media (max-width: 768px) {
-  .lab-results-slide { padding: 1rem 0.5rem; }
-  .lab-results-nav { width: 30px; height: 30px; font-size: 1.1rem; }
-  .lab-results-nav.prev { left: 6px; }
-  .lab-results-nav.next { right: 6px; }
-}
-
 /* ─── MORE PAPERS GRID ─── */
 .lab-papers-section { margin-top: 2.5rem; }
 .lab-papers-section-title {
@@ -2078,10 +1969,6 @@ body {
       })();
       </script>
 
-    </div>
-  </div>
-</div>
-
 
 <!-- ══════════════════════════════════════════════
      SECTION 3.5: CONVOYLLM RESEARCH HIGHLIGHT
@@ -2471,10 +2358,9 @@ body {
           </div>
 
         </div>
+      </div>
 
 </div>
-
-<!-- ══════════════════════════════════════════════
      SECTION 4: RESEARCH DIRECTIONS
      ══════════════════════════════════════════════ -->
 <div class="lab-section">
