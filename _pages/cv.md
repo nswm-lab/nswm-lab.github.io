@@ -503,14 +503,8 @@ author_profile: true
   </div>
   <div class="cv-interest-tags">
     <span class="cv-interest-tag primary">🛡️ 原生安全世界模型</span>
-    <span class="cv-interest-tag primary">🤖 具身智能及安全</span>
+    <span class="cv-interest-tag primary">🤖 具身智能安全</span>
     <span class="cv-interest-tag primary">🔒 人工智能安全</span>
-    <span class="cv-interest-tag secondary">📡 隐私保护与数据安全</span>
-    <span class="cv-interest-tag secondary">🧠 对抗机器学习</span>
-    <span class="cv-interest-tag secondary">☁️ 移动边缘计算</span>
-    <span class="cv-interest-tag tertiary">👁️ 计算机视觉</span>
-    <span class="cv-interest-tag tertiary">📡 物联网安全</span>
-    <span class="cv-interest-tag tertiary">🔗 大数据分析</span>
   </div>
 </div>
 
@@ -570,7 +564,7 @@ author_profile: true
       <div class="cv-timeline-date">2020.12 – 至今</div>
       <div class="cv-timeline-title">华中科技大学 · 网络空间安全学院</div>
       <div class="cv-timeline-sub">教授、博导 · 团队负责人</div>
-      <div class="cv-timeline-desc"><ul><li>研究方向：对抗机器学习、移动边缘计算安全</li><li>晋升IEEE高级会员；IEEE TNSE副编辑</li></ul></div>
+      <div class="cv-timeline-desc"><ul><li>研究方向：具身智能安全、人工智能安全</li><li>晋升IEEE高级会员；IEEE TNSE副编辑</li></ul></div>
     </div>
     <div class="cv-timeline-item">
       <div class="cv-timeline-dot"></div>
@@ -583,14 +577,12 @@ author_profile: true
       <div class="cv-timeline-date">2019.09 – 2020.12</div>
       <div class="cv-timeline-title">华中科技大学 · 网络空间安全学院</div>
       <div class="cv-timeline-sub">副教授、博导</div>
-      <div class="cv-timeline-desc"><ul><li>主持NSFC No.61972448"协作移动边缘计算"，经费60万元，2020–2023</li></ul></div>
     </div>
     <div class="cv-timeline-item">
       <div class="cv-timeline-dot"></div>
       <div class="cv-timeline-date">2013.05 – 2019.08</div>
       <div class="cv-timeline-title">华中科技大学 · 电气与信息工程学院</div>
       <div class="cv-timeline-sub">副教授</div>
-      <div class="cv-timeline-desc"><ul><li>主持NSFC No.61401169"基于机器学习的认知无线电安全协议设计"，经费24万元，2015–2017</li></ul></div>
     </div>
     <div class="cv-timeline-item">
       <div class="cv-timeline-dot"></div>
@@ -602,79 +594,6 @@ author_profile: true
 </div>
 
 <!-- ═══ Research Projects ═══ -->
-<div class="cv-section">
-  <div class="cv-section-title">
-    <div class="cv-section-title-icon">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
-    </div>
-    主持科研项目
-  </div>
-  <table class="cv-projects-table">
-    <thead>
-      <tr>
-        <th style="width:90px">经费规模</th>
-        <th>项目名称</th>
-        <th style="width:100px">来源/性质</th>
-        <th style="width:70px">时间</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="cv-fund-tag">470万元</span></td>
-        <td>XXX多模态XXX技术研究</td>
-        <td><span class="cv-project-level gj">国家级重点</span> 中央/军科委</td>
-        <td>2022–2027</td>
-      </tr>
-      <tr>
-        <td><span class="cv-fund-tag">120万元</span></td>
-        <td>基于XXX的XXX规划技术</td>
-        <td><span class="cv-project-level gj">国家级纵向</span> 海军装备部</td>
-        <td>2024–2027</td>
-      </tr>
-      <tr>
-        <td><span class="cv-fund-tag">50万元</span></td>
-        <td>面向多模态大模型的幻觉与对齐安全性研究</td>
-        <td><span class="cv-project-level gj">国家自科基金</span> 面上项目</td>
-        <td>2025–2028</td>
-      </tr>
-      <tr>
-        <td><span class="cv-fund-tag">60万元</span></td>
-        <td>协作式移动边缘计算中的隐私保护研究</td>
-        <td><span class="cv-project-level gj">国家自科基金</span> 面上项目</td>
-        <td>2020–2023</td>
-      </tr>
-      <tr>
-        <td><span class="cv-fund-tag">20万元</span></td>
-        <td>基于联邦学习和多方安全计算的检验检测数据安全共享</td>
-        <td><span class="cv-project-level gj">国家重点研发</span> 子课题</td>
-        <td>2022–2027</td>
-      </tr>
-      <tr>
-        <td><span class="cv-fund-tag">75万元</span></td>
-        <td>智能强化辅助决策算法研究</td>
-        <td><span class="cv-project-level sj">省部级纵向</span> 中国工程物理研究院</td>
-        <td>—</td>
-      </tr>
-      <tr>
-        <td><span class="cv-fund-tag">65万元</span></td>
-        <td>基于深度学习与知识图谱的船舶领域智能问答系统研究</td>
-        <td><span class="cv-project-level sj">省部级纵向</span> 中船702研究所</td>
-        <td>—</td>
-      </tr>
-      <tr>
-        <td><span class="cv-fund-tag">40万元</span></td>
-        <td>面向人工智能模型和数据安全的研究</td>
-        <td><span class="cv-project-level hx">企业横向</span> 北京菠萝踏歌</td>
-        <td>—</td>
-      </tr>
-      <tr>
-        <td colspan="4" style="background:#fffbeb; color:#92400e; font-weight:700; font-size:0.85rem; text-align:center;">
-          🚀 近5年主持科研项目个人承担总经费超过 <strong>1500万元</strong>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 <!-- ═══ Honors & Global Recognition ═══ -->
 <div class="cv-section">

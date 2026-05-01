@@ -1358,18 +1358,6 @@ body {
         </div>
       </div>
       <div class="lab-about-info-item">
-        <div class="lab-about-info-icon">💡</div>
-        <div>
-          <div class="lab-about-info-title">代表性科研项目</div>
-          <div class="lab-about-info-desc">
-            🔹 国家级重点专项「多模态安全融合技术」· 470万元 · 2022–2027<br>
-            🔹 海军装备部项目「智能规划算法」· 120万元 · 2024–2027<br>
-            🔹 国自然面上项目「多模态大模型幻觉与对齐安全」· 50万元 · 2025–2028<br>
-            🔹 近5年主持科研总经费 <strong>超过 1,500 万元</strong>
-          </div>
-        </div>
-      </div>
-      <div class="lab-about-info-item">
         <div class="lab-about-info-icon">🎓</div>
         <div>
           <div class="lab-about-info-title">顶级期刊/会议服务</div>
