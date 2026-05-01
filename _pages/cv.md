@@ -662,6 +662,13 @@ author_profile: true
       </div>
     </li>
     <li class="cv-award-item">
+      <div class="cv-award-year">2023</div>
+      <div class="cv-award-content">
+        <div class="cv-award-name">IEEE ICTAI 最佳学生论文奖 <span style="color:#7c3aed; font-weight:700">【CCF-C类旗舰会议 · 获奖率 1.37%】</span></div>
+        <div class="cv-award-desc">第35届国际人工智能工具会议 · IEEE International Conference on Artificial Intelligence Tools</div>
+      </div>
+    </li>
+    <li class="cv-award-item">
       <div class="cv-award-year">2020</div>
       <div class="cv-award-content">
         <div class="cv-award-name">IEEE ICPR 最佳论文奖 <span style="color:#7c3aed; font-weight:700">【CCF-C · 获奖率 0.35%】</span></div>
