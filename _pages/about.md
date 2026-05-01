@@ -969,24 +969,39 @@ body {
   border-radius: var(--radius-md);
   background: #f8fafc;
   border: 1px solid #e2e8f0;
+  width: 100%;
+  height: 750px; /* 固定高度，装下所有图片 */
 }
 .lab-results-track {
   display: flex;
+  width: 100% !important; /* 强制轨道宽度为容器宽度，不被内容撑变形 */
+  height: 100%;   /* 仅此一行 */
+  flex-wrap: nowrap; /* 禁止换行，强制所有slide在一行 */
   transition: transform 0.45s cubic-bezier(0.25, 0.8, 0.25, 1);
   will-change: transform;
 }
+
 .lab-results-slide {
-  min-width: 100%;
-  flex-shrink: 0;
+  flex: 0 0 100% !important; /* 强制每个slide占100%宽度，不被挤压/拉伸 */
+  max-width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 1.5rem;
+  justify-content: center;
+  padding: 20px;
   box-sizing: border-box;
+  place-content: center !important;
 }
+
+/* 3. 图片：核心！不压缩、不溢出、完整显示、自动居中 */
 .lab-results-slide img {
-  max-width: 100%;
-  height: auto;
+  max-width: 100% !important; /* 强制图片宽度不超过容器 */
+  max-height: 100% !important; /* 强制图片高度不超过容器，给说明文字留空间 */
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important; /* 保持比例，完整显示，不裁剪 */
+  object-position: center center !important; /* 强制水平+垂直居中 */
   border-radius: var(--radius-sm);
   box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   display: block;
